@@ -1,0 +1,34 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temp files from edit sessions
+*.tmp
+*.bak
+temp_*.py
+temp_*.js
+
+# reference/ — kept versioned so the embedded data can be regenerated from source
+
+# Personal/MDA materials — kept locally, not pushed
+local_only/
+
+# Historical HTML snapshots — kept locally, superseded by index.html + git history
+raw/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Claude Code local memory (personal, not shared)
+CLAUDE.local.md

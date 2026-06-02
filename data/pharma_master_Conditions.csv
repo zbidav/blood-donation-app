@@ -1,0 +1,350 @@
+category_en,category_he,condition,relevant_families,source_deck,deck_topic,category_code,notes
+Glaucoma,גלאוקומה,,Muscarinic Agonists (Direct); AChE Inhibitors – Intermediate,3,Parasympathetic/ANS,ANS,"Pilocarpine (topical), Physostigmine/Echothiophate (topical)"
+Presbyopia,פרסביופיה (רוחק ראייה הקשור לגיל),,Muscarinic Agonists (Direct),3,Parasympathetic/ANS,ANS,Pilocarpine 1.25% (Vuity) — FDA 2021
+Myasthenia Gravis,מיאסטניה גרביס,,AChE Inhibitors – Short/Intermediate,3,Parasympathetic/ANS,ANS,"Dx: Edrophonium; Tx: Pyridostigmine, Neostigmine, Ambenonium"
+Alzheimer's Disease,מחלת אלצהיימר,,AChE Inhibitors – Alzheimer's,3,Parasympathetic/ANS,ANS,"Donepezil, Rivastigmine, Galantamine, Benzgalantamine (Zunveyl)"
+Urinary Retention (nonobstructive),אצירת שתן (ללא חסימה),,Muscarinic Agonists (Direct),3,Parasympathetic/ANS,ANS,Bethanechol
+Overactive Bladder (OAB),שלפוחית רגיזה,,Muscarinic Antagonists – OAB,3,Parasympathetic/ANS,ANS,"Oxybutynin, Tolterodine, Solifenacin, Darifenacin, Fesoterodine, Trospium"
+COPD / Bronchospasm,COPD / ברונכוספזם,,Inhaled Muscarinic Antagonists (LAMAs),3,Parasympathetic/ANS,ANS,"Ipratropium (SAMA), Tiotropium, Aclidinium, Umeclidinium, Glycopyrronium, Revefenacin"
+Parkinson's Disease,מחלת פרקינסון,,Muscarinic Antagonists – Parkinson's,3,Parasympathetic/ANS,ANS,"Benztropine, Trihexyphenidyl"
+Motion Sickness / PONV,מחלת ים / בחילות אחרי ניתוח,,Non-selective Muscarinic Antagonists,3,Parasympathetic/ANS,ANS,Scopolamine
+Bradycardia,ברדיקרדיה,,Non-selective Muscarinic Antagonists,3,Parasympathetic/ANS,ANS,Atropine
+Organophosphate Poisoning,הרעלת אורגנופוספטים,,Organophosphate Antidote + Non-selective Musc. Antagonists,3,Parasympathetic/ANS,ANS,Pralidoxime + Atropine
+Surgical Muscle Relaxation / Intubation,הרפיית שרירים / אינטובציה,,NMB – Competitive + Depolarizing,3,Parasympathetic/ANS,ANS,"Rocuronium, Vecuronium, Cisatracurium, Succinylcholine"
+NMB Reversal,היפוך חסם עצבי-שרירי,,AChE Inhibitors + Selective Relaxant Binding Agent,3,Parasympathetic/ANS,ANS,Neostigmine+Atropine (traditional); Sugammadex (for rocuronium/vecuronium)
+Primary Axillary Hyperhidrosis,הזעת יתר ראשונית,,Muscarinic Antagonists – Topical,3,Parasympathetic/ANS,ANS,"Glycopyrronium topical (Qbrexza 2018), Sofpironium (Sofdra 2024)"
+Xerostomia / Dry Mouth,יובש בפה,,Muscarinic Agonists (Direct),3,Parasympathetic/ANS,ANS,Pilocarpine (oral); Cevimeline
+GI / Bladder Atony,אטוניה של מעי/שלפוחית,,AChE Inhibitors – Intermediate,3,Parasympathetic/ANS,ANS,"Physostigmine, Neostigmine"
+Anaphylaxis / Cardiac Arrest,אנפילקסיס / דום לב,,Non-selective α/β Agonists,4,Sympathetic/Adrenergic,ANS,Epinephrine (first-line)
+Shock (Septic/Cardiogenic),הלם (ספטי/קרדיוגני),,β1-Agonists; Non-selective α/β,4,Sympathetic/Adrenergic,ANS,"Dobutamine, Dopamine, Norepinephrine"
+Asthma (Acute),אסטמה (התקף חריף),,β2-Agonists – SABA,4,Sympathetic/Adrenergic,ANS,"Albuterol, Terbutaline"
+Asthma/COPD (Maintenance),אסטמה/COPD (תחזוקה),,β2-Agonists – LABA/ULABA,4,Sympathetic/Adrenergic,ANS,"Salmeterol, Formoterol; Indacaterol, Olodaterol, Vilanterol (combos)"
+Hypertension,יתר לחץ דם,,α2-Agonists; α1-Blockers; β-Blockers; α+β Blockers,4,Sympathetic/Adrenergic,ANS,"Clonidine, Methyldopa, Prazosin, Propranolol, Metoprolol, Labetalol, Carvedilol"
+"Hypertension (Severe, IV)","יתר ל""ד חמור",,D1-Agonists,4,Sympathetic/Adrenergic,ANS,Fenoldopam (IV)
+Hypertension in Pregnancy,"יתר ל""ד בהריון",,α2-Agonists; α+β Blockers,4,Sympathetic/Adrenergic,ANS,"Methyldopa, Labetalol"
+BPH (Urinary Symptoms),BPH (תסמיני השתנה),,α1-Blockers (α1A-selective),4,Sympathetic/Adrenergic,ANS,"Tamsulosin, Silodosin, Alfuzosin; also Terazosin, Doxazosin"
+Overactive Bladder (OAB),שלפוחית רגיזה,,β3-Agonists,4,Sympathetic/Adrenergic,ANS,Mirabegron; Vibegron (2020)
+Pheochromocytoma,פאוכרומוציטומה,,Non-selective α-Blockers,4,Sympathetic/Adrenergic,ANS,"Phenoxybenzamine (preop), Phentolamine"
+Nasal Congestion,גודש באף,,α1-Agonists,4,Sympathetic/Adrenergic,ANS,"Oxymetazoline, Phenylephrine (topical); Ephedrine, Pseudoephedrine"
+Glaucoma,גלאוקומה,,β-Blockers (topical); α2-Agonists (topical),4,Sympathetic/Adrenergic,ANS,"Timolol, Betaxolol; Brimonidine, Apraclonidine"
+Angina Pectoris,תעוקת חזה,,β1-Selective Blockers,4,Sympathetic/Adrenergic,ANS,"Atenolol, Metoprolol, Propranolol"
+Heart Failure (Chronic),אי-ספיקת לב כרונית,,β1-Selective Blockers; α+β Blockers,4,Sympathetic/Adrenergic,ANS,"Metoprolol, Bisoprolol, Carvedilol"
+Migraine Prophylaxis,מניעת מיגרנה,,Non-selective β-Blockers,4,Sympathetic/Adrenergic,ANS,Propranolol
+ADHD / Narcolepsy,ADHD / נרקולפסיה,,Indirect Sympathomimetics,4,Sympathetic/Adrenergic,ANS,"Amphetamine, Methylphenidate"
+NE Extravasation,דליפת NE חוץ-ורידית,,Non-selective α-Blockers,4,Sympathetic/Adrenergic,ANS,Phentolamine (local injection)
+"Acute severe pain (trauma, postop)","כאב חריף חמור (טראומה, פוסט-ניתוחי)",,Strong µ-agonists; Biased µ-agonists; NaV1.8 inhibitors,5,Opioids,PAIN,Fentanyl/morphine IV; oliceridine for hospital use; suzetrigine as non-opioid alternative
+Chronic cancer pain,כאב כרוני בסרטן,,Strong µ-agonists (all routes); Partial agonists,5,Opioids,PAIN,WHO pain ladder; morphine/oxycodone/fentanyl TD; methadone for refractory
+Neuropathic pain,כאב נוירופתי,,Diphenylheptanes (methadone); Atypical opioids,5,Opioids,PAIN,Methadone S-isomer NMDA antagonism; tapentadol NRI component
+Moderate pain,כאב בינוני,,Weak µ-agonists; Atypical opioids; Mixed agonist-antagonists,5,Opioids,PAIN,"Codeine, tramadol, tapentadol; pentazocine"
+Opioid use disorder (OUD),התמכרות לאופיואידים,,Partial agonists; Antagonists; Diphenylheptanes,5,Opioids,PAIN,Buprenorphine (Suboxone) or methadone maintenance; naltrexone (Vivitrol) for relapse prevention
+Alcohol use disorder (AUD),התמכרות לאלכוהול,,Antagonists,5,Opioids,PAIN,Naltrexone (ReVia/Vivitrol)
+Opioid overdose,מנת יתר אופיואידים,,Opioid antagonists,5,Opioids,PAIN,Naloxone IV/nasal (Narcan); nalmefene nasal (Opvee); ICU monitoring needed — naloxone t½ < most opioids
+Opioid-induced constipation (OIC),עצירות מושרית אופיואידים,,⭐ PAMORAs,5,Opioids,PAIN,"Methylnaltrexone, naloxegol, naldemedine; do not affect central analgesia"
+Postoperative ileus,אילאוס פוסט-ניתוחי,,⭐ PAMORAs,5,Opioids,PAIN,Alvimopan (hospital-only)
+CKD-associated pruritus,גרד הקשור למחלת כליות כרונית,,⭐ Peripheral κ-agonists,5,Opioids,PAIN,Difelikefalin (Korsuva) IV at end of hemodialysis
+Diarrhea,שלשול,,Peripheral µ-agonists,5,Opioids,PAIN,Loperamide (OTC); diphenoxylate + atropine (Lomotil)
+Cough suppression,דיכוי שיעול,,Opioid antitussives; Weak µ-agonists,5,Opioids,PAIN,Dextromethorphan (OTC); codeine
+Anesthesia (adjunct/induction),הרדמה (עזר/אינדוקציה),,Phenylpiperidines,5,Opioids,PAIN,"Fentanyl, alfentanil, sufentanil, remifentanil"
+Chemotherapy-induced nausea/vomiting,בחילות/הקאות מכימותרפיה,,Synthetic cannabinoids,5,Opioids,PAIN,Dronabinol (Marinol); nabilone (Cesamet)
+Appetite stimulation (HIV/AIDS),עידוד תיאבון (HIV/AIDS),,Synthetic cannabinoids,5,Opioids,PAIN,Dronabinol
+Labor analgesia,שיכוך כאב בלידה,,Strong µ-agonists,5,Opioids,PAIN,Meperidine (limited); fentanyl epidural; morphine
+Pulmonary edema (acute),בצקת ריאות חריפה,,Strong µ-agonists,5,Opioids,PAIN,IV morphine — vasodilation ↓preload/afterload + anxiolysis
+Pain (mild-moderate),כאב קל עד בינוני,,NSAIDs (all); Acetaminophen,6,NSAIDs/DMARDs/Migraine,PAIN,"First-line: ibuprofen, naproxen, acetaminophen"
+Fever,חום,,NSAIDs; Acetaminophen,6,NSAIDs/DMARDs/Migraine,PAIN,Aspirin CI in children (Reye); acetaminophen safe in children + pregnancy
+Inflammation (general),דלקת (כללית),,NSAIDs (high-dose),6,NSAIDs/DMARDs/Migraine,PAIN,COX-2 selective for GI-risk patients; acetaminophen has NO anti-inflammatory effect
+Rheumatoid arthritis,דלקת מפרקים שיגדונית,,NSAIDs; DMARDs; TNF inhibitors; Other biologics; JAK inhibitors,6,NSAIDs/DMARDs/Migraine,PAIN,NSAID for symptoms; DMARDs for disease modification; biologics for refractory
+Osteoarthritis,אוסטאוארטריטיס,,NSAIDs; Acetaminophen; COX-2 selective,6,NSAIDs/DMARDs/Migraine,PAIN,"Topical diclofenac, oral NSAIDs; celecoxib if GI risk"
+Gout — acute flare,שיגדון — התקף חריף,,NSAIDs (indomethacin); Colchicine; Glucocorticoids,6,NSAIDs/DMARDs/Migraine,PAIN,Indomethacin first-line; colchicine less used today
+Gout — prophylaxis,שיגדון — מניעה,,XO Inhibitors; Uricosurics; Uricase,6,NSAIDs/DMARDs/Migraine,PAIN,Allopurinol first-line; febuxostat if intolerant; pegloticase last-line
+Glaucoma,גלאוקומה,,PGF2α Analogs,6,NSAIDs/DMARDs/Migraine,PAIN,"Latanoprost, travoprost, bimatoprost; ↓IOP by ↑uveoscleral outflow"
+Pulmonary arterial hypertension,יתר לחץ דם ריאתי,,Prostacyclin Analogs,6,NSAIDs/DMARDs/Migraine,PAIN,Epoprostenol IV; iloprost inhaled; treprostinil SC/IV/inhaled/PO
+Asthma prophylaxis,מניעת אסטמה,,CysLT1 Antagonists; 5-LOX Inhibitors,6,NSAIDs/DMARDs/Migraine,PAIN,Montelukast (Singulair); zileuton (compliance issues)
+Migraine — acute,מיגרנה — התקף חריף,,Triptans; Ergots; NSAIDs; ⭐ Gepants; ⭐ Ditans,6,NSAIDs/DMARDs/Migraine,PAIN,Triptans first-line; gepants for CV patients; lasmiditan for CV patients; NSAIDs as adjunct
+Migraine — prevention,מיגרנה — מניעה,,⭐ CGRP mAbs; ⭐ Gepants; β-blockers; TCA; Anticonvulsants,6,NSAIDs/DMARDs/Migraine,PAIN,CGRP mAbs = first migraine-specific preventive class; rimegepant/atogepant oral alternatives
+PDA maintenance (neonates),שמירה על PDA (יילודים),,PGE1 Analogs,6,NSAIDs/DMARDs/Migraine,PAIN,Alprostadil IV
+PDA closure (neonates),סגירת PDA (יילודים),,NSAIDs (Indomethacin),6,NSAIDs/DMARDs/Migraine,PAIN,Indomethacin IV in premature neonates
+GI cytoprotection (NSAID users),הגנה על קיבה במטופלי NSAID,,PGE1 Analogs,6,NSAIDs/DMARDs/Migraine,PAIN,Misoprostol (Cytotec); CI: pregnancy
+Dysmenorrhea,דיסמנוריאה,,NSAIDs,6,NSAIDs/DMARDs/Migraine,PAIN,Mefenamic acid; ibuprofen; naproxen
+Antiplatelet (cardiovascular),נוגד טסיות (קרדיווסקולרי),,Salicylates,6,NSAIDs/DMARDs/Migraine,PAIN,Low-dose aspirin (75-100mg/day); CI: bleeding disorders
+IBD,מחלת מעי דלקתית,,DMARDs; TNF Inhibitors; JAK Inhibitors,6,NSAIDs/DMARDs/Migraine,PAIN,"Sulfasalazine, infliximab, adalimumab, tofacitinib, upadacitinib"
+Thrombosis / Embolism,פקקת / תסחיף,,"Anticoagulants, Antiplatelets, Thrombolytics",7,Coagulation,COAG,"DVT, PE, acute ischemic stroke, MI"
+Atrial Fibrillation,פרפור עליות,,"Vitamin K Antagonists, DOACs",7,Coagulation,COAG,Chronic anticoagulation to prevent stroke
+Post-cardiac catheterization,לאחר צנתור לב,,"ADP Antagonists, GP IIb/IIIa Antagonists, Heparins",7,Coagulation,COAG,Dual antiplatelet therapy + heparin
+Hemophilia,המופיליה,,Coagulation Factors,7,Coagulation,COAG,Factor VIII (type A) or IX (type B) replacement
+Vitamin K Deficiency,חסר ויטמין K,,Vitamin K1,7,Coagulation,COAG,"Treatment, not prevention"
+Pregnancy (anticoagulation),הריון (נוגדי קרישה),,LMWH (drug of choice),7,Coagulation,COAG,Warfarin contraindicated (teratogenic); LMWH does not cross placenta
+Heparin-Induced Thrombocytopenia (HIT),טרומבוציטופניה מושרת הפרין,,"Direct Thrombin Inhibitors, Fondaparinux",7,Coagulation,COAG,Switch from heparin to alternative anticoagulant
+Hypercholesterolemia (Elevated LDL),היפרכולסטרולמיה (LDL גבוה),,"HLP_F01, HLP_F02, HLP_F03, HLP_F07, HLP_F08, HLP_F09",8,Hyperlipidemia,METAB,סטטינים = קו ראשון
+Hypertriglyceridemia (Elevated TG),היפרטריגליצרידמיה (TG גבוה),,"HLP_F04, HLP_F05, HLP_F06, HLP_F10",8,Hyperlipidemia,METAB,פיבראטים = קו ראשון להורדת TG
+Mixed Dyslipidemia,דיסליפידמיה מעורבת,,"HLP_F01, HLP_F04, HLP_F05",8,Hyperlipidemia,METAB,שילוב תרופות נדרש לעיתים
+Low HDL Cholesterol,HDL נמוך,,"HLP_F05, HLP_F04",8,Hyperlipidemia,METAB,ניאצין הכי יעילה להעלאת HDL
+Coronary Heart Disease,מחלת עורקים כליליים (CHD),,"HLP_F01, HLP_F06, HLP_F10",8,Hyperlipidemia,METAB,מניעה משנית
+Heterozygous Familial Hypercholesterolemia,היפרכולסטרולמיה משפחתית הטרוזיגוטית (HeFH),,"HLP_F01, HLP_F03, HLP_F07, HLP_F08, HLP_F09",8,Hyperlipidemia,METAB,לרוב צריך שילוב; PCSK9 כשסטטין לא מספיק
+Homozygous Familial Hypercholesterolemia,היפרכולסטרולמיה משפחתית הומוזיגוטית (HoFH),,"HLP_F01, HLP_F03, HLP_F07, HLP_F11",8,Hyperlipidemia,METAB,evinacumab — מנגנון בלתי-תלוי ב-LDL-R
+Atherosclerosis,אטרוסקלרוזיס / טרשת עורקים,,"HLP_F01, HLP_F07, HLP_F10",8,Hyperlipidemia,METAB,מניעה ראשונית ומשנית
+Fredrickson Type I,Fredrickson Type I (Hyperchylomicronemia),,—,8,Hyperlipidemia,METAB,אין טיפול תרופתי! דיאטה דלת שומן בלבד
+Fredrickson Type IIA,Fredrickson Type IIA (Familial Hypercholesterolemia),,"HLP_F01, HLP_F02, HLP_F05",8,Hyperlipidemia,METAB,דיאטה + כולסטיראמין/ניאצין/סטטין
+Fredrickson Type IIB,Fredrickson Type IIB (Combined),,"HLP_F01, HLP_F02, HLP_F05",8,Hyperlipidemia,METAB,דומה ל-IIA; VLDL ו-LDL מוגברים
+Fredrickson Type III,Fredrickson Type III (Dysbetalipoproteinemia),,"HLP_F01, HLP_F04, HLP_F05",8,Hyperlipidemia,METAB,IDL מוגבר; ניאצין/פנופיבראט/סטטין
+Fredrickson Type IV,Fredrickson Type IV (Hypertriglyceridemia),,"HLP_F04, HLP_F05",8,Hyperlipidemia,METAB,VLDL מוגבר; ניאצין ו/או פנופיבראט
+Fredrickson Type V,Fredrickson Type V (Mixed Hypertriglyceridemia),,"HLP_F04, HLP_F05, HLP_F01",8,Hyperlipidemia,METAB,Chylomicrons + VLDL; ניאצין/פנופיבראט/סטטין
+Residual Cardiovascular Risk,סיכון קרדיו-וסקולרי מוגבר שיורי (Residual CV Risk),,HLP_F10,8,Hyperlipidemia,METAB,icosapent ethyl עם TG מוגבר למרות סטטין
+Parkinson's Disease,מחלת פרקינסון,,"CNS_F01–F06, CNS_F10, CNS_F11",9,Parkinson/Alzheimer/ALS,CNS,מחלה נוירודגנרטיבית פרוגרסיבית; TRAP; אין דמנציה (בשלבים מוקדמים); 70% נוירונים אבודים בזמן אבחון
+Drug-Induced Parkinsonism,פרקינסוניזם מושרה תרופתית,,CNS_F06,9,Parkinson/Alzheimer/ALS,CNS,מאנטיפסיכוטים (חוסמי D2); אנטיכולינרגיים = טיפול; L-Dopa אסור עם אנטיפסיכוטים
+MPTP-Induced Parkinsonism,פרקינסון מושרה סמים (MPTP),,CNS_F01–F06,9,Parkinson/Alzheimer/ALS,CNS,MPTP → MAO-B → MPP⁺ → הרס נוירונים דופמינרגיים; שקף 38
+Levodopa-Induced Dyskinesia,דיסקינזיה מ-L-Dopa,,CNS_F05,9,Parkinson/Alzheimer/ALS,CNS,amantadine מאושר לטיפול בדיסקינזיה; הפחתת מינון L-Dopa
+Parkinson's Disease Psychosis,פסיכוזה בפרקינסון,,CNS_F12,9,Parkinson/Alzheimer/ALS,CNS,pimavanserin — אינו מחמיר סימפטומים מוטוריים
+Alzheimer's Disease,מחלת אלצהיימר,,"CNS_F07, CNS_F08, CNS_F13",9,Parkinson/Alzheimer/ALS,CNS,נוירודגנרציה; משקעי Aβ + neurofibrillary tangles; אובדן נוירונים כולינרגיים; דמנציה
+Amyotrophic Lateral Sclerosis (ALS),ALS (טרשת צידית אמיוטרופית),,"CNS_F09, CNS_F14",9,Parkinson/Alzheimer/ALS,CNS,מחלת נוירון מוטורי; riluzole + edaravone; tofersen ל-SOD1
+Hyperprolactinemia,היפרפרולקטינמיה,,CNS_F04,9,Parkinson/Alzheimer/ALS,CNS,bromocriptine — חפיפה עם אנדוקרינולוגיה
+Restless Legs Syndrome,תסמונת רגליים חסרות מנוחה (RLS),,CNS_F04,9,Parkinson/Alzheimer/ALS,CNS,"pramipexole, ropinirole, rotigotine — off-label / approved"
+Generalized Anxiety Disorder,הפרעת חרדה מוכללת (GAD),,"ANX_F01, ANX_F06",10,Anxiolytics/Hypnotics,CNS,BZ לטווח קצר; buspirone לטווח ארוך; SSRIs = קו ראשון (דק נוגדי דיכאון)
+Panic Disorder,הפרעת פאניקה,,ANX_F01,10,Anxiolytics/Hypnotics,CNS,alprazolam = בחירה ראשונה; SSRIs לטווח ארוך
+Insomnia,אינסומניה (הפרעות שינה),,"ANX_F01, ANX_F04, ANX_F05, ANX_F07, ANX_F09",10,Anxiolytics/Hypnotics,CNS,Z-drugs / ramelteon לטווח קצר-בינוני; DORAs חדשים; BZ היפנוטיים
+Seizures / Epilepsy (BZ use),עוויתות / אפילפסיה (שימוש BZ),,"ANX_F01, ANX_F03",10,Anxiolytics/Hypnotics,CNS,"clonazepam, diazepam, lorazepam; phenobarbital כקו אחרון; חפיפה עם דק אפילפסיה"
+Alcohol Withdrawal,גמילת אלכוהול,,ANX_F01,10,Anxiolytics/Hypnotics,CNS,"diazepam, chlordiazepoxide; למניעת עוויתות ודליריום"
+Muscle Spasticity,ספסטיות שרירים,,ANX_F01,10,Anxiolytics/Hypnotics,CNS,"diazepam; טרשת נפוצה, שיתוק מוחין"
+Pre-Anesthesia / Procedural Sedation,פרה-אנסתזיה / הרגעה לפרוצדורות,,"ANX_F01, ANX_F03",10,Anxiolytics/Hypnotics,CNS,midazolam IV; thiopental (הרדמה IV); amnesia אנטרוגרדית
+Benzodiazepine Overdose,מנת יתר של בנזודיאזפינים,,ANX_F02,10,Anxiolytics/Hypnotics,CNS,flumazenil IV; t½ קצר — ניטור ממושך
+Performance Anxiety,חרדת ביצוע (Performance Anxiety),,ANX_F08,10,Anxiolytics/Hypnotics,CNS,propranolol; תסמינים פריפריים בלבד
+Social Phobia,פוביה חברתית,,"ANX_F01, ANX_F06, ANX_F08",10,Anxiolytics/Hypnotics,CNS,SSRIs קו ראשון; BZ/buspirone/β-blockers משלימים
+Non-24-Hour Sleep-Wake Disorder,Non-24-Hour Sleep-Wake Disorder,,ANX_F05,10,Anxiolytics/Hypnotics,CNS,tasimelteon (ATC); עיוורים
+Major Depressive Disorder,דיכאון,,"SSRIs (1st line), SNRIs, TCAs, MAOIs, Atypicals, NMDA antagonists",11,Antidepressants,CNS,SSRIs first-line; 2-12 weeks to onset
+Bipolar Disorder / Mania,הפרעה בי-פולארית / מאניה,,"Lithium, Anticonvulsants, Atypical antipsychotics",11,Antidepressants,CNS,Lithium effective 60-80%; narrow TI; monitor thyroid
+Generalized Anxiety Disorder (GAD),חרדה מוכללת (GAD),,"SSRIs, SNRIs",11,Antidepressants,CNS,
+OCD,הפרעה טורדנית-כפייתית (OCD),,"SSRIs, Clomipramine (TCA)",11,Antidepressants,CNS,Clomipramine is first-line TCA for OCD
+PTSD,הלם פוסט-טראומטי (PTSD),,SSRIs,11,Antidepressants,CNS,
+Panic Disorder,הפרעת פאניקה,,SSRIs,11,Antidepressants,CNS,
+Bulimia Nervosa,בולימיה,,SSRIs (Fluoxetine),11,Antidepressants,CNS,Bupropion contraindicated in bulimia
+Neuropathic Pain,כאב נוירופתי,,"SNRIs (Duloxetine), TCAs (Amitriptyline)",11,Antidepressants,CNS,SNRIs also for fibromyalgia
+Insomnia (secondary),אינסומניה (משנית),,"Trazodone, Mirtazapine, TCAs (Doxepin)",11,Antidepressants,CNS,Trazodone low-dose is widely used
+Smoking Cessation,גמילה מעישון,,Bupropion (Zyban),11,Antidepressants,CNS,
+Postpartum Depression,דיכאון לאחר לידה,,"Brexanolone, Zuranolone, SSRIs",11,Antidepressants,CNS,Brexanolone IV; Zuranolone oral
+Treatment-Resistant Depression,דיכאון עמיד לטיפול,,"Esketamine, MAOIs, DXM/Bupropion",11,Antidepressants,CNS,Esketamine intranasal; MAOIs last-line
+Schizophrenia,סכיזופרניה,,"SGA (1st line), FGA (2nd line), Clozapine (last line)",12,Antipsychotics,CNS,"1% prevalence; positive symptoms = ↑DA, negative = ↓DA"
+Tourette's Syndrome,סנדרום טורט,,"Pimozide, Risperidone, Haloperidol",12,Antipsychotics,CNS,Vocal/motor tics
+Bipolar Disorder (adjunct),הפרעה בי-פולארית (עזר),,"SGA (Olanzapine, Quetiapine, Aripiprazole, Lurasidone)",12,Antipsychotics,CNS,Adjunct to mood stabilizers
+Chemotherapy-Induced Nausea,בחילות/הקאות מכימותרפיה,,"Haloperidol, Prochlorperazine",12,Antipsychotics,CNS,H1 blockade → antiemetic effect
+Acute Agitation / Sedation,הרגעה חריפה,,Various FGA/SGA,12,Antipsychotics,CNS,PO or LAI routes
+Autism-Related Behavioral Issues,הפרעות התנהגות באוטיזם,,"Risperidone, Aripiprazole",12,Antipsychotics,CNS,
+Depression (adjunct),דיכאון (טיפול עזר),,"Aripiprazole, Brexpiprazole, Quetiapine",12,Antipsychotics,CNS,Augmentation of antidepressants
+Parkinson's Disease Psychosis,פסיכוזה במחלת פרקינסון,,Pimavanserin,12,Antipsychotics,CNS,No D2 blockade — won't worsen motor symptoms
+Focal Epilepsy (partial),אפילפסיה פוקלית (חלקית),,"Lamotrigine, Levetiracetam, Topiramate (1st); Carbamazepine, Lacosamide, Pregabalin, Zonisamide (2nd); Gabapentin (elderly)",13,Antiepileptics,CNS,
+Generalized Tonic-Clonic,התקפי טוני-קלוני מוכללים,,"Lamotrigine, Levetiracetam, Topiramate (1st); Divalproex, Zonisamide (2nd)",13,Antiepileptics,CNS,"Phenytoin, Carbamazepine also effective but NOT for absence"
+Absence Seizures,התקפי absence,,"Divalproex, Lamotrigine (1st); Ethosuximide (2nd); Levetiracetam, Topiramate, Zonisamide (3rd)",13,Antiepileptics,CNS,Phenytoin & Carbamazepine CONTRAINDICATED
+Myoclonic Seizures,התקפים מיוקלוניים,,"Divalproex, Levetiracetam (1st); Lamotrigine, Topiramate (2nd); BZDs, Zonisamide (3rd)",13,Antiepileptics,CNS,
+Status Epilepticus,סטטוס אפילפטיקוס,,BZDs — Lorazepam/Diazepam IV (1st); Fosphenytoin (2nd); Barbiturates (3rd),13,Antiepileptics,CNS,Life-threatening; >30 min continuous seizure
+Lennox-Gastaut Syndrome,תסמונת לנוקס-גאסטו,,"Clobazam, Rufinamide, Felbamate; Cannabidiol (CBD)",13,Antiepileptics,CNS,Severe childhood epilepsy
+Dravet Syndrome,תסמונת דרווה,,"Cannabidiol (CBD), Fenfluramine; Valproate, Clobazam",13,Antiepileptics,CNS,Severe childhood epilepsy
+Bipolar Disorder (mood stabilizer),הפרעה בי-פולארית (מייצב מצב רוח),,"Valproate, Lamotrigine, Carbamazepine",13,Antiepileptics,CNS,Alternative to Lithium (cross-ref deck 11)
+Neuropathic Pain,כאב נוירופתי,,"Gabapentin, Pregabalin, Carbamazepine (trigeminal neuralgia)",13,Antiepileptics,CNS,Cross-ref with NSAID/pain deck
+Epilepsy in Pregnancy,אפילפסיה בהריון,,Carbamazepine (drug of choice); high-dose folic acid mandatory,13,Antiepileptics,CNS,Teratogenic risk 2-3x; Valproate worst for IQ; must continue treatment
+Surgery,ניתוח,General surgery requiring anesthesia,All general anesthetics; NMBs; opioid anesthetics,14,Anesthetics,ANES,"MDA deferral by procedure type, not by anesthetic agent"
+Dental,טיפולי שיניים,Dental procedures with local anesthesia,Local Anesthetics — Amides; Local Anesthetics — Esters,14,Anesthetics,ANES,Typically 24-48h deferral if no infection; lidocaine + epinephrine standard
+Cardiac,לב,Coronary artery disease / cardiac surgery,Etomidate; Opioid Anesthetics; Dexmedetomidine,14,Anesthetics,ANES,Etomidate preferred for CV stability; ketamine contraindicated in HTN
+Respiratory,נשימה,Asthma / bronchospasm,Ketamine; Sevoflurane; Halothane,14,Anesthetics,ANES,Ketamine = bronchodilator; thiopental contraindicated (bronchospasm); isoflurane irritating
+Neuromuscular,נוירו-מוסקולרי,Myasthenia gravis / neuromuscular disease,Non-depolarizing NMBs (with caution),14,Anesthetics,ANES,Extreme sensitivity to NMBs; succinylcholine resistance
+Malignant Hyperthermia,היפרתרמיה ממאירה,Malignant hyperthermia susceptibility,Volatile Anesthetics; Depolarizing NMBs,14,Anesthetics,ANES,Genetic predisposition; avoid halothane + succinylcholine; treat with dantrolene
+Pediatric,ילדים,Pediatric anesthesia,Sevoflurane; Halothane; Ketamine,14,Anesthetics,ANES,Sevoflurane/halothane non-irritating for mask induction; ketamine for short procedures
+ICU Sedation,סדציה בטיפול נמרץ,ICU sedation,Propofol; Dexmedetomidine; Benzodiazepines,14,Anesthetics,ANES,Dexmedetomidine preferred (no respiratory depression); propofol infusion syndrome risk
+Pain Management,ניהול כאב,Acute/chronic pain requiring nerve blocks,"Local Anesthetics — Amides (bupivacaine, ropivacaine)",14,Anesthetics,ANES,Long-acting amides for epidural/nerve blocks; combined with epinephrine
+Allergy,אלרגיה,Allergic rhinitis / hay fever,H1 1st + 2nd Generation,15,Antihistamines (H1),ALRG,"2nd gen preferred; better for prevention than treatment; oral, nasal spray, eye drops"
+Allergy,אלרגיה,Urticaria / skin allergies / pruritus,H1 1st + 2nd Generation,15,Antihistamines (H1),ALRG,2nd gen first-line; 1st gen diphenhydramine for acute reactions
+Allergy,אלרגיה,Anaphylaxis (adjunct),H1 1st Generation,15,Antihistamines (H1),ALRG,Epinephrine is primary treatment; antihistamines are adjunctive only
+GI / Motion,עיכול / תנועה,Motion sickness / nausea,H1 1st Generation,15,Antihistamines (H1),ALRG,"Block H1 + M1 in brain; cyclizine, dimenhydrinate, meclizine; take before travel"
+CNS,"מע""מ",Insomnia (not first-line),H1 1st Generation,15,Antihistamines (H1),ALRG,"Diphenhydramine, doxylamine; OTC use; tolerance develops; not recommended long-term"
+Anesthesia,הרדמה,Preanesthetic medication,H1 1st Generation,15,Antihistamines (H1),ALRG,"Cross-ref deck 14; prevent allergic reactions during surgery; promethazine, hydroxyzine"
+Appetite,תיאבון,Appetite stimulation,H1 1st Generation (cyproheptadine),15,Antihistamines (H1),ALRG,Serotonin antagonism → increased appetite; used in children and cachexia
+Upper GI,GI עליון,Peptic ulcer (H. pylori),PPIs + Antibiotics (triple/quad therapy); H2 Blockers; Mucosal Protective,16,GI Drugs,GI,Standard: 2 antibiotics + PPI; bismuth in quadruple therapy
+Upper GI,GI עליון,GERD / Heartburn,PPIs (first-line); H2 Blockers; Antacids,16,GI Drugs,GI,PPI 30-60 min before breakfast; H2 blocker at night; antacids for acute relief
+Upper GI,GI עליון,NSAID-induced gastropathy,Prostaglandin Analogs (misoprostol); PPIs,16,GI Drugs,GI,Misoprostol co-prescribed with chronic NSAIDs; cross-ref deck 06
+Upper GI,GI עליון,Zollinger-Ellison syndrome,PPIs (high-dose),16,GI Drugs,GI,Gastrin-secreting tumor; requires high-dose acid suppression
+Lower GI,GI תחתון,Diarrhea (acute/chronic),Antimotility Agents; Adsorbents; Bismuth,16,GI Drugs,GI,Loperamide first-line OTC; diphenoxylate+atropine Rx; not in children
+Lower GI,GI תחתון,Constipation (chronic),Bulk Laxatives; Osmotic Laxatives; Stimulant Laxatives; Lubiprostone; GC-C Agonists,16,GI Drugs,GI,Start with bulk/osmotic; stimulants for short-term; lubiprostone/linaclotide for IBS-C
+Lower GI,GI תחתון,Opioid-induced constipation,Senna (with opioids); PAMORA (naloxegol),16,GI Drugs,GI,Senna standard co-prescription; naloxegol for refractory cases; cross-ref deck 05
+Lower GI,GI תחתון,IBS (Irritable Bowel Syndrome),Dicyclomine; Loperamide (IBS-D); Linaclotide (IBS-C); Lubiprostone (IBS-C),16,GI Drugs,GI,Antispasmodics for cramping; subtype-specific treatment
+Hepatic,כבדי,Hepatic encephalopathy,Lactulose,16,GI Drugs,GI,Reduces ammonia absorption in gut; not primarily a laxative use
+Respiratory,נשימה,Asthma — acute attack,SABA (first-line); systemic corticosteroids; ipratropium (severe),17,Respiratory,RESP,Albuterol rescue; add oral prednisone if severe
+Respiratory,נשימה,Asthma — chronic maintenance,ICS (cornerstone); LABA+ICS combos; Leukotriene Modifiers; Biologics (severe),17,Respiratory,RESP,Step-up therapy: ICS → ICS+LABA → add biologic; LABA never alone in asthma
+Respiratory,נשימה,COPD — maintenance,LAMA (first-line); LABA; LABA+LAMA; Triple therapy; PDE4 inhibitors,17,Respiratory,RESP,Tiotropium cornerstone; add LABA; ICS only if eosinophilic/frequent exacerbations
+Respiratory,נשימה,Allergic rhinitis,Intranasal ICS; H1 Antihistamines; α-Agonists (nasal); Leukotriene Modifiers; Cromolyn,17,Respiratory,RESP,Intranasal ICS most effective; antihistamines for mild; decongestants short-term only
+Respiratory,נשימה,Severe eosinophilic asthma,"Anti-IL5/IL5R (mepolizumab, benralizumab); Anti-IL4/IL13 (dupilumab); Anti-TSLP (tezepelumab)",17,Respiratory,RESP,Add-on to ICS+LABA; based on eosinophil count and phenotype
+Respiratory,נשימה,Severe allergic asthma (IgE-mediated),Anti-IgE (omalizumab),17,Respiratory,RESP,Add-on; elevated IgE required; SC injection
+Respiratory,נשימה,Cough,"Antitussives (DXM, codeine, benzonatate); Expectorants (guaifenesin)",17,Respiratory,RESP,DXM OTC first-line; codeine Rx; treat underlying cause
+Transplant,השתלה,Solid organ transplant — induction,ATG; Basiliximab; Glucocorticoids (high-dose),18,Immunosuppressants,IMMUN,Given perioperatively to prevent early rejection; ATG for high-risk
+Transplant,השתלה,Solid organ transplant — maintenance,CNI (tacrolimus preferred); Antimetabolites (mycophenolate); Glucocorticoids (low-dose); mTOR inhibitors,18,Immunosuppressants,IMMUN,Triple therapy: CNI + antimetabolite + steroid; mTOR sometimes replaces CNI to spare kidneys
+Transplant,השתלה,Acute rejection treatment,Glucocorticoids (IV pulse); ATG (steroid-resistant),18,Immunosuppressants,IMMUN,Methylprednisolone pulse first; ATG if refractory
+Autoimmune,אוטואימוני,Rheumatoid arthritis,Azathioprine; Glucocorticoids; JAK Inhibitors,18,Immunosuppressants,IMMUN,JAK inhibitors newer option; many other DMARDs covered in deck 06
+Autoimmune,אוטואימוני,Lupus nephritis,Mycophenolate; Glucocorticoids; Voclosporin; Azathioprine,18,Immunosuppressants,IMMUN,Voclosporin first oral CNI approved for lupus (2021)
+Autoimmune,אוטואימוני,"IBD (Crohn's, UC)","Azathioprine; Glucocorticoids; JAK Inhibitors (tofacitinib, upadacitinib)",18,Immunosuppressants,IMMUN,Azathioprine for maintenance; JAK inhibitors for UC
+Hypertension (primary/essential),יתר לחץ דם ראשוני,,F01-F14 (all families),19,Antihypertensives,CV,95% of HTN cases; first-line: ACEi/ARB/CCB/diuretics
+Hypertension (resistant),יתר לחץ דם עמיד,,"F13 (Clonidine), F14, F09",19,Antihypertensives,CV,Failure of 3 drugs; add centrally acting or vasodilators
+Hypertensive emergency,יתר לחץ דם חירומי,,"F04 (Labetalol), F10 (Clevidipine/Nicardipine IV), F14",19,Antihypertensives,CV,Systolic >180 or diastolic >120; IV administration
+Gestational hypertension,יתר לחץ דם הריוני,,"F04 (Labetalol), F13 (Methyldopa), F14 (Hydralazine)",19,Antihypertensives,CV,ACEi/ARB/Aliskiren contraindicated in pregnancy
+Heart failure (chronic/CHF),אי-ספיקת לב כרונית,,"F04 (Carvedilol), F06, F07, F09, F15 (ARNI)",19,Antihypertensives,CV,ACEi/ARB + β-blocker + MRA standard; ARNI replaces ACEi
+Post-MI,לאחר אוטם שריר הלב,,"F01/F02, F06, F09",19,Antihypertensives,CV,β-blockers + ACEi + aldosterone antagonist
+Diabetic nephropathy / CKD,נפרופתיה סוכרתית / מחלת כליה כרונית,,"F06, F07, F16 (Finerenone)",19,Antihypertensives,CV,ACEi/ARB renoprotective; Finerenone for CKD+T2DM
+Angina pectoris,תעוקת חזה,,"F01/F02, F10, F11, F12",19,Antihypertensives,CV,β-blockers + CCBs; reduce myocardial O₂ demand
+Atrial fibrillation (rate control),פרפור עליות (בקרת קצב),,"F11 (Verapamil), F12 (Diltiazem)",19,Antihypertensives,CV,Non-DHP CCBs for rate control; CI in HF
+Migraine prophylaxis,מניעת מיגרנה,,"F01 (Propranolol), F11 (Verapamil)",19,Antihypertensives,CV,
+BPH (benign prostatic hyperplasia),היפרטרופיה שפירה של הערמונית,,"F05 (Terazosin, Doxazosin)",19,Antihypertensives,CV,α1-blockers relax prostatic smooth muscle
+Alopecia (baldness),התקרחות,,F14 (Minoxidil topical),19,Antihypertensives,CV,Off-label/cosmetic use of vasodilator
+Hypertension,יתר לחץ דם,,"F04 (thiazides, first-line), F03, F05/F06 (add-on)",20,Diuretics,CV,Thiazides most common diuretic for HTN; Chlorthalidone preferred
+Heart failure (edema),אי-ספיקת לב (בצקת),,"F03 (loop, primary), F04 (add-on), F06 (MRA)",20,Diuretics,CV,Loop diuretics IV for acute pulmonary edema; MRA for mortality benefit
+Acute pulmonary edema,בצקת ריאות חריפה,,F03 (Furosemide IV),20,Diuretics,CV,Emergency — rapid onset loop diuretics
+Peripheral edema (renal/hepatic),בצקת פריפרית (כליה/כבד),,"F03, F06",20,Diuretics,CV,Spironolactone preferred in cirrhosis (hyperaldosteronism)
+Hypercalcemia,היפרקלצמיה,,F03 (loop diuretics),20,Diuretics,CV,Loop diuretics increase Ca²⁺ excretion; thiazides do opposite
+Kidney stones (calcium),אבני כליה (סידן),,F04 (thiazides),20,Diuretics,CV,Thiazides ↓Ca²⁺ excretion → prevent calcium stones
+Cerebral edema / ↑ICP,בצקת מוחית / לחץ תוך גולגולתי מוגבר,,F02 (Mannitol IV),20,Diuretics,CV,Osmotic effect draws fluid from brain tissue
+Glaucoma,גלאוקומה,,F01 (Acetazolamide),20,Diuretics,CV,Reduces aqueous humor production
+Mountain sickness,מחלת גבהים,,F01 (Acetazolamide),20,Diuretics,CV,Metabolic acidosis improves respiration
+SIADH / Hyponatremia,SIADH / היפונטרמיה,,F07 (Tolvaptan),20,Diuretics,CV,Pure water diuresis corrects dilutional hyponatremia
+Diabetes insipidus (nephrogenic),סוכרת תפלה (נפרוגנית),,F04 (thiazides),20,Diuretics,CV,Paradoxical effect — thiazides create hyperosmolar urine
+Hyperaldosteronism (Conn syndrome),היפראלדוסטרוניזם,,F06 (Spironolactone),20,Diuretics,CV,Direct aldosterone antagonism
+Polycystic ovary syndrome (PCOS),שחלה פוליציסטית,,F06 (Spironolactone),20,Diuretics,CV,Anti-androgenic effect
+Resistant hypertension,יתר לחץ דם עמיד,,F06 (Spironolactone add-on),20,Diuretics,CV,4th-line agent for resistant HTN
+Stable angina (classic/exertional),אנגינה יציבה (קלאסית/של מאמץ),,SL Nitroglycerin (acute) → β-Blockers (first-line chronic) → add CCBs or long-acting nitrates → add Ranolazine,22,Angina Pectoris,CV,~90% of angina cases; fixed coronary obstruction; predictable threshold; slide 24 shows treatment algorithm
+Vasospastic angina (Prinzmetal/variant),אנגינה וזוספסטית (פרינצמטל/משתנה),,CCBs (DHP or non-DHP) + Nitrates; β-Blockers CONTRAINDICATED,22,Angina Pectoris,CV,Rare; coronary vasospasm at rest; can occur during sleep; β-blockers worsen spasm by unopposed α-stimulation
+Unstable angina (ACS),אנגינה בלתי יציבה (תסמונת כלילית חריפה),,Antiplatelets (Aspirin + P2Y12 inhibitor) + Anticoagulants (Heparin) + Nitrates + β-Blockers; possible PCI/CABG,22,Angina Pectoris,CV,Medical emergency; increasing frequency/severity; thrombus on ruptured plaque; NOT responsive to vasodilators alone; may progress to MI
+Myocardial infarction (MI),אוטם שריר הלב (התקף לב),,Antiplatelets (DAPT) + Anticoagulants + β-Blockers + ACEIs/ARBs + Statins; emergency PCI,22,Angina Pectoris,CV,Complete coronary occlusion → cardiomyocyte necrosis; troponin + CK elevation; requires immediate reperfusion
+Chronic stable CAD (secondary prevention),מחלת עורקים כליליים יציבה (מניעה שניונית),,Aspirin + Statin + β-Blocker ± ACEI ± long-acting nitrate,22,Angina Pectoris,CV,Atherosclerosis-based; risk factor modification essential; slide 22 shows drug selection by comorbidity
+Angina with comorbid asthma/COPD,תעוקה עם אסתמה/COPD,,Long-acting nitrates + CCBs (DHP); avoid β-Blockers,22,Angina Pectoris,CV,Slide 22 table; β-Blockers contraindicated in reactive airway disease
+Angina with comorbid diabetes,תעוקה עם סוכרת,,Long-acting nitrates + CCBs; β-Blockers with caution (mask hypoglycemia),22,Angina Pectoris,CV,Slide 22 table; β-Blockers can mask hypoglycemic symptoms
+Angina with comorbid hypertension,תעוקה עם יתר לחץ דם,,Long-acting nitrates + β-Blockers + CCBs,22,Angina Pectoris,CV,Slide 22 table; all three classes also lower BP — synergistic benefit
+Atrial fibrillation (AF) — rate control,פרפור עליות — שליטה בקצב,,"β-Blockers (Metoprolol), CCBs (Verapamil/Diltiazem), Digoxin + Anticoagulants (stroke prevention)",23,Cardiac Arrhythmia,CV,Most common sustained arrhythmia; slides 22-23; rate control = first strategy; long-term anticoagulation reduces stroke risk
+Atrial fibrillation — rhythm control,פרפור עליות — שמירת קצב סינוס,,"Amiodarone, Dofetilide, Propafenone (no structural disease), Dronedarone, Vernakalant (acute IV)",23,Cardiac Arrhythmia,CV,Rhythm control for symptomatic AF; Class IC only without structural heart disease; Amiodarone for refractory cases
+Atrial flutter,רפרפור עליות,,"Metoprolol, Verapamil, Digoxin, Ibutilide (acute conversion)",23,Cardiac Arrhythmia,CV,Slides 22-23; similar to AF rate control; catheter ablation often curative
+Supraventricular tachycardia (SVT) — acute,טכיקרדיה על-חדרית — אקוטית,,"Adenosine (first-line IV bolus), Diltiazem, Verapamil",23,Cardiac Arrhythmia,CV,Adenosine = diagnostic + therapeutic; very short t½; for AV nodal reentry
+AV nodal reentry tachycardia (AVNRT),טכיקרדיה מסוג כניסה מחדש בקשר AV,,"Metoprolol, Verapamil, Digoxin",23,Cardiac Arrhythmia,CV,Chronic prevention; slides 22-24
+Ventricular tachycardia (VT) — acute,טכיקרדיה חדרית — אקוטית,,"Lidocaine (IV, first-line), Amiodarone",23,Cardiac Arrhythmia,CV,Medical emergency; common cause of death post-MI; may deteriorate to VF
+Ventricular fibrillation (VF),פרפור חדרים,,Defibrillation + Lidocaine + Amiodarone + Epinephrine,23,Cardiac Arrhythmia,CV,Life-threatening; defibrillation primary treatment; drugs for refractory VF
+Post-MI arrhythmia prevention,מניעת הפרעות קצב לאחר אוטם,,"β-Blockers (Metoprolol, Atenolol); avoid Class IC (CAST trial)",23,Cardiac Arrhythmia,CV,β-Blockers reduce post-MI arrhythmic death; Class IC increases mortality post-MI
+Drug-induced arrhythmia (Torsades de Pointes),אריתמיה תרופתית (Torsades de Pointes),,"IV Magnesium (first-line), K+ correction; caused by: Class IA/III, macrolides, antipsychotics, QT-prolonging drugs",23,Cardiac Arrhythmia,CV,QT prolongation → Torsades; can be caused by antiarrhythmic drugs themselves (pro-arrhythmic effect)
+Digitalis-induced arrhythmia,אריתמיה מושרית דיגיטליס,,"IV Magnesium, Class IB (Lidocaine), K+ correction, Digoxin antibodies (Fab)",23,Cardiac Arrhythmia,CV,Slide 21; narrow TI of digoxin → frequent toxicity; Lidocaine effective because IB shortens AP
+Bacterial pneumonia (CAP),דלקת ריאות חיידקית (קהילתית),,"Cephalosporins (Gen III), Macrolides, Fluoroquinolones (Gen III-IV)",24,Antimicrobials Intro,ANTI,Common presentation; may indicate chronic condition if recurrent
+Bacterial meningitis,דלקת קרומי מוח חיידקית,,"Ceftriaxone (Gen III), Pen G, Carbapenems",24,Antimicrobials Intro,ANTI,Requires CSF-penetrating drugs; hospitalization
+UTI (urinary tract infection),זיהום בדרכי השתן,,"Cotrimoxazole, Nitrofurantoin, Fluoroquinolones, Methenamine",24,Antimicrobials Intro,ANTI,Very common; chronic suppressive Tx possible
+Skin/soft tissue infections,זיהומי עור ורקמות רכות,,"Cephalosporins, Clindamycin, Daptomycin, Ceftaroline, Mupirocin (topical)",24,Antimicrobials Intro,ANTI,MRSA considerations
+MRSA infections,זיהומי MRSA,,"Vancomycin, Daptomycin, Linezolid, Ceftaroline, Cotrimoxazole",24,Antimicrobials Intro,ANTI,Hospital-acquired marker; serious
+Endocarditis,אנדוקרדיטיס,,"Penicillin + Gentamicin (synergy), Vancomycin",24,Antimicrobials Intro,ANTI,Serious; prolonged IV Tx; relevant to blood donation
+Tuberculosis,שחפת,,"Isoniazid, Rifampin, Ethambutol, Pyrazinamide (not in this deck); Cipro/Streptomycin 2nd line",24,Antimicrobials Intro,ANTI,Multi-drug regimen; MDA permanent deferral area
+Gonorrhea / Syphilis,זיבה / עגבת,,"Ceftriaxone, Penicillin G",24,Antimicrobials Intro,ANTI,STI; relevant deferral considerations
+Chlamydia,כלמידיה,,"Azithromycin, Doxycycline, Fluoroquinolones",24,Antimicrobials Intro,ANTI,STI
+C. difficile colitis,קוליטיס מ-C. difficile,,"Vancomycin PO, Metronidazole (not in deck)",24,Antimicrobials Intro,ANTI,Often caused by broad-spectrum AB use
+Acne,אקנה,,"Doxycycline, Clindamycin (topical), Mupirocin",24,Antimicrobials Intro,ANTI,Chronic use; cosmetic indication
+Surgical prophylaxis,טיפול מניעתי לפני ניתוח,,"Cefazolin (Gen I), Ceftaroline",24,Antimicrobials Intro,ANTI,Short-term peri-operative
+Dental prophylaxis,טיפול מניעתי שיניים,,Amoxicillin,24,Antimicrobials Intro,ANTI,For prosthetic valve patients; pre-extraction
+Rheumatic heart disease prevention,מניעת מחלת לב ראומטית,,Penicillin (long-term prophylaxis),24,Antimicrobials Intro,ANTI,Long-term strep prophylaxis; MDA-relevant chronic condition
+Burn wound infections,זיהומי כוויות,,"Silver sulfadiazine, Mafenide (topical)",24,Antimicrobials Intro,ANTI,Topical application
+Malaria,מלריה,,"Sulfonamides, Pyrimethamine",24,Antimicrobials Intro,ANTI,Prevention/treatment; MDA endemic country rules apply
+Toxoplasmosis,טוקסופלסמוזיס,,"Cotrimoxazole, Pyrimethamine",24,Antimicrobials Intro,ANTI,Pregnancy concern; immunocompromised
+Pseudomonas infections,זיהומי פסאודומונאס,,"Piperacillin/Tazobactam, Ceftazidime, Cefepime, Aztreonam, Ciprofloxacin, Polymyxins",24,Antimicrobials Intro,ANTI,Hospital-acquired; CF patients
+VRE infections (E. faecium),זיהומי VRE,,"Quinupristin/Dalfopristin, Linezolid, Daptomycin, Tigecycline",25,Antimicrobials Detail,ANTI,Hospital-acquired; serious; limited treatment options
+Complicated intra-abdominal infections,זיהומים תוך-בטניים מורכבים,,"Tigecycline, Carbapenems, Piperacillin/Tazobactam",25,Antimicrobials Detail,ANTI,Tigecycline covers anaerobes + G−
+Uncomplicated UTI (single-dose),זיהום שתן לא מסובך (מנה בודדת),,Fosfomycin (3g PO x1),25,Antimicrobials Detail,ANTI,Convenient single-dose; increasingly used due to resistance to other agents
+Anaerobic surgical prophylaxis,פרופילקסיס לניתוח (אנאירובי),,"Cefoxitin, Cefotetan",25,Antimicrobials Detail,ANTI,Cephamycins — Gen II cephalosporins with anaerobic coverage
+Pulmonary TB — active (susceptible),שחפת ריאתית פעילה (רגישה),,F27_01-04,27,Anti-TB + Antifungals,ANTI,6 חודשי טיפול: 2 חודשים RIPE (intensive) + 4 חודשים RI (continuation). DOT
+Latent TB infection (LTBI),שחפת לטנטית,,"F27_01, F27_02",27,Anti-TB + Antifungals,ANTI,"9 חודשים INH מונותרפיה, או 12 שבועות INH+Rifapentine. אסימפטומטי, TB test חיובי"
+MDR-TB (Multi-Drug Resistant),שחפת עמידה (MDR),,"F27_05-09, F27_06, F27_19-20",27,Anti-TB + Antifungals,ANTI,שנתיים טיפול. שילוב קו שני. BPaL regimen חדש (Bedaquiline+Pretomanid+Linezolid)
+XDR-TB (Extensively Drug Resistant),שחפת עמידה מורחבת (XDR),,"F27_06, F27_19-20",27,Anti-TB + Antifungals,ANTI,עמידה גם ל-FQ וגם ל-injectable. BPaL regimen
+NTM infection (non-TB mycobacteria),זיהום מיקובקטריה לא-שחפתית,,"F27_02, F27_04",27,Anti-TB + Antifungals,ANTI,"לפי זהות המזהם. לא isoniazid! בד""כ macrolide-based"
+Leprosy (Hansen's disease),צרעת,,F27_10,27,Anti-TB + Antifungals,ANTI,WHO MDT: Clofazimine + Dapsone + Rifampin. 6 חודשים (PB) או 12 חודשים (MB)
+Invasive Aspergillosis,אספרגילוזיס חודרני,,"F27_13 (Voriconazole), F27_14, F27_11, F27_21",27,Anti-TB + Antifungals,ANTI,"Voriconazole = 1st line. חולים נויטרופניים, מושתלי מח עצם, לויקמיה. AmB/echinocandins לעמידים"
+Invasive Candidiasis / Candidemia,קנדידיאזיס חודרני / קנדידמיה,,"F27_14, F27_13, F27_11, F27_22-23",27,Anti-TB + Antifungals,ANTI,Echinocandins = 1st line empiric. Fluconazole step-down. AmB לעמידים
+Cryptococcal Meningitis,מנינגיטיס קריפטוקוקלי,,"F27_11 + F27_12, F27_13",27,Anti-TB + Antifungals,ANTI,Induction: AmB + Flucytosine. Consolidation/maintenance: Fluconazole. שכיח ב-AIDS
+Mucormycosis (Zygomycetes),מוקורמיקוזיס,,"F27_11, F27_21",27,Anti-TB + Antifungals,ANTI,AmB = 1st line. Isavuconazole = alternative. ניתוח חיוני. שכיח בסוכרת לא מאוזנת
+Histoplasmosis,היסטופלסמוזיס,,"F27_11, F27_13",27,Anti-TB + Antifungals,ANTI,"פטריה אנדמית (סביבת עופות, מערות עטלפים). מאסימפטומטי עד מסכן חיים. AmB לחמור, Itraconazole לקל"
+Coccidioidomycosis,קוקסידיואידומיקוזיס,,"F27_13, F27_11",27,Anti-TB + Antifungals,ANTI,"פטריה אנדמית (דרום-מערב ארה""ב). Fluconazole/Itraconazole. AmB למסכן חיים"
+Dermatophytosis (Tinea),דרמטופיטוזיס (טינאה),,"F27_15, F27_16, F27_17",27,Anti-TB + Antifungals,ANTI,עור: Terbinafine/Clotrimazole טופיקלי. ציפורניים/קרקפת: Terbinafine PO (3 חודשים) או Griseofulvin PO
+Vulvovaginal Candidiasis,קנדידיאזיס ווגינלי,,"F27_13, F27_17, F27_22, F27_24",27,Anti-TB + Antifungals,ANTI,אפיזודה: Fluconazole PO single dose / Clotrimazole topical. חוזר (RVVC): Oteseconazole / Ibrexafungerp
+Oral/Mucosal Candidiasis,קנדידיאזיס אוראלי/רירית,,"F27_18, F27_17, F27_13",27,Anti-TB + Antifungals,ANTI,"Nystatin suspension, Clotrimazole troches. Fluconazole PO לעמידים / מדוכאי חיסון"
+Onychomycosis (nail fungus),פטרת ציפורניים,,"F27_15, F27_16, F27_13",27,Anti-TB + Antifungals,ANTI,Terbinafine PO = 1st line (3 חודשים). Itraconazole pulse therapy. Griseofulvin (ארוך יותר). Ciclopirox topical
+Pneumocystis jirovecii Pneumonia (PCP),דלקת ריאות PCP,,F27_10 (Dapsone xref),27,Anti-TB + Antifungals,ANTI,"טיפול: TMP-SMX (deck 24 xref). מניעה: TMP-SMX, Dapsone, Atovaquone. שכיח ב-AIDS"
+Meningococcal prophylaxis,מניעת מנינגוקוק,,F27_02 (Rifampin xref),27,Anti-TB + Antifungals,ANTI,"Rifampin PO: מניעת N. meningitidis בקונטקטים. חלופות: ciprofloxacin, ceftriaxone"
+Influenza A/B,שפעת,,"F29_01, F29_02, F29_13, F29_14",29,Antivirals,ANTI,Oseltamivir PO = 1st line. תוך 48 שעות. Baloxavir = alternative. Adamantanes כמעט לא בשימוש (עמידות). מניעה: חיסון
+RSV Bronchiolitis,ברונכיוליטיס RSV,,F29_03,29,Antivirals,ANTI,Ribavirin aerosol בתינוקות/ילדים. טיפול תומך עיקרי. Palivizumab (mAb) למניעה בפגים
+Chronic Hepatitis B,הפטיטיס B כרוני,,"F29_04, F29_05, F29_18",29,Antivirals,ANTI,"Entecavir או TAF = 1st line (PO). PEG-IFNα = alternative (SC, 48 שבועות). טיפול ארוך/כרוני"
+Chronic Hepatitis C,הפטיטיס C כרוני,,"F29_15, F29_16",29,Antivirals,ANTI,DAAs = מהפכה. Sofosbuvir-based regimens. שיעורי ריפוי >95%. 8-12 שבועות. Boceprevir/Telaprevir OBSOLETE
+HSV-1/2 (oral/genital herpes),הרפס HSV,,F29_07,29,Antivirals,ANTI,Acyclovir/Valacyclovir PO. טופיקלי להרפס שפתיים. IV לאנצפליטיס. פרופילקטי לחולים סרו-פוזיטיבים לפני דיכוי חיסוני
+Varicella-Zoster (VZV),אבעבועות רוח / שלבקת חוגרת,,F29_07,29,Antivirals,ANTI,Acyclovir/Valacyclovir PO (שלבקת). IV לאימונוסופרסיביים. חיסון למניעה
+CMV Retinitis / CMV disease,מחלת CMV,,"F29_07, F29_17",29,Antivirals,ANTI,Ganciclovir/Valganciclovir = 1st line. Foscarnet לעמידים. Letermovir למניעה במושתלים
+HIV/AIDS,HIV/AIDS,,"F29_08-12, F29_18-22",29,Antivirals,ANTI,HAART: 2 NRTIs + (INSTI או NNRTI או PI). Biktarvy = preferred 1st line. Cabenuva = injectable option. כל החיים
+HIV PrEP (Pre-Exposure Prophylaxis),מניעה טרום חשיפה HIV,,"F29_08, F29_20, F29_21",29,Antivirals,ANTI,Truvada/Descovy PO daily. Apretude IM כל חודשיים. Lenacapavir SC כל 6 חודשים (נחקר)
+HIV PEP (Post-Exposure Prophylaxis),מניעה לאחר חשיפה HIV,,"F29_08, F29_12",29,Antivirals,ANTI,תוך 72 שעות. TDF/FTC + DTG/RAL. 28 ימים
+COVID-19 (high-risk),COVID-19,,"F29_23, F29_24",29,Antivirals,ANTI,"Paxlovid = 1st line (PO, 5 ימים). Molnupiravir = alternative. אינטראקציות רבות (Paxlovid). חיסון למניעה"
+Mpox / Smallpox,אבעבועות קוף / שחורות,,F29_25,29,Antivirals,ANTI,Tecovirimat PO/IV. שימוש ב-mpox outbreak 2022. Smallpox: biodefense stockpile
+Pituitary deficiency / Growth failure,חוסר היפופיזרי / כשל גדילה,,"F01, F13",30,Pituitary Hormones,ENDO,Children: GHD. Adults: anti-aging (off-label). Underlying cause determines prognosis
+Acromegaly / Gigantism,אקרומגלי / ענקיות,,"F02, F03",30,Pituitary Hormones,ENDO,GH-secreting pituitary adenoma. Treated with somatostatin analogues ± pegvisomant
+Cushing's disease,מחלת קושינג,,F02 (pasireotide),30,Pituitary Hormones,ENDO,ACTH-secreting pituitary adenoma → excess cortisol. Pasireotide targets SST5
+Adrenal insufficiency (Addison's),אי ספיקת אדרנל (אדיסון),,F04,30,Pituitary Hormones,ENDO,"Cosyntropin used for DIAGNOSIS (ACTH stimulation test), not treatment"
+Prostate cancer,סרטן הערמונית,,"F05, F12",30,Pituitary Hormones,ENDO,GnRH agonists (with initial flare) or oral antagonists (no flare). Medical castration
+Endometriosis,אנדומטריוזיס,,"F05, F12",30,Pituitary Hormones,ENDO,Hypoestrogenic state suppresses ectopic endometrial tissue
+Precocious puberty,התבגרות מוקדמת,,F05,30,Pituitary Hormones,ENDO,GnRH agonists suppress early puberty; typically in children
+Infertility,אי פוריות,,"F06, F07, F08",30,Pituitary Hormones,ENDO,Controlled ovarian stimulation: FSH → follicle growth; hCG → trigger ovulation; hMG → combined
+Hyperprolactinemia / Prolactinoma,היפרפרולקטינמיה / פרולקטינומה,,F09,30,Pituitary Hormones,ENDO,Dopamine agonists suppress prolactin; first-line for prolactinoma (shrinks tumor)
+Diabetes insipidus,סוכרת תפלה,,F10,30,Pituitary Hormones,ENDO,Central DI: desmopressin replaces ADH. Nephrogenic DI: thiazides (paradoxical)
+Labor induction / Postpartum hemorrhage,זירוז לידה / דימום לאחר לידה,,F11,30,Pituitary Hormones,ENDO,Pitocin IV for labor induction; also controls postpartum bleeding
+Uterine fibroids,שרירנים ברחם (פיברואידים),,"F05, F12",30,Pituitary Hormones,ENDO,GnRH agonists/antagonists reduce fibroid size via estrogen suppression
+Hepatorenal syndrome,תסמונת כבדית-כלייתית,,F10 (terlipressin),30,Pituitary Hormones,ENDO,Terlipressin: V1 agonist → splanchnic vasoconstriction → improves renal perfusion
+Hypothyroidism (Hashimoto's thyroiditis),תת-פעילות בלוטת התריס (האשימוטו),,F01,31,Thyroid Hormones,ENDO,Autoimmune destruction of thyroid; most common thyroid disorder; lifelong T4 replacement. Very common in donors
+Hyperthyroidism (Graves' disease),יתר-פעילות בלוטת התריס (גרייבס),,"F02, F03, F04, F05",31,Thyroid Hormones,ENDO,Autoimmune stimulation of TSH receptor; thyrotoxicosis symptoms. Treatment: thioamides → I-131 or surgery
+Thyroid storm (thyrotoxic crisis),סערת טירואיד (משבר טירוטוקסי),,"F02, F03, F05",31,Thyroid Hormones,ENDO,Life-threatening emergency; PTU + iodides + β-blockers + supportive care. Hospital setting
+Thyroid eye disease (Graves' ophthalmopathy),מחלת עיניים טירואידית (אופתלמופתיה),,F06,31,Thyroid Hormones,ENDO,"Proptosis, diplopia, inflammation of orbital tissues; can occur independently of thyroid status"
+Goiter (thyroid enlargement),זפק (הגדלת בלוטת התריס),,F01,31,Thyroid Hormones,ENDO,Can be from iodine deficiency (endemic) or autoimmune. T4 may suppress TSH-driven growth
+Myxedema coma,תרדמת מיקסאדמה,,F01,31,Thyroid Hormones,ENDO,Severe hypothyroidism emergency; IV levothyroxine + liothyronine. Hospital setting
+Thyroid cancer (differentiated),סרטן בלוטת התריס (ממוין),,"F04, F01",31,Thyroid Hormones,ENDO,Post-thyroidectomy: I-131 ablation of residual tissue + TSH suppression with levothyroxine
+Type 1 Diabetes Mellitus (IDDM),סוכרת סוג 1,,"F01-F04, F13",32,Diabetes Mellitus,ENDO,Autoimmune β-cell destruction; absolute insulin deficiency; onset childhood/puberty; 5-10% of DM
+Type 2 Diabetes Mellitus (NIDDM),סוכרת סוג 2,,F04-F14,32,Diabetes Mellitus,ENDO,Insulin resistance + relative deficiency; onset >35y; obesity-associated; 90-95% of DM. Progressive: diet→metformin→combination→insulin
+Diabetic Ketoacidosis (DKA),חמצת קטו-סוכרתית,,"F01, F02",32,Diabetes Mellitus,ENDO,Life-threatening; mainly T1DM. Requires IV regular insulin + fluids + electrolytes. Hospital setting
+Hypoglycemia (drug-induced),היפוגליקמיה (מושרית תרופתית),,F01-F06,32,Diabetes Mellitus,ENDO,"Main risk with insulin, sulfonylureas, glinides. Glucagon kit for emergencies. Relevant to donation safety"
+Diabetic Retinopathy,רטינופתיה סוכרתית,,—,32,Diabetes Mellitus,ENDO,Long-term microvascular complication; leading cause of blindness. Tight glucose control prevents progression
+Diabetic Nephropathy,נפרופתיה סוכרתית,,F12 (renal benefit),32,Diabetes Mellitus,ENDO,Progressive renal damage; SGLT2i + ACEi/ARBs slow progression. eGFR monitoring for drug dosing
+Diabetic Neuropathy,נוירופתיה סוכרתית,,—,32,Diabetes Mellitus,ENDO,"Peripheral nerve damage; foot ulcers, autonomic dysfunction. Tight glucose control + pain management"
+Polycystic Ovary Syndrome (PCOS),תסמונת שחלות פוליציסטיות,,"F07, F08",32,Diabetes Mellitus,ENDO,Metformin and TZDs improve insulin resistance in PCOS (off-label for metformin)
+Obesity / Weight management,השמנה / ניהול משקל,,"F11, F14",32,Diabetes Mellitus,ENDO,"GLP-1 RAs (semaglutide=Wegovy, liraglutide=Saxenda) and tirzepatide (Zepbound) approved for obesity. Not all users are diabetic"
+Gynecology,גינקולוגיה,Oral contraception,"F01,F08",33,Gonadal Hormones,ENDO,Combined (E+P) or progestin-only pills
+Gynecology,גינקולוגיה,Emergency contraception,"F08,F09",33,Gonadal Hormones,ENDO,High-dose levonorgestrel or ulipristal; within 72-120h
+Gynecology,גינקולוגיה,Medical abortion,F09,33,Gonadal Hormones,ENDO,Mifepristone + misoprostol
+Gynecology,גינקולוגיה,Endometriosis,"F08,F10,F14",33,Gonadal Hormones,ENDO,"Progestins, danazol, GnRH agonists"
+Gynecology,גינקולוגיה,Dysmenorrhea,"F01,F08",33,Gonadal Hormones,ENDO,Combined OCs; NSAIDs (xref deck 6)
+Gynecology,גינקולוגיה,Menstrual irregularity,"F07,F08",33,Gonadal Hormones,ENDO,Progestins
+Endocrinology,אנדוקרינולוגיה,Female hypogonadism,F01,33,Gonadal Hormones,ENDO,Estrogen replacement
+Endocrinology,אנדוקרינולוגיה,Postmenopausal HRT,"F01,F07,F08",33,Gonadal Hormones,ENDO,"Estrogen + progestin combined; low dose, shortest duration"
+Endocrinology,אנדוקרינולוגיה,Male hypogonadism,F10,33,Gonadal Hormones,ENDO,Testosterone replacement
+Infertility,פוריות,Female infertility,"F03,F14",33,Gonadal Hormones,ENDO,"Clomiphene, GnRH, gonadotropins (xref deck 30)"
+Oncology,אונקולוגיה,Breast cancer (HR+),"F03,F05,F06",33,Gonadal Hormones,ENDO,"Tamoxifen, aromatase inhibitors, SERDs"
+Oncology,אונקולוגיה,Prostate cancer,"F11,F13,F14",33,Gonadal Hormones,ENDO,"AR antagonists, CYP17 inhibitors, GnRH agonists → chemical castration"
+Urology,אורולוגיה,BPH (Benign Prostatic Hyperplasia),F12,33,Gonadal Hormones,ENDO,"Finasteride, dutasteride; also α1-blockers (xref deck 19)"
+Urology/Dermatology,אורולוגיה/דרמטולוגיה,Male pattern alopecia,F12,33,Gonadal Hormones,ENDO,Finasteride at 1/5 BPH dose
+Musculoskeletal,שלד-שריר,Osteoporosis (postmenopausal),F04,33,Gonadal Hormones,ENDO,"Raloxifene; also estrogens, bisphosphonates (xref)"
+Wasting,ירידה במשקל,Chronic wasting (HIV/cancer),F10,33,Gonadal Hormones,ENDO,"Anabolic steroids: oxandrolone, testosterone"
+Dermatology,דרמטולוגיה,Acne / Hirsutism,"F01,F08",33,Gonadal Hormones,ENDO,"Estrogen analogs; anti-androgenic progestins (drospirenone, dienogest)"
+Endocrinology,אנדוקרינולוגיה,Addison's disease (adrenal insufficiency),"F01,F02,F05",34,Adrenocorticosteroids,ENDO,Glucocorticoid + mineralocorticoid replacement; chronic lifelong therapy
+Endocrinology,אנדוקרינולוגיה,Acute adrenal crisis,F01,34,Adrenocorticosteroids,ENDO,"IV hydrocortisone; life-threatening; shock, trauma"
+Endocrinology,אנדוקרינולוגיה,Congenital adrenal hyperplasia (CAH),"F01,F02",34,Adrenocorticosteroids,ENDO,Glucocorticoid replacement to suppress excess ACTH and androgens
+Endocrinology,אנדוקרינולוגיה,Cushing's syndrome / disease,F07,34,Adrenocorticosteroids,ENDO,"Ketoconazole, osilodrostat, metyrapone to inhibit cortisol synthesis; dexamethasone for diagnosis only"
+Immunology,אימונולוגיה,Autoimmune / inflammatory diseases,"F02,F03",34,Adrenocorticosteroids,ENDO,"RA, SLE, IBD, vasculitis, etc.; intermediate/long-acting GCs; taper to avoid adrenal suppression"
+Pulmonology,ריאות,Asthma / COPD,F04,34,Adrenocorticosteroids,ENDO,Inhaled GCs = cornerstone of asthma maintenance; xref→deck 17
+Pulmonology,ריאות,Allergic rhinitis,F04,34,Adrenocorticosteroids,ENDO,"Intranasal GCs (mometasone, fluticasone); xref→deck 17"
+Dermatology,דרמטולוגיה,Inflammatory skin conditions,F04,34,Adrenocorticosteroids,ENDO,"Topical GCs by potency class; eczema, psoriasis, dermatitis"
+Rheumatology,ראומטולוגיה,Joint inflammation,F02,34,Adrenocorticosteroids,ENDO,Intra-articular methylprednisolone/triamcinolone
+Oncology,אונקולוגיה,Leukemias / lymphomas,"F02,F03",34,Adrenocorticosteroids,ENDO,Part of chemotherapy protocols; lymphocyte apoptosis
+Obstetrics,מיילדות,Fetal lung maturation,F03,34,Adrenocorticosteroids,ENDO,Betamethasone/dexamethasone IM to mother before preterm delivery
+Cardiology,קרדיולוגיה,Heart failure / Hyperaldosteronism,"F06,F08",34,Adrenocorticosteroids,ENDO,"Spironolactone, eplerenone, finerenone; xref→decks 19,20,21"
+Nephrology,נפרולוגיה,CKD + T2DM,F08,34,Adrenocorticosteroids,ENDO,Finerenone (Kerendia); slows CKD progression
+Hematologic,המטולוגיה,ALL (Acute Lymphoblastic Leukemia),"F01,F02,F04,F10,F27",35,Anti-Cancer Drugs,ONCO,POMP regimen (prednisone+vincristine+MTX+6MP); also L-asparaginase
+Hematologic,המטולוגיה,AML (Acute Myeloid Leukemia),"F02,F03,F08",35,Anti-Cancer Drugs,ONCO,Cytarabine + daunorubicin (7+3); 6TG; azacitidine for MDS/AML
+Hematologic,המטולוגיה,CML (Chronic Myeloid Leukemia),F21,35,Anti-Cancer Drugs,ONCO,Imatinib revolution; 2nd/3rd gen TKIs
+Hematologic,המטולוגיה,CLL (Chronic Lymphocytic Leukemia),"F02,F16,F25",35,Anti-Cancer Drugs,ONCO,"Fludarabine, rituximab, ibrutinib"
+Hematologic,המטולוגיה,Hodgkin's Lymphoma,"F10,F04,F27",35,Anti-Cancer Drugs,ONCO,MOPP (mechlorethamine+vincristine+procarbazine+prednisone)
+Hematologic,המטולוגיה,Non-Hodgkin's Lymphoma,"F16,F02,F10",35,Anti-Cancer Drugs,ONCO,Rituximab-based; CHOP regimen
+Solid Tumor,גידול מוצק,Breast Cancer,"F14,F15,F24,F05",35,Anti-Cancer Drugs,ONCO,"Tamoxifen/AI (HR+), trastuzumab (HER2+), CDK4/6i, taxanes, anthracyclines"
+Solid Tumor,גידול מוצק,Colorectal Cancer,"F03,F07,F12,F17,F18",35,Anti-Cancer Drugs,ONCO,"5FU/capecitabine + oxaliplatin (FOLFOX); cetuximab, bevacizumab"
+Solid Tumor,גידול מוצק,Lung Cancer (NSCLC),"F12,F05,F19,F23",35,Anti-Cancer Drugs,ONCO,"Platinum doublets, taxanes, checkpoint inhibitors, EGFR TKIs (osimertinib)"
+Solid Tumor,גידול מוצק,Testicular Cancer,"F12,F04,F09",35,Anti-Cancer Drugs,ONCO,PVB (cisplatin+vinblastine+bleomycin) = 85-100% CURE
+Solid Tumor,גידול מוצק,Ovarian Cancer,"F12,F05,F26",35,Anti-Cancer Drugs,ONCO,Platinum+taxane; PARP inhibitors (BRCA-mutated)
+Solid Tumor,גידול מוצק,Melanoma,"F19,F20,F22",35,Anti-Cancer Drugs,ONCO,Pembrolizumab/nivolumab ± ipilimumab; vemurafenib (BRAF+)
+Solid Tumor,גידול מוצק,Brain Tumors,"F11,F13",35,Anti-Cancer Drugs,ONCO,"Carmustine (crosses BBB), temozolomide (PO, crosses BBB)"
+Supportive,תומך,Chemotherapy-Induced Nausea/Vomiting (CINV),"F28,F29",35,Anti-Cancer Drugs,ONCO,Triple therapy: 5-HT3 antagonist + NK1 antagonist + dexamethasone
+Heart Failure (HFrEF),אי-ספיקת לב סיסטולית,Systolic HF (EF<40%),ACEi/ARBs + β-Blockers + Diuretics + Aldosterone antagonists + Cardiac Glycosides,21,Heart Failure,CV,Standard quadruple therapy; digoxin is last-line
+Acute Decompensated HF,אי-ספיקת לב אקוטית,Acute HF (decompensated),β-Agonists (IV) + PDE3 Inhibitors (IV) + Diuretics,21,Heart Failure,CV,"Dobutamine, Milrinone — short-term IV only"

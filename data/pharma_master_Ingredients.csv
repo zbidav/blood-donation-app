@@ -1,0 +1,1041 @@
+name_en,name_he,is_primary,family_en,atc_code,source,brand_names,source_deck,deck_topic,category_code,notes
+Pilocarpine,,True,Muscarinic Agonists (Direct),S01EB01,Slides,"Salagen, Isopto Carpine",3,Parasympathetic/ANS,ANS,"Glaucoma (topical), xerostomia (oral)"
+Pilocarpine 1.25% (Vuity),,True,Muscarinic Agonists (Direct),S01EB01,ATC,Vuity,3,Parasympathetic/ANS,ANS,FDA 2021 — presbyopia in adults; pHast technology formulation
+Bethanechol,,True,Muscarinic Agonists (Direct),N07AB02,Slides,Urecholine,3,Parasympathetic/ANS,ANS,Urinary retention (nonobstructive)
+Carbachol,,True,Muscarinic Agonists (Direct),S01EB02,Slides,Miostat,3,Parasympathetic/ANS,ANS,"M+N agonist; glaucoma (rare), intraocular miotic"
+Edrophonium,,True,AChE Inhibitors – Short-acting,N07AA02,Slides,Tensilon,3,Parasympathetic/ANS,ANS,Diagnostic for Myasthenia Gravis; 10-20 min
+Physostigmine,,True,AChE Inhibitors – Intermediate-acting,N07AA01,Slides,Antilirium,3,Parasympathetic/ANS,ANS,"Crosses BBB; glaucoma, anticholinergic toxicity antidote"
+Neostigmine,,True,AChE Inhibitors – Intermediate-acting,N07AA01,Slides,Prostigmin,3,Parasympathetic/ANS,ANS,MG treatment; NMB reversal; GI/bladder atony
+Pyridostigmine,,True,AChE Inhibitors – Intermediate-acting,N07AA02,Slides,Mestinon,3,Parasympathetic/ANS,ANS,MG treatment (first-line); 3-8 hr duration
+Ambenonium,,True,AChE Inhibitors – Intermediate-acting,N07AA30,Slides,Mytelase,3,Parasympathetic/ANS,ANS,MG treatment; 3-8 hr duration
+Donepezil,,False,AChE Inhibitors – Alzheimer's,N06DA02,Slides,Aricept,3,Parasympathetic/ANS,ANS,Mild-moderate AD; once daily
+Rivastigmine,,False,AChE Inhibitors – Alzheimer's,N06DA03,Slides,Exelon,3,Parasympathetic/ANS,ANS,Mild-moderate AD; also patch formulation
+Galantamine,,False,AChE Inhibitors – Alzheimer's,N06DA04,Slides,Razadyne,3,Parasympathetic/ANS,ANS,Mild-moderate AD; also allosteric nicotinic modulator
+Benzgalantamine,,True,AChE Inhibitors – Alzheimer's,N06DA04,ATC,Zunveyl,3,Parasympathetic/ANS,ANS,"FDA Jul 2024 — prodrug of galantamine; delayed-release → bypasses stomach, ↓ GI side effects"
+Isoflurophate,,True,AChE Inhibitors – Irreversible,S01EB07,Slides,,3,Parasympathetic/ANS,ANS,Ophthalmic (obsolete); irreversible
+Echothiophate,,True,AChE Inhibitors – Irreversible,S01EB03,Slides,Phospholine Iodide,3,Parasympathetic/ANS,ANS,Glaucoma (topical); irreversible
+Parathion,,True,AChE Inhibitors – Irreversible,,Slides,,3,Parasympathetic/ANS,ANS,Pesticide (toxic)
+Malathion,,True,AChE Inhibitors – Irreversible,,Slides,,3,Parasympathetic/ANS,ANS,Pesticide (toxic); also used as pediculicide
+Soman,,True,AChE Inhibitors – Irreversible,,Slides,,3,Parasympathetic/ANS,ANS,Nerve gas agent
+Pralidoxime,,True,Organophosphate Antidote,V03AB04,Slides,"2-PAM, Protopam",3,Parasympathetic/ANS,ANS,Reactivates AChE; given with atropine; must be given before aging
+Atropine,,True,Non-selective Muscarinic Antagonists,A03BA01,Slides,,3,Parasympathetic/ANS,ANS,"Pre-anesthesia, bradycardia, antidote for cholinergic poisoning, mydriasis, GI spasm"
+Scopolamine,,True,Non-selective Muscarinic Antagonists,A04AD01,Slides,Scopoderm,3,Parasympathetic/ANS,ANS,"Motion sickness, PONV; crosses BBB more than atropine"
+Ipratropium,,False,Inhaled Muscarinic Antagonists (LAMAs),R03BB01,Slides,Atrovent,3,Parasympathetic/ANS,ANS,"SAMA; COPD, bronchospasm; 4x daily"
+Tiotropium,,False,Inhaled Muscarinic Antagonists (LAMAs),R03BB04,Slides,Spiriva,3,Parasympathetic/ANS,ANS,LAMA; COPD + asthma maintenance; once daily
+Aclidinium,,False,Inhaled Muscarinic Antagonists (LAMAs),R03BB05,ATC,Tudorza Pressair,3,Parasympathetic/ANS,ANS,FDA 2012 — LAMA; COPD; twice daily
+Umeclidinium,,False,Inhaled Muscarinic Antagonists (LAMAs),R03BB07,ATC,Incruse Ellipta,3,Parasympathetic/ANS,ANS,FDA 2014 — LAMA; COPD; once daily
+Glycopyrronium (inhaled),,False,Inhaled Muscarinic Antagonists (LAMAs),R03BB06,ATC,Seebri Neohaler,3,Parasympathetic/ANS,ANS,FDA 2015 — LAMA; COPD; once daily
+Revefenacin,,True,Inhaled Muscarinic Antagonists (LAMAs),R03BB,ATC,Yupelri,3,Parasympathetic/ANS,ANS,FDA 2018 — LAMA; nebulized; COPD; once daily
+Oxybutynin,,True,Muscarinic Antagonists – OAB,G04BD04,Slides,Ditropan,3,Parasympathetic/ANS,ANS,OAB; also transdermal
+Tolterodine,,True,Muscarinic Antagonists – OAB,G04BD07,Slides,Detrol,3,Parasympathetic/ANS,ANS,OAB
+Solifenacin,,True,Muscarinic Antagonists – OAB,G04BD08,Slides,Vesicare,3,Parasympathetic/ANS,ANS,OAB; M3-selective
+Darifenacin,,True,Muscarinic Antagonists – OAB,G04BD10,Slides,Enablex,3,Parasympathetic/ANS,ANS,OAB; M3-selective
+Fesoterodine,,True,Muscarinic Antagonists – OAB,G04BD11,Slides,Toviaz,3,Parasympathetic/ANS,ANS,OAB; active metabolite of tolterodine
+Trospium,,True,Muscarinic Antagonists – OAB,G04BD09,Slides,Sanctura,3,Parasympathetic/ANS,ANS,"OAB; quaternary amine, does not cross BBB"
+Tropicamide,,True,Muscarinic Antagonists – Ophthalmology,S01FA06,Slides,Mydriacyl,3,Parasympathetic/ANS,ANS,Short-acting mydriasis & cycloplegia
+Cyclopentolate,,True,Muscarinic Antagonists – Ophthalmology,S01FA04,Slides,Cyclogyl,3,Parasympathetic/ANS,ANS,Mydriasis & cycloplegia
+Benztropine,,False,Muscarinic Antagonists – Parkinson's,N04AC01,Slides,Cogentin,3,Parasympathetic/ANS,ANS,Parkinson's; also drug-induced EPS
+Trihexyphenidyl,,False,Muscarinic Antagonists – Parkinson's,N04AA01,Slides,Artane,3,Parasympathetic/ANS,ANS,Parkinson's
+Glycopyrronium (topical),,True,Muscarinic Antagonists – Topical (Hyperhidrosis),D11AX,ATC,Qbrexza,3,Parasympathetic/ANS,ANS,FDA 2018 — topical wipes; primary axillary hyperhidrosis
+Sofpironium,,True,Muscarinic Antagonists – Topical (Hyperhidrosis),D11AX,ATC,Sofdra,3,Parasympathetic/ANS,ANS,FDA 2024 — topical gel; prodrug of glycopyrronium; hyperhidrosis
+Nicotine,,True,Ganglionic Blockers (NN),N07BA01,Slides,"Nicorette, NiQuitin",3,Parasympathetic/ANS,ANS,Smoking cessation; NN agonist that causes desensitization → blockade
+Cisatracurium,,False,NMB – Competitive Nondepolarizing,M03AC11,Slides,Nimbex,3,Parasympathetic/ANS,ANS,Benzylisoquinolinium; Hofmann elimination
+Pancuronium,,False,NMB – Competitive Nondepolarizing,M03AC01,Slides,Pavulon,3,Parasympathetic/ANS,ANS,Steroidal; also blocks M → tachycardia
+Rocuronium,,False,NMB – Competitive Nondepolarizing,M03AC09,Slides,Zemuron,3,Parasympathetic/ANS,ANS,Steroidal; rapid onset; reversed by sugammadex
+Vecuronium,,False,NMB – Competitive Nondepolarizing,M03AC03,Slides,Norcuron,3,Parasympathetic/ANS,ANS,Steroidal; reversed by sugammadex
+Succinylcholine,,False,NMB – Depolarizing,M03AB01,Slides,Anectine,3,Parasympathetic/ANS,ANS,Phase I fasciculations → Phase II flaccid paralysis; NOT reversed by AChE inhibitors
+Sugammadex,,False,Selective Relaxant Binding Agent,V03AB35,ATC,Bridion,3,Parasympathetic/ANS,ANS,FDA 2015 — γ-cyclodextrin; encapsulates rocuronium/vecuronium; no anticholinergic side effects
+Phenylephrine,,False,α1-Agonists,R01AA04,Slides,Neo-Synephrine,4,Sympathetic/Adrenergic,ANS,"Nasal decongestion, mydriasis, hypotension (IV)"
+Oxymetazoline,,False,α1-Agonists,R01AA05,Slides,Afrin,4,Sympathetic/Adrenergic,ANS,Nasal decongestion (topical); ophthalmic drops
+Clonidine,,False,α2-Agonists (Central),C02AC01,Slides,Catapres,4,Sympathetic/Adrenergic,ANS,"Hypertension; also ADHD, pain, opioid withdrawal"
+Methyldopa,,False,α2-Agonists (Central),C02AB01,Slides,Aldomet,4,Sympathetic/Adrenergic,ANS,Hypertension (esp. pregnancy)
+Fenoldopam,,True,D1-Agonists,C01CA19,Slides,Corlopam,4,Sympathetic/Adrenergic,ANS,Severe hypertension (IV)
+Dobutamine,,True,β1-Agonists,C01CA07,Slides,Dobutrex,4,Sympathetic/Adrenergic,ANS,"Cardiogenic/septic shock, acute heart failure"
+Dopamine,,True,β1-Agonists + D1,C01CA04,Slides,Intropin,4,Sympathetic/Adrenergic,ANS,"Shock, CHF; dose-dependent D1/β1/α1 effects"
+Isoproterenol,,True,Non-selective β-Agonist (β1+β2),C01CA02,Slides,Isuprel,4,Sympathetic/Adrenergic,ANS,Cardiac stimulant (obsolete); AV block
+Albuterol (Salbutamol),,False,β2-Agonists – SABA,R03AC02,Slides,"Ventolin, ProAir",4,Sympathetic/Adrenergic,ANS,"Acute asthma, bronchospasm; 4-6 hr"
+Terbutaline,,True,β2-Agonists – SABA,R03AC03,Slides,Brethine,4,Sympathetic/Adrenergic,ANS,Acute asthma; also tocolytic
+Salmeterol,,False,β2-Agonists – LABA,R03AC12,Slides,Serevent,4,Sympathetic/Adrenergic,ANS,Asthma/COPD maintenance; 12 hr; must use with ICS
+Formoterol,,False,β2-Agonists – LABA,R03AC13,Slides,"Foradil, Oxeze",4,Sympathetic/Adrenergic,ANS,Asthma/COPD; 12 hr; rapid onset unlike salmeterol
+Indacaterol,,False,β2-Agonists – ULABA,R03AC18,ATC,Arcapta Neohaler,4,Sympathetic/Adrenergic,ANS,FDA 2011 — ULABA; COPD; once daily 24 hr
+Olodaterol,,False,β2-Agonists – ULABA,R03AC19,ATC,Striverdi Respimat,4,Sympathetic/Adrenergic,ANS,FDA 2014 — ULABA; COPD; once daily
+Vilanterol,,True,β2-Agonists – ULABA,R03AC,ATC,"(in Breo, Anoro, Trelegy)",4,Sympathetic/Adrenergic,ANS,FDA 2013 — ULABA; only in combo products; COPD/asthma
+Epinephrine,,True,Non-selective α/β Agonists,C01CA24,Slides,"EpiPen, Adrenalin",4,Sympathetic/Adrenergic,ANS,"Anaphylaxis, cardiac arrest, acute asthma; added to local anesthetics"
+Norepinephrine,,True,Non-selective α/β Agonists (mainly α1),C01CA03,Slides,Levophed,4,Sympathetic/Adrenergic,ANS,Septic/cardiogenic shock; potent vasopressor
+Mirabegron,,True,β3-Agonists,G04BD12,Slides,Myrbetriq,4,Sympathetic/Adrenergic,ANS,OAB; FDA 2012
+Vibegron,,True,β3-Agonists,G04BD,ATC,Gemtesa,4,Sympathetic/Adrenergic,ANS,FDA Dec 2020 — OAB; also BPH+OAB (2024 expanded indication)
+Ephedrine,,True,Indirect Sympathomimetic (MA),R01AA03,Slides,,4,Sympathetic/Adrenergic,ANS,Nasal decongestion; ↑NE + weak β-agonist + CNS
+Amphetamine,,True,Indirect Sympathomimetic (IA),N06BA01,Slides,Adderall,4,Sympathetic/Adrenergic,ANS,"ADHD, narcolepsy; ↑NE release + CNS stimulant"
+Methylphenidate,,True,Indirect Sympathomimetic,N06BA04,Slides,"Ritalin, Concerta",4,Sympathetic/Adrenergic,ANS,"ADHD, narcolepsy; NE/DA reuptake inhibitor"
+Cocaine,,False,Indirect Sympathomimetic (IA),N01BC01,Slides,,4,Sympathetic/Adrenergic,ANS,Local anesthetic; NE reuptake inhibitor; addiction
+Tyramine,,True,Indirect Sympathomimetic (IA),,Slides,,4,Sympathetic/Adrenergic,ANS,Found in cheese; ↑NE release; dangerous with MAO-I
+Prazosin,,False,α1-Blockers,C02CA01,Slides,Minipress,4,Sympathetic/Adrenergic,ANS,Hypertension; 1st-dose effect
+Terazosin,,False,α1-Blockers,C02CA02,Slides,Hytrin,4,Sympathetic/Adrenergic,ANS,"Hypertension, BPH"
+Doxazosin,,False,α1-Blockers,C02CA04,Slides,Cardura,4,Sympathetic/Adrenergic,ANS,"Hypertension, BPH"
+Tamsulosin,,True,α1-Blockers (α1A-selective),G04CA02,Textbook,Flomax,4,Sympathetic/Adrenergic,ANS,BPH (uroselective); less orthostatic hypotension
+Alfuzosin,,True,α1-Blockers,G04CA01,Textbook,Uroxatral,4,Sympathetic/Adrenergic,ANS,BPH
+Silodosin,,True,α1-Blockers (α1A-selective),G04CA04,Textbook,Rapaflo,4,Sympathetic/Adrenergic,ANS,FDA 2008 — BPH; highly α1A-selective
+Phenoxybenzamine,,True,Non-selective α-Blockers,C04AX02,Slides,Dibenzyline,4,Sympathetic/Adrenergic,ANS,Pheochromocytoma; irreversible
+Phentolamine,,True,Non-selective α-Blockers,C04AB01,Slides,Regitine,4,Sympathetic/Adrenergic,ANS,Pheochromocytoma; NE extravasation
+Yohimbine,,True,α2-Blockers,,Slides,,4,Sympathetic/Adrenergic,ANS,No established clinical use; claimed aphrodisiac
+Atenolol,,False,β1-Selective Blockers,C07AB03,Slides,Tenormin,4,Sympathetic/Adrenergic,ANS,"HTN, angina, MI"
+Metoprolol,,False,β1-Selective Blockers,C07AB02,Slides,"Lopressor, Toprol-XL",4,Sympathetic/Adrenergic,ANS,"HTN, angina, MI, HF"
+Bisoprolol,,False,β1-Selective Blockers,C07AB07,Slides,Zebeta,4,Sympathetic/Adrenergic,ANS,"HTN, HF"
+Esmolol,,False,β1-Selective Blockers,C07AB09,Slides,Brevibloc,4,Sympathetic/Adrenergic,ANS,Ultra-short acting IV; perioperative
+Acebutolol,,False,β1-Selective Blockers,C07AB04,Slides,Sectral,4,Sympathetic/Adrenergic,ANS,HTN; partial agonist (ISA)
+Nebivolol,,False,β1-Selective Blockers,C07AB12,Slides,Bystolic,4,Sympathetic/Adrenergic,ANS,HTN; also ↑NO vasodilation
+Betaxolol,,False,β1-Selective Blockers,C07AB05,Slides,"Kerlone, Betoptic",4,Sympathetic/Adrenergic,ANS,HTN; glaucoma (topical)
+Propranolol,,False,Non-selective β-Blockers,C07AA05,Slides,Inderal,4,Sympathetic/Adrenergic,ANS,"HTN, migraine, hyperthyroidism, angina, MI"
+Nadolol,,False,Non-selective β-Blockers,C07AA12,Slides,Corgard,4,Sympathetic/Adrenergic,ANS,HTN
+Timolol,,False,Non-selective β-Blockers,C07AA06,Slides,Timoptic,4,Sympathetic/Adrenergic,ANS,"Glaucoma (topical), HTN"
+Pindolol,,False,Non-selective β-Blockers,C07AA03,Slides,Visken,4,Sympathetic/Adrenergic,ANS,HTN; partial agonist (ISA)
+Labetalol,,False,α1+β Blockers,C07AG01,Slides,Trandate,4,Sympathetic/Adrenergic,ANS,HTN in pregnancy
+Carvedilol,,False,α1+β Blockers,C07AG02,Slides,Coreg,4,Sympathetic/Adrenergic,ANS,"HTN, HF"
+Brimonidine,,True,α2-Agonists (Ophthalmic),S01EA05,Slides,Alphagan,4,Sympathetic/Adrenergic,ANS,Glaucoma; ↓ aqueous humor production + ↑ outflow
+Apraclonidine,,True,α2-Agonists (Ophthalmic),S01EA03,Slides,Iopidine,4,Sympathetic/Adrenergic,ANS,Glaucoma; short-term IOP reduction
+Morphine,מורפין,True,Natural Opiates,N02AA01,Slides,"MS Contin, Avinza, Kadian, Oramorph",5,Opioids,PAIN,Prototype; active metabolites M3G (neuroexcitatory) + M6G (potent); renal elimination
+Codeine,קודאין,True,Weak µ-Agonists,R05DA04,Slides,—,5,Opioids,PAIN,CYP2D6 → morphine; rapid/poor metabolizers risk; mild pain + antitussive
+Hydromorphone,הידרומורפון,True,Semisynthetic Opioids,N02AA03,Slides,"Dilaudid, Exalgo",5,Opioids,PAIN,~5× morphine; glucuronidation → H6G/H3G renal; caution in renal insufficiency
+Hydrocodone,הידרוקודון,True,Semisynthetic Opioids,N02AA08,Slides,"Lortab, Vicodin, Hysingla ER",5,Opioids,PAIN,~1× morphine; CYP2D6/3A4 → hydromorphone; most prescribed opioid in US
+Oxycodone,אוקסיקודון,True,Semisynthetic Opioids,N02AA05,Slides,"OxyContin, Percocet, Xtampza ER",5,Opioids,PAIN,~2× morphine; CYP2D6/3A4; black box: CYP3A4 interactions
+Oxymorphone,אוקסימורפון,True,Semisynthetic Opioids,N02AA19,Slides,Opana,5,Opioids,PAIN,~10× morphine; longer t½ (8h IR); bioavailability ↑ with alcohol
+Fentanyl,פנטניל,True,Synthetic — Phenylpiperidines,N02AB03,Slides,"Duragesic, Abstral, Actiq, Fentora, Lazanda, Subsys",5,Opioids,PAIN,100× morphine; no active metabolites; multiple routes (IV/TD/SL/Buccal/Nasal); less histamine release
+Alfentanil,אלפנטניל,True,Synthetic — Phenylpiperidines,N01AH02,Slides,Alfenta,5,Opioids,PAIN,Short-acting; anesthesia adjunct
+Sufentanil,סופנטניל,True,Synthetic — Phenylpiperidines,N01AH03,Slides,"Sufenta, Dsuvia (SL)",5,Opioids,PAIN,500-1000× morphine; anesthesia; Dsuvia = SL formulation (2018)
+Remifentanil,רמיפנטניל,True,Synthetic — Phenylpiperidines,N01AH06,Slides,Ultiva,5,Opioids,PAIN,Ultra-short acting; ester hydrolysis; context-sensitive t½ constant ~3-4 min
+Meperidine (Pethidine),מפרידין (פתידין),True,Synthetic — Phenylpiperidines,N02AB02,Slides,Demerol,5,Opioids,PAIN,"NOT first-line; normeperidine toxic (seizures); CI: elderly, renal, MAOI; anticholinergic"
+Methadone,מתדון,True,Synthetic — Diphenylheptanes,N07BC02,Slides,Dolophine,5,Opioids,PAIN,"Racemic; R=µ-agonist, S=NMDA-antagonist; very long t½ (15-60h); QT prolongation; torsades risk"
+Buprenorphine,בופרנורפין,True,Partial µ-Agonists,N02AE01 / N07BC01,Slides,"Buprenex, Subutex, Suboxone (+ naloxone), Sublocade (ER inj)",5,Opioids,PAIN,"Ceiling effect; long-acting; lipophilic; SL/TD/IM; incompletely reversed by naloxone; QT risk; CI: atazanavir, conivaptan, MAOI"
+Butorphanol,בוטורפנול,True,Mixed Agonist-Antagonists,N02AF01,Slides,—,5,Opioids,PAIN,Moderate analgesia; nasal spray available
+Nalbuphine,נלבופין,True,Mixed Agonist-Antagonists,N02AF02,Slides,Nubain,5,Opioids,PAIN,Moderate analgesia; less respiratory depression; less euphoria
+Pentazocine,פנטזוצין,True,Mixed Agonist-Antagonists,N02AD01,Slides,Talwin,5,Opioids,PAIN,Moderate pain; less euphoria but causes tolerance/dependence; CI: coronary disease
+Naloxone,נלוקסון,True,Opioid Antagonists,V03AB15,Slides,Narcan,5,Opioids,PAIN,IV for overdose/coma; short t½ (30-90 min); combined in PO opioid pills to prevent abuse/constipation; Narcan nasal spray OTC (2023)
+Naltrexone,נלטרקסון,True,Opioid Antagonists,N07BB04,Slides,"ReVia, Vivitrol (ER IM)",5,Opioids,PAIN,PO for OUD + AUD; Vivitrol = monthly IM injection; no effect in opioid-naive patients
+Nalmefene,נלמפן,True,Opioid Antagonists,V03AB23,ATC,Opvee (nasal),5,Opioids,PAIN,Longer t½ than naloxone (~11h); FDA 2023 nasal spray for opioid overdose reversal
+Tapentadol,טפנטדול,True,Atypical Opioids,N02AX06,Slides,Nucynta,5,Opioids,PAIN,Moderate-severe pain; glucuronidation (no CYP450); seizure/serotonin syndrome risk with TCA/MAOI/SSRI
+Tramadol,טרמדול,True,Atypical Opioids,N02AX02,Slides,Ultram,5,Opioids,PAIN,Moderate pain; seizure risk; serotonin syndrome with TCA/MAOI/SSRI; CNS excitation risk
+Diphenoxylate,דיפנוקסילאט,True,Peripheral µ-Agonists,A07DA01,Slides,Lomotil (+ atropine),5,Opioids,PAIN,Combined with atropine to discourage abuse; antidiarrheal
+Loperamide,לופרמיד,True,Peripheral µ-Agonists,A07DA03,Slides,Imodium,5,Opioids,PAIN,OTC antidiarrheal; P-gp substrate — no CNS at therapeutic doses; less dependence
+Dextromethorphan,דקסטרומתורפן,True,Opioid Antitussives,R05DA09,Slides,"Robitussin DM, many OTC",5,Opioids,PAIN,No analgesic/addictive potential; antitussive; abuse at high doses (dissociative)
+Dronabinol,דרונבינול,True,Synthetic Cannabinoids,A04AD10,Slides,Marinol,5,Opioids,PAIN,Synthetic THC; antiemetic (chemo) + appetite stimulant (HIV)
+Nabilone,נבילון,True,Synthetic Cannabinoids,A04AD11,Slides,Cesamet,5,Opioids,PAIN,Synthetic THC analog; antiemetic (chemo); more side effects than smoked cannabis
+Oliceridine,אוליסרידין,True,⭐ G-Protein Biased µ-Agonists,N02AX (pending),ATC,Olinvyk,5,Opioids,PAIN,FDA 2020; IV only; acute moderate-severe pain in hospitals; faster onset; debated whether true bias or partial agonist
+Methylnaltrexone,מתילנלטרקסון,True,⭐ PAMORAs,A06AH01,ATC,Relistor,5,Opioids,PAIN,FDA 2008 (SC) / 2016 (PO); OIC in advanced illness + chronic noncancer pain; does not cross BBB
+Naloxegol,נלוקסגול,True,⭐ PAMORAs,A06AH02,ATC,Movantik,5,Opioids,PAIN,FDA 2014; PEGylated naloxone derivative; PO once daily for OIC; P-gp substrate; CYP3A4 interactions
+Naldemedine,נלדמדין,True,⭐ PAMORAs,A06AH03,ATC,Symproic,5,Opioids,PAIN,FDA 2017; naltrexone derivative; PO once daily for OIC; well-tolerated; CYP3A4 substrate
+Alvimopan,אלבימופן,True,⭐ PAMORAs,A06AH (misc),ATC,Entereg,5,Opioids,PAIN,FDA 2008; hospital-only for postoperative ileus (bowel resection); not for chronic OIC
+Difelikefalin,דיפליקפלין,True,⭐ Peripheral κ-Agonists,—,ATC,Korsuva,5,Opioids,PAIN,FDA 2021; IV at end of hemodialysis; CKD-associated pruritus; does not cross BBB; first-in-class; oral formulations in trials
+Suzetrigine,סוזטריג'ין,True,⭐ NaV1.8 Inhibitors,N02BG (pending),ATC,Journavx,5,Opioids,PAIN,FDA Jan 2025; first-in-class non-opioid for moderate-severe acute pain; no addiction; PO; CYP3A4; not proven for chronic pain yet
+Alprostadil,אלפרוסטדיל,True,PGE1 Analogs,G04BE01,Slides,"Caverject, Prostin VR",6,NSAIDs/DMARDs/Migraine,PAIN,PDA maintenance; erectile dysfunction; vasodilation
+Misoprostol,מיסופרוסטול,False,PGE1 Analogs,A02BB01,Slides,Cytotec,6,NSAIDs/DMARDs/Migraine,PAIN,GI cytoprotection in NSAID users; labor induction; CI: pregnancy (abortifacient)
+Lubiprostone,לוביפרוסטון,False,PGE1 Analogs,A06AX03,Slides,Amitiza,6,NSAIDs/DMARDs/Migraine,PAIN,ClC-2 chloride channel activator; chronic constipation + IBS-C
+Latanoprost,לטנופרוסט,True,PGF2α Analogs,S01EE01,Slides,Xalatan,6,NSAIDs/DMARDs/Migraine,PAIN,Glaucoma; iris pigmentation; eyelash growth
+Travoprost,טרבופרוסט,True,PGF2α Analogs,S01EE04,Slides,Travatan,6,NSAIDs/DMARDs/Migraine,PAIN,Glaucoma
+Bimatoprost,בימטופרוסט,True,PGF2α Analogs,S01EE03,Slides,"Lumigan, Latisse",6,NSAIDs/DMARDs/Migraine,PAIN,Glaucoma; also cosmetic (eyelash growth — Latisse)
+Tafluprost,טפלופרוסט,True,PGF2α Analogs,S01EE05,Slides,Zioptan,6,NSAIDs/DMARDs/Migraine,PAIN,Glaucoma; preservative-free
+Epoprostenol,אפופרוסטנול,True,Prostacyclin Analogs,B01AC09,Slides,Flolan,6,NSAIDs/DMARDs/Migraine,PAIN,PAH; continuous IV infusion; short t½ (~6 min)
+Iloprost,אילופרוסט,True,Prostacyclin Analogs,B01AC11,Slides,Ventavis,6,NSAIDs/DMARDs/Migraine,PAIN,PAH; inhaled
+Treprostinil,טרפרוסטיניל,True,Prostacyclin Analogs,B01AC21,Slides,"Remodulin, Tyvaso",6,NSAIDs/DMARDs/Migraine,PAIN,PAH; SC/IV/inhaled/PO
+Aspirin,אספירין,False,Salicylates,N02BA01 / B01AC06,Slides,"Bayer, Bufferin, Ecotrin",6,NSAIDs/DMARDs/Migraine,PAIN,IRREVERSIBLE COX-1 acetylation; low-dose antiplatelet (75-100mg); analgesic/anti-inflammatory at higher doses; Reye syndrome in children; t½ 3h (low) / 15h (high dose)
+Diflunisal,דיפלוניסאל,True,Salicylates,N02BA11,Slides,Dolobid,6,NSAIDs/DMARDs/Migraine,PAIN,No antipyretic effect; less GI irritation than aspirin
+Salsalate,סלסלאט,True,Salicylates,N02BA06,Slides,—,6,NSAIDs/DMARDs/Migraine,PAIN,Non-acetylated salicylate; less GI/antiplatelet effects
+Indomethacin,אינדומתצין,True,Acetic Acids,M01AB01,Slides,Indocin,6,NSAIDs/DMARDs/Migraine,PAIN,"Very potent; CNS disturbances; use as last resort; also for PDA closure (neonates), gout"
+Sulindac,סולינדק,True,Acetic Acids,M01AB02,Slides,Clinoril,6,NSAIDs/DMARDs/Migraine,PAIN,Prodrug; long t½
+Tolmetin,טולמטין,True,Acetic Acids,M01AB04,Slides,Tolmetin Sodium,6,NSAIDs/DMARDs/Migraine,PAIN,Long t½
+Etodolac,אטודולק,True,Acetic Acids,M01AB08,Slides,—,6,NSAIDs/DMARDs/Migraine,PAIN,Preferential COX-2 (COX-2 > COX-1)
+Ketorolac,קטורולק,True,Acetic Acids,M01AB15,Slides,"Toradol, Acular",6,NSAIDs/DMARDs/Migraine,PAIN,Very potent; parenteral (IM/IV) + ophthalmic; short-term only (≤5 days)
+Diclofenac,דיקלופנק,True,Acetic Acids,M01AB05,Slides,"Voltaren, Cataflam, Flector",6,NSAIDs/DMARDs/Migraine,PAIN,Multiple routes (PO/topical/ophthalmic); preferential COX-2
+Ibuprofen,איבופרופן,True,Propionic Acids,M01AE01,Slides,"Advil, Motrin, Nurofen",6,NSAIDs/DMARDs/Migraine,PAIN,OTC; lower toxicity; widely used
+Naproxen,נפרוקסן,True,Propionic Acids,M01AE02,Slides,"Aleve, Anaprox, Naprosyn",6,NSAIDs/DMARDs/Migraine,PAIN,OTC; considered safest NSAID by some experts; long t½
+Fenoprofen,פנופרופן,True,Propionic Acids,M01AE04,Slides,Nalfon,6,NSAIDs/DMARDs/Migraine,PAIN,
+Flurbiprofen,פלורביפרופן,True,Propionic Acids,M01AE09,Slides,Ansaid,6,NSAIDs/DMARDs/Migraine,PAIN,Also ophthalmic
+Ketoprofen,קטופרופן,True,Propionic Acids,M01AE03,Slides,—,6,NSAIDs/DMARDs/Migraine,PAIN,
+Oxaprozin,אוקספרוזין,True,Propionic Acids,M01AE12,Slides,Daypro,6,NSAIDs/DMARDs/Migraine,PAIN,Long t½
+Piroxicam,פירוקסיקם,True,Oxicams,M01AC01,Slides,Feldene,6,NSAIDs/DMARDs/Migraine,PAIN,Long t½; once daily
+Meloxicam,מלוקסיקם,True,Oxicams,M01AC06,Slides,Mobic,6,NSAIDs/DMARDs/Migraine,PAIN,Preferential COX-2; long t½
+Mefenamic acid,חומצה מפנמית,True,Fenamates,M01AG01,Slides,Ponstel,6,NSAIDs/DMARDs/Migraine,PAIN,Dysmenorrhea; less GI irritation
+Meclofenamic acid,חומצה מקלופנמית,True,Fenamates,M01AG04,Slides,—,6,NSAIDs/DMARDs/Migraine,PAIN,
+Celecoxib,צלקוקסיב,True,COX-2 Selective,M01AH01,Slides,Celebrex,6,NSAIDs/DMARDs/Migraine,PAIN,Only remaining coxib on market (rofecoxib/Vioxx withdrawn 2004); ↑CV risk; less GI; no antiplatelet
+Acetaminophen,אצטמינופן (אקמולי),True,Acetaminophen,N02BE01,Slides,"Tylenol, Acamoli, Ofirmev (IV)",6,NSAIDs/DMARDs/Migraine,PAIN,Central COX only; safe in children + pregnancy; NO anti-inflammatory; hepatotoxic at overdose → N-acetylcysteine
+Zileuton,זילאוטון,False,5-LOX Inhibitors,R03DX02,Slides,Zyflo,6,NSAIDs/DMARDs/Migraine,PAIN,"5-LOX inhibitor; asthma; QID dosing (poor compliance); hepatotoxicity; CYP450 interactions (theophylline, warfarin)"
+Montelukast,מונטלוקסט,False,CysLT1 Antagonists,R03DC03,Slides,Singulair,6,NSAIDs/DMARDs/Migraine,PAIN,CysLT1 antagonist; asthma prophylaxis + allergic rhinitis; once daily; well-tolerated; FDA boxed warning: neuropsychiatric events
+Zafirlukast,זפירלוקסט,False,CysLT1 Antagonists,R03DC01,Slides,Accolate,6,NSAIDs/DMARDs/Migraine,PAIN,"CysLT1 antagonist; CYP450 interactions (phenytoin, warfarin, lovastatin)"
+Methotrexate,מתוטרקסט,True,Conventional DMARDs,L04AX03,Slides,"Rheumatrex, Trexall",6,NSAIDs/DMARDs/Migraine,PAIN,"Folate antagonist → ↓DNA synthesis; weekly dosing; SE: mucositis, pancytopenia, cirrhosis; leucovorin rescue"
+Hydroxychloroquine,הידרוקסיכלורוקין,True,Conventional DMARDs,P01BA02,Slides,Plaquenil,6,NSAIDs/DMARDs/Migraine,PAIN,"Antimalarial; unknown autoimmune mechanism; 6wk-6mo onset; SE: retinopathy, GI, CNS"
+Leflunomide,לפלונומיד,True,Conventional DMARDs,L04AA13,Slides,Arava,6,NSAIDs/DMARDs/Migraine,PAIN,"Pyrimidine synthesis inhibitor; targets autoimmune lymphocytes; SE: headache, diarrhea, weight loss"
+Sulfasalazine,סולפסאלזין,True,Conventional DMARDs,A07EC01,Slides,Azulfidine,6,NSAIDs/DMARDs/Migraine,PAIN,Unknown mechanism; 1-3 months onset; risk of leukopenia
+Adalimumab,אדלימומאב,True,TNF Inhibitors,L04AB04,Slides,Humira,6,NSAIDs/DMARDs/Migraine,PAIN,Anti-TNF mAb; SC; RA + many indications; top-selling biologic
+Infliximab,אינפליקסימאב,True,TNF Inhibitors,L04AB02,Slides,Remicade,6,NSAIDs/DMARDs/Migraine,PAIN,"Anti-TNF chimeric mAb; IV infusion; RA, Crohn's, UC"
+Etanercept,אטנרצפט,True,TNF Inhibitors,L04AB01,Slides,Enbrel,6,NSAIDs/DMARDs/Migraine,PAIN,TNF receptor fusion protein (not mAb); SC; RA
+Certolizumab,צרטוליזומאב,True,TNF Inhibitors,L04AB05,Slides,Cimzia,6,NSAIDs/DMARDs/Migraine,PAIN,PEGylated Fab' fragment; SC; RA
+Golimumab,גולימומאב,True,TNF Inhibitors,L04AB06,Slides,Simponi,6,NSAIDs/DMARDs/Migraine,PAIN,Anti-TNF mAb; SC monthly; RA
+Abatacept,אבטצפט,True,Other Biologics,L04AA24,Slides,Orencia,6,NSAIDs/DMARDs/Migraine,PAIN,T-cell co-stimulation blocker (CTLA4-Ig); SC/IV; RA
+Anakinra,אנקינרה,True,Other Biologics,L04AC03,Slides,Kineret,6,NSAIDs/DMARDs/Migraine,PAIN,IL-1 receptor antagonist; SC daily; RA
+Rituximab,ריטוקסימאב,False,Other Biologics,L01FA01,Slides,Rituxan,6,NSAIDs/DMARDs/Migraine,PAIN,Anti-CD20 mAb; B-cell depletion; IV; RA (after TNF failure)
+Tocilizumab,טוצילזומאב,True,Other Biologics,L04AC07,Slides,Actemra,6,NSAIDs/DMARDs/Migraine,PAIN,Anti-IL-6R mAb; SC/IV; RA
+Tofacitinib,טופציטיניב,False,JAK Inhibitors,L04AF01,Slides,Xeljanz,6,NSAIDs/DMARDs/Migraine,PAIN,"JAK1/3 inhibitor; oral; RA; FDA boxed warning: ↑CV events, malignancy, thrombosis"
+Allopurinol,אלופורינול,True,Xanthine Oxidase Inhibitors,M04AA01,Slides,Zyloprim,6,NSAIDs/DMARDs/Migraine,PAIN,"↓Uric acid production; gout prophylaxis; SE: rash, SJS (HLA-B*5801)"
+Febuxostat,פבוקסוסטאט,True,Xanthine Oxidase Inhibitors,M04AA03,Slides,Uloric,6,NSAIDs/DMARDs/Migraine,PAIN,Non-purine XO inhibitor; 2009; boxed warning: ↑CV mortality vs allopurinol
+Probenecid,פרובנציד,True,Uricosuric Agents,M04AB01,Slides,—,6,NSAIDs/DMARDs/Migraine,PAIN,Blocks URAT1 → ↑uric acid excretion; adequate hydration needed; CI: kidney stones
+Colchicine,קולכיצין,True,Colchicine,M04AC01,Slides,Colcrys,6,NSAIDs/DMARDs/Migraine,PAIN,Anti-inflammatory in acute gout; ↓neutrophil migration; narrow TI; GI toxicity; less used today
+Pegloticase,פגלוטיקאז,True,Recombinant Uricase,M04AX02,Slides,Krystexxa,6,NSAIDs/DMARDs/Migraine,PAIN,PEGylated uricase; IV q2w; last-line refractory gout; converts urate→allantoin; infusion reactions
+Sumatriptan,סומטריפטן,True,Triptans,N02CC01,Slides,"Imitrex, Alsuma",6,NSAIDs/DMARDs/Migraine,PAIN,"Prototype triptan; SC/PO/nasal; CI: CV disease, uncontrolled HTN"
+Almotriptan,אלמוטריפטן,True,Triptans,N02CC05,Slides,Axert,6,NSAIDs/DMARDs/Migraine,PAIN,
+Eletriptan,אלטריפטן,True,Triptans,N02CC06,Slides,Relpax,6,NSAIDs/DMARDs/Migraine,PAIN,
+Frovatriptan,פרובטריפטן,True,Triptans,N02CC07,Slides,Frova,6,NSAIDs/DMARDs/Migraine,PAIN,Long t½; menstrual migraine
+Naratriptan,נרטריפטן,True,Triptans,N02CC02,Slides,Amerge,6,NSAIDs/DMARDs/Migraine,PAIN,
+Rizatriptan,ריזטריפטן,True,Triptans,N02CC04,Slides,Maxalt,6,NSAIDs/DMARDs/Migraine,PAIN,
+Zolmitriptan,זולמיטריפטן,True,Triptans,N02CC03,Slides,Zomig,6,NSAIDs/DMARDs/Migraine,PAIN,Also nasal spray
+Dihydroergotamine,דיהידרוארגוטמין,True,Ergot Alkaloids,N02CA01,Slides,"Migranal, DHE-45",6,NSAIDs/DMARDs/Migraine,PAIN,"Vasoconstrictor; prodromal phase; CI: pregnancy, PVD, CAD; nasal/IV/IM"
+Erenumab,ארנומאב,True,⭐ CGRP mAbs,N02CD01,ATC,Aimovig,6,NSAIDs/DMARDs/Migraine,PAIN,FDA 2018; anti-CGRP receptor mAb; SC monthly; migraine prevention; first-in-class
+Fremanezumab,פרמנזומאב,True,⭐ CGRP mAbs,N02CD03,ATC,Ajovy,6,NSAIDs/DMARDs/Migraine,PAIN,FDA 2018; anti-CGRP ligand mAb; SC monthly/quarterly; also pediatric (2024)
+Galcanezumab,גלקנזומאב,True,⭐ CGRP mAbs,N02CD02,ATC,Emgality,6,NSAIDs/DMARDs/Migraine,PAIN,FDA 2018; anti-CGRP ligand mAb; SC monthly; also episodic cluster headache
+Eptinezumab,אפטינזומאב,True,⭐ CGRP mAbs,N02CD05,ATC,Vyepti,6,NSAIDs/DMARDs/Migraine,PAIN,FDA 2020; anti-CGRP ligand mAb; IV quarterly; rapid onset
+Ubrogepant,אוברוג'פנט,True,⭐ Gepants,N02CD (misc),ATC,Ubrelvy,6,NSAIDs/DMARDs/Migraine,PAIN,FDA 2019; oral CGRP receptor antagonist; acute migraine; CYP3A4 substrate
+Rimegepant,רימג'פנט,True,⭐ Gepants,N02CD (misc),ATC,Nurtec ODT,6,NSAIDs/DMARDs/Migraine,PAIN,FDA 2020 acute / 2021 preventive; first dual-use gepant; ODT; every other day for prevention
+Atogepant,אטוג'פנט,True,⭐ Gepants,N02CD (misc),ATC,Qulipta,6,NSAIDs/DMARDs/Migraine,PAIN,FDA 2021; oral; migraine prevention only; daily dosing
+Zavegepant,זבג'פנט,True,⭐ Gepants,N02CD (misc),ATC,Zavzpret,6,NSAIDs/DMARDs/Migraine,PAIN,FDA 2023; nasal spray; acute migraine; 3rd-gen gepant
+Lasmiditan,לסמידיטן,True,⭐ Ditans,N02CC (misc),ATC,Reyvow,6,NSAIDs/DMARDs/Migraine,PAIN,FDA 2019; 5-HT1F agonist; acute migraine; NO vasoconstriction; Schedule V (CNS effects); safe in CV patients
+Baricitinib,בריציטיניב,False,⭐ Newer JAK Inhibitors,L04AF02,ATC,Olumiant,6,NSAIDs/DMARDs/Migraine,PAIN,"FDA 2018; JAK1/JAK2; RA, atopic dermatitis, alopecia areata; oral"
+Upadacitinib,אופדציטיניב,False,⭐ Newer JAK Inhibitors,L04AF03,ATC,Rinvoq,6,NSAIDs/DMARDs/Migraine,PAIN,"FDA 2019; selective JAK1; RA, PsA, atopic dermatitis, UC, Crohn's, AS; oral"
+Aspirin,,True,COX-1 Inhibitors (antiplatelet),B01AC06,Slides,"אספירין, Micropirin",7,Coagulation,COAG,Also NSAID at higher doses
+Clopidogrel,,True,ADP Receptor Antagonists,B01AC04,Slides,"Plavix, Clopidex",7,Coagulation,COAG,Drug of choice; pro-drug; CYP2C19
+Ticlopidine,,True,ADP Receptor Antagonists,B01AC05,Slides,,7,Coagulation,COAG,Last resort — agranulocytosis risk
+Prasugrel,,True,ADP Receptor Antagonists,B01AC22,Slides,Effient,7,Coagulation,COAG,
+Ticagrelor,,True,ADP Receptor Antagonists,B01AC24,Slides,Brilinta,7,Coagulation,COAG,Reversible; CYP3A4 interactions
+Cangrelor,,True,ADP Receptor Antagonists,B01AC25,ATC,,7,Coagulation,COAG,IV; approved 2015; NOT in slides
+Abciximab,,True,GP IIb/IIIa Antagonists,B01AC13,Slides,,7,Coagulation,COAG,Antibody to GP IIb/IIIa; IV
+Tirofiban,,True,GP IIb/IIIa Antagonists,B01AC17,Slides,,7,Coagulation,COAG,Non-peptide; IV
+Eptifibatide,,True,GP IIb/IIIa Antagonists,B01AC16,Slides,,7,Coagulation,COAG,Peptide; IV
+Dipyridamole,,True,PDE-III Inhibitors (antiplatelet),B01AC07,Slides,,7,Coagulation,COAG,
+Cilostazol,,True,PDE-III Inhibitors (antiplatelet),B01AC23,Slides,,7,Coagulation,COAG,
+Heparin (UFH),,True,Unfractionated Heparin (UFH),B01AB01,Slides,,7,Coagulation,COAG,t½ 1.5h; antidote: protamine
+Enoxaparin,,True,Low Molecular Weight Heparins (LMWH),B01AB05,Slides,Clexane,7,Coagulation,COAG,Most common LMWH
+Dalteparin,,True,Low Molecular Weight Heparins (LMWH),B01AB04,Slides,Fragmin,7,Coagulation,COAG,
+Tinzaparin,,True,Low Molecular Weight Heparins (LMWH),B01AB10,Slides,,7,Coagulation,COAG,
+Hirudin,,True,Direct Thrombin Inhibitors (parenteral),B01AE01,Slides,,7,Coagulation,COAG,Natural; from leech
+Bivalirudin,,True,Direct Thrombin Inhibitors (parenteral),B01AE06,Slides,,7,Coagulation,COAG,Recombinant
+Desirudin,,True,Direct Thrombin Inhibitors (parenteral),B01AE01,Slides,,7,Coagulation,COAG,Recombinant
+Argatroban,,True,Direct Thrombin Inhibitors (parenteral),B01AE03,Slides,,7,Coagulation,COAG,Synthetic DTI
+Fondaparinux,,True,Factor Xa Inhibitors (parenteral),B01AX05,Slides,Arixtra,7,Coagulation,COAG,For HIT patients
+Warfarin,,True,Vitamin K Antagonists (oral),B01AA03,Slides,Coumadin,7,Coagulation,COAG,Monitor INR 2-3.5; teratogenic
+Rivaroxaban,,True,Direct Oral Anticoagulants (DOACs/NOACs),B01AF01,Slides,Xarelto,7,Coagulation,COAG,Factor Xa inhibitor
+Apixaban,,True,Direct Oral Anticoagulants (DOACs/NOACs),B01AF02,Slides,Eliquis,7,Coagulation,COAG,Factor Xa inhibitor
+Dabigatran,,True,Direct Oral Anticoagulants (DOACs/NOACs),B01AE07,Slides,Pradaxa,7,Coagulation,COAG,Direct thrombin inhibitor; pro-drug
+Edoxaban,,True,Direct Oral Anticoagulants (DOACs/NOACs),B01AF03,ATC,Lixiana,7,Coagulation,COAG,Factor Xa inhibitor; approved 2015; NOT in slides
+Betrixaban,,True,Direct Oral Anticoagulants (DOACs/NOACs),B01AF04,ATC,,7,Coagulation,COAG,Factor Xa; approved 2017; NOT in slides; withdrawn 2020
+Alteplase,,True,Thrombolytics (fibrinolytics),B01AD02,Slides,,7,Coagulation,COAG,Human t-PA; high fibrin specificity
+Reteplase,,True,Thrombolytics (fibrinolytics),B01AD07,Slides,,7,Coagulation,COAG,Engineered t-PA
+Tenecteplase,,True,Thrombolytics (fibrinolytics),B01AD11,Slides,,7,Coagulation,COAG,Engineered t-PA
+Urokinase,,True,Thrombolytics (fibrinolytics),B01AD04,Slides,,7,Coagulation,COAG,
+Streptokinase,,True,Thrombolytics (fibrinolytics),B01AD01,Slides,,7,Coagulation,COAG,High antigenicity
+Aminocaproic acid,,True,Antifibrinolytics (plasminogen inhibitors),B02AA01,Slides,,7,Coagulation,COAG,
+Tranexamic acid,,True,Antifibrinolytics (plasminogen inhibitors),B02AA02,Slides,Hexakapron,7,Coagulation,COAG,
+Protamine sulfate,,True,Antidotes for anticoagulants,V03AB14,Slides,,7,Coagulation,COAG,Reverses heparin
+Vitamin K1 (phytomenadione),,True,Antidotes for anticoagulants,B02BA01,Slides,,7,Coagulation,COAG,Reverses warfarin
+Idarucizumab,,True,Antidotes for anticoagulants,V03AB37,ATC,Praxbind,7,Coagulation,COAG,Reverses dabigatran; approved 2015; NOT in slides
+Andexanet alfa,,True,Antidotes for anticoagulants,V03AB38,ATC,Ondexxya,7,Coagulation,COAG,Reverses Xa inhibitors; approved 2018; NOT in slides
+Pravastatin,פרבסטטין,True,HLP_F01,C10AA03,,,8,Hyperlipidemia,METAB,הידרופילי; פחות אינטראקציות CYP
+Simvastatin,סימבסטטין,True,HLP_F01,C10AA01,,,8,Hyperlipidemia,METAB,פרו-דראג; CYP3A4
+Lovastatin,לובסטטין,True,HLP_F01,C10AA02,,,8,Hyperlipidemia,METAB,פרו-דראג; ראשון שאושר
+Fluvastatin,פלובסטטין,True,HLP_F01,C10AA04,,,8,Hyperlipidemia,METAB,CYP2C9
+Atorvastatin,אטורבסטטין,True,HLP_F01,C10AA05,,,8,Hyperlipidemia,METAB,ארוך טווח; הנפוץ ביותר; CYP3A4
+Rosuvastatin,רוזובסטטין,True,HLP_F01,C10AA07,,,8,Hyperlipidemia,METAB,הידרופילי; החזק ביותר; מינימום CYP
+Pitavastatin,פיטבסטטין,True,HLP_F01,C10AA08,,,8,Hyperlipidemia,METAB,מינימום CYP; מתאים לשילוב
+Cholestyramine,כולסטיראמין,True,HLP_F02,C10AC01,,,8,Hyperlipidemia,METAB,אבקה; טעם לא נעים
+Colestipol,קולסטיפול,True,HLP_F02,C10AC02,,,8,Hyperlipidemia,METAB,גרגירים/טבליות
+Colesevelam,קולסוולאם,True,HLP_F02,C10AC04,,,8,Hyperlipidemia,METAB,טבליות; נסבלות טוב יותר; גם ל-DM2
+Ezetimibe,אזטימיב,True,HLP_F03,C10AX09,,,8,Hyperlipidemia,METAB,עיכוב NPC1L1; לרוב בשילוב סטטין
+Gemfibrozil,ג׳מפיברוזיל,True,HLP_F04,C10AB04,,,8,Hyperlipidemia,METAB,סיכון גבוה לרבדומיוליזיס עם סטטינים; CYP2C8
+Fenofibrate,פנופיבראט,True,HLP_F04,C10AB05,,,8,Hyperlipidemia,METAB,עדיף לשילוב עם סטטינים; פחות אינטראקציות
+Bezafibrate,בזפיבראט,True,HLP_F04,C10AB02,,,8,Hyperlipidemia,METAB,pan-PPAR agonist
+Ciprofibrate,ציפרופיבראט,True,HLP_F04,C10AB08,,,8,Hyperlipidemia,METAB,
+Niacin (Nicotinic acid),ניאצין (חומצה ניקוטינית),True,HLP_F05,C10AD02,,,8,Hyperlipidemia,METAB,מינון 1.5-3 גר׳/יום; שחרור איטי פחות הסמקה
+Acipimox,אציפימוקס,True,HLP_F05,C10AD06,,,8,Hyperlipidemia,METAB,נגזרת ניאצין; פחות הסמקה
+Omega-3-acid ethyl esters (EPA+DHA),אסתרים אתיליים של אומגה-3,True,HLP_F06,C10AX06,,,8,Hyperlipidemia,METAB,4 גר׳/יום; Lovaza/Omacor
+Evolocumab,אבולוקומאב,True,HLP_F07,C10AX13,,,8,Hyperlipidemia,METAB,Repatha; כל 2 או 4 שבועות
+Alirocumab,אלירוקומאב,True,HLP_F07,C10AX14,,,8,Hyperlipidemia,METAB,Praluent; כל 2 שבועות
+Inclisiran,אינקליסיראן,True,HLP_F08,C10AX16,,,8,Hyperlipidemia,METAB,Leqvio; 2 זריקות/שנה לאחר מנות טעינה
+Bempedoic acid,חומצה במפדואית,True,HLP_F09,C10AX15,,,8,Hyperlipidemia,METAB,Nexletol; prodrug פעיל בכבד בלבד; שילוב קבוע עם ezetimibe (Nexlizet)
+Icosapent ethyl,איקוספנט אתיל,True,HLP_F10,C10AX14,,,8,Hyperlipidemia,METAB,Vascepa; EPA מטוהר; REDUCE-IT trial
+Evinacumab,אבינקומאב,True,HLP_F11,C10AX,,,8,Hyperlipidemia,METAB,Evkeeza; HoFH בלבד
+Levodopa,לבודופה,True,CNS_F01,N04BA01,,,9,Parkinson/Alzheimer/ALS,CNS,מבשר דופמין; ניתן תמיד עם DDC-I
+Carbidopa,קרבידופה,True,CNS_F01,N04BA02,,,9,Parkinson/Alzheimer/ALS,CNS,DDC-I; לא עובר BBB; שילוב קבוע Sinemet
+Benserazide,בנסראזיד,True,CNS_F01,N04BA02,,,9,Parkinson/Alzheimer/ALS,CNS,DDC-I; שילוב קבוע Madopar
+Tolcapone,טולקפון,True,CNS_F02,N04BX01,,,9,Parkinson/Alzheimer/ALS,CNS,"פעיל גם במע""מ; רעילות כבדית — ניטור"
+Entacapone,אנטקפון,True,CNS_F02,N04BX02,,,9,Parkinson/Alzheimer/ALS,CNS,פריפרי בלבד; בטוח יותר; שילוב קבוע Stalevo (levodopa+carbidopa+entacapone)
+Opicapone,אופיקפון,True,CNS_F02,N04BX04,,,9,Parkinson/Alzheimer/ALS,CNS,דור שלישי; מתן פעם ביום; אין רעילות כבד
+Selegiline (Deprenyl),סלגילין (דפרניל),True,CNS_F03,N04BD01,,,9,Parkinson/Alzheimer/ALS,CNS,מטבוליט אמפטמיני → אינסומניה; עם או בלי L-Dopa
+Rasagiline,רסגילין,True,CNS_F03,N04BD02,,,9,Parkinson/Alzheimer/ALS,CNS,אין מטבוליט אמפטמיני; סלקטיבי; פעם ביום
+Safinamide,ספינאמיד,True,CNS_F10,N04BD03,,,9,Parkinson/Alzheimer/ALS,CNS,dual mechanism: MAO-B + חסימת Na⁺/Ca²⁺ channels; adjunct ל-L-Dopa
+Bromocriptine,ברומוקריפטין,True,CNS_F04,N04BC01,,,9,Parkinson/Alzheimer/ALS,CNS,אגוניסט כל רצפטורי D; ארגוט; גם להיפרפרולקטינמיה
+Rotigotine,רוטיגוטין,True,CNS_F04,N04BC09,,,9,Parkinson/Alzheimer/ALS,CNS,מדבקה טרנס-דרמלית; D1-D5 + 5-HT
+Ropinirole,רופינירול,True,CNS_F04,N04BC04,,,9,Parkinson/Alzheimer/ALS,CNS,D2/D3 סלקטיבי; לא ארגוט
+Pramipexole,פרמיפקסול,True,CNS_F04,N04BC05,,,9,Parkinson/Alzheimer/ALS,CNS,D2/D3 סלקטיבי; לא ארגוט; גם ל-RLS
+Apomorphine,אפומורפין,True,CNS_F04,N04BC07,,,9,Parkinson/Alzheimer/ALS,CNS,זריקה תת-עורית; הצלה ב-Off episodes; מעורר הקאה חזק
+Amantadine,אמנטדין,True,CNS_F05,N04BB01,,,9,Parkinson/Alzheimer/ALS,CNS,מגביר שחרור DA + ↓reuptake + anti-NMDA + anti-mAChR; tolerance
+Benztropine,בנזטרופין,True,CNS_F06,N04AC01,,,9,Parkinson/Alzheimer/ALS,CNS,חסימה מוסקרינית + ↓reuptake DA
+Trihexyphenidyl,טריהקסיפנידיל,True,CNS_F06,N04AA01,,,9,Parkinson/Alzheimer/ALS,CNS,אנטיכולינרגי קלאסי לפרקינסון
+Procyclidine,פרוציקלידין,True,CNS_F06,N04AA04,,,9,Parkinson/Alzheimer/ALS,CNS,
+Donepezil,דונפזיל,True,CNS_F07,N06DA02,,,9,Parkinson/Alzheimer/ALS,CNS,הנפוץ ביותר; סלקטיבי ל-AChE; מתן פעם ביום
+Galantamine,גלנטמין,True,CNS_F07,N06DA04,,,9,Parkinson/Alzheimer/ALS,CNS,מעכב AChE + מאפנן אלוסטרי חיובי לרצפטור ניקוטיני
+Rivastigmine,ריבסטיגמין,True,CNS_F07,N06DA03,,,9,Parkinson/Alzheimer/ALS,CNS,מעכב AChE + BuChE; מדבקה טרנס-דרמלית זמינה
+Memantine,ממנטין,True,CNS_F08,N06DX01,,,9,Parkinson/Alzheimer/ALS,CNS,אנטגוניסט NMDA; למחלה בינונית-קשה; שילוב עם AChE-I
+Riluzole,רילוזול,True,CNS_F09,N07XX02,,,9,Parkinson/Alzheimer/ALS,CNS,anti-NMDA + ↓glutamate release + Na⁺ channel block; משפר שרידות
+Istradefylline,איסטראדפילין,True,CNS_F11,N04CX01,,,9,Parkinson/Alzheimer/ALS,CNS,אנטגוניסט A2A; adjunct ל-L-Dopa; Nourianz
+Pimavanserin,פימבנסרין,False,CNS_F12,N05AX17,,,9,Parkinson/Alzheimer/ALS,CNS,Nuplazid; אגוניסט הפוך 5-HT2A; לפסיכוזה בפרקינסון; אינו חוסם D2
+Lecanemab,לקנמאב,True,CNS_F13,N06DX,,,9,Parkinson/Alzheimer/ALS,CNS,Leqembi; anti-Aβ protofibril mAb; IV כל שבועיים; ARIA risk
+Donanemab,דוננמאב,True,CNS_F13,N06DX,,,9,Parkinson/Alzheimer/ALS,CNS,Kisunla; anti-Aβ plaque (pyroglutamate); IV כל 4 שבועות; ניתן להפסיק לאחר פינוי
+Edaravone,אדרבון,True,CNS_F14,N07XX04,,,9,Parkinson/Alzheimer/ALS,CNS,נוגד חמצון (free radical scavenger); IV או PO; ל-ALS
+Tofersen,טופרסן,True,CNS_F14,N07XX,,,9,Parkinson/Alzheimer/ALS,CNS,ASO (antisense oligonucleotide) נגד SOD1 mRNA; intrathhecal; ל-SOD1 ALS בלבד
+Oxazepam,אוקסאזפם,True,ANX_F01,N05BA04,,,10,Anxiolytics/Hypnotics,CNS,קצר; glucuronidation ישירה — בטוח בכבד
+Triazolam,טריאזולם,True,ANX_F01,N05CD05,,,10,Anxiolytics/Hypnotics,CNS,קצר; היפנוטי; rebound insomnia
+Alprazolam,אלפרזולם,True,ANX_F01,N05BA12,,,10,Anxiolytics/Hypnotics,CNS,Xanax; panic disorder; גמילה קשה
+Lorazepam,לוראזפם,True,ANX_F01,N05BA06,,,10,Anxiolytics/Hypnotics,CNS,Ativan; glucuronidation ישירה — בטוח בכבד; IV/PO
+Temazepam,טמאזפם,True,ANX_F01,N05CD07,,,10,Anxiolytics/Hypnotics,CNS,Restoril; היפנוטי; glucuronidation ישירה
+Estazolam,אסטזולם,True,ANX_F01,N05CD04,,,10,Anxiolytics/Hypnotics,CNS,היפנוטי
+Diazepam,דיאזפם,True,ANX_F01,N05BA01,,,10,Anxiolytics/Hypnotics,CNS,"Valium; ספסטיות, עוויתות, גמילת אלכוהול; מטבוליטים פעילים"
+Chlordiazepoxide,כלורדיאזפוקסיד,True,ANX_F01,N05BA02,,,10,Anxiolytics/Hypnotics,CNS,Librium; גמילת אלכוהול
+Clonazepam,קלונאזפם,True,ANX_F01,N03AE01,,,10,Anxiolytics/Hypnotics,CNS,Klonopin; אנטיקונבולסנט + חרדה; אפילפסיה
+Clorazepate,קלוראזפאט,True,ANX_F01,N05BA05,,,10,Anxiolytics/Hypnotics,CNS,Tranxene; prodrug
+Flurazepam,פלוראזפם,True,ANX_F01,N05CD01,,,10,Anxiolytics/Hypnotics,CNS,Dalmane; היפנוטי; מטבוליטים פעילים ארוכי טווח
+Quazepam,קוואזפם,True,ANX_F01,N05CD10,,,10,Anxiolytics/Hypnotics,CNS,היפנוטי ארוך
+Midazolam,מידאזולם,True,ANX_F01,N05CD08,,,10,Anxiolytics/Hypnotics,CNS,Versed; IV; פרה-אנסתזיה; קצר פעולה
+Flumazenil,פלומזניל,True,ANX_F02,V03AB25,,,10,Anxiolytics/Hypnotics,CNS,Romazicon; IV; מנת יתר BZ; t½ קצר — ייתכן שידרש מתן חוזר
+Phenobarbital,פנוברביטל,True,ANX_F03,N03AA02,,,10,Anxiolytics/Hypnotics,CNS,Luminal; אנטיקונבולסנט; ארוך טווח; CYP inducer
+Pentobarbital,פנטוברביטל,True,ANX_F03,N05CA01,,,10,Anxiolytics/Hypnotics,CNS,Nembutal
+Secobarbital,סקוברביטל,True,ANX_F03,N05CA06,,,10,Anxiolytics/Hypnotics,CNS,Seconal
+Amobarbital,אמוברביטל,True,ANX_F03,N05CA02,,,10,Anxiolytics/Hypnotics,CNS,Amytal
+Thiopental,תיופנטל,True,ANX_F03,N01AF03,,,10,Anxiolytics/Hypnotics,CNS,Pentothal; IV אנסתזיה; ultra-short
+Zolpidem,זולפידם,True,ANX_F04,N05CF02,,,10,Anxiolytics/Hypnotics,CNS,"Ambien; onset 30 min, duration 5h; α1 selective"
+Zaleplon,זאלפלון,True,ANX_F04,N05CF03,,,10,Anxiolytics/Hypnotics,CNS,"Sonata; onset 30 min, duration 3h; הקצר ביותר"
+Eszopiclone,אסזופיקלון,True,ANX_F04,N05CF04,,,10,Anxiolytics/Hypnotics,CNS,"Lunesta; onset 20 min, duration 7h; יעיל עד 6 חודשים"
+Ramelteon,רמלטאון,True,ANX_F05,N05CH02,,,10,Anxiolytics/Hypnotics,CNS,"Rozerem; MT1/MT2; onset 30 min, 7h; ללא התמכרות; טיפול כרוני"
+Buspirone,בוספירון,True,ANX_F06,N05BE01,,,10,Anxiolytics/Hypnotics,CNS,BuSpar; 5-HT1A partial agonist; התחלה איטית; GAD כרוני; אין סדציה
+Diphenhydramine,דיפנהידרמין,False,ANX_F07,R06AA02,,,10,Anxiolytics/Hypnotics,CNS,"Benadryl; OTC sleep aid; ת""ל אנטיכולינרגיות"
+Hydroxyzine,הידרוקסיזין,False,ANX_F07,N05BB01,,,10,Anxiolytics/Hypnotics,CNS,Atarax; חרדה + אינסומניה; גם אנטיהיסטמין
+Doxepin (low-dose),דוקספין (מינון נמוך),True,ANX_F07,N05CM18,,,10,Anxiolytics/Hypnotics,CNS,Silenor; 3-6mg; H1 antagonist במינון נמוך; TCA במינון גבוה
+Propranolol,פרופרנולול,False,ANX_F08,C07AA05,,,10,Anxiolytics/Hypnotics,CNS,חסם β לא-סלקטיבי; performance anxiety; חפיפה דק 04
+Suvorexant,סוברקסנט,True,ANX_F09,N05CX02,,,10,Anxiolytics/Hypnotics,CNS,Belsomra; DORA; אינסומניה; ישנוניות למחרת
+Lemborexant,למבורקסנט,True,ANX_F09,N05CX03,,,10,Anxiolytics/Hypnotics,CNS,Dayvigo; DORA; onset מהיר יותר
+Daridorexant,דרידורקסנט,True,ANX_F09,N05CX,,,10,Anxiolytics/Hypnotics,CNS,Quviviq; DORA חדש; פחות ישנוניות למחרת
+Citalopram,,True,SSRIs,N06AB04,Slides,Celexa,11,Antidepressants,CNS,
+Escitalopram,,True,SSRIs,N06AB10,Slides,"Lexapro, Cipralex",11,Antidepressants,CNS,S-enantiomer of citalopram
+Fluoxetine,,True,SSRIs,N06AB03,Slides,Prozac,11,Antidepressants,CNS,Long t½; first widely used SSRI
+Fluvoxamine,,True,SSRIs,N06AB08,Slides,"Luvox, Faverin",11,Antidepressants,CNS,Mainly for OCD
+Paroxetine,,True,SSRIs,N06AB05,Slides,"Paxil, Seroxat",11,Antidepressants,CNS,"Short t½, higher withdrawal risk"
+Sertraline,,True,SSRIs,N06AB06,Slides,Zoloft,11,Antidepressants,CNS,
+Desvenlafaxine,,True,SNRIs,N06AX23,Slides,Pristiq,11,Antidepressants,CNS,Active metabolite of venlafaxine
+Duloxetine,,True,SNRIs,N06AX21,Slides,Cymbalta,11,Antidepressants,CNS,"Also for neuropathic pain, fibromyalgia"
+Levomilnacipran,,True,SNRIs,N06AX,Slides,Fetzima,11,Antidepressants,CNS,L-enantiomer of milnacipran; approved 2013
+Venlafaxine,,True,SNRIs,N06AX16,Slides,Effexor,11,Antidepressants,CNS,
+Milnacipran,,True,SNRIs,N06AX17,ATC,"Savella, Ixel",11,Antidepressants,CNS,Primarily for fibromyalgia (US); depression (EU)
+Amitriptyline,,True,TCAs,N06AA09,Slides,Elavil,11,Antidepressants,CNS,"Also used for neuropathic pain, migraine prophylaxis"
+Amoxapine,,True,TCAs,N06AA17,Slides,Asendin,11,Antidepressants,CNS,Also has dopamine-blocking activity
+Clomipramine,,True,TCAs,N06AA04,Slides,Anafranil,11,Antidepressants,CNS,First-line TCA for OCD
+Desipramine,,True,TCAs,N06AA01,Slides,Norpramin,11,Antidepressants,CNS,More NE-selective
+Doxepin,,True,TCAs,N06AA12,Slides,"Sinequan, Silenor",11,Antidepressants,CNS,Low-dose for insomnia
+Imipramine,,True,TCAs,N06AA02,Slides,Tofranil,11,Antidepressants,CNS,Prototypical TCA; also for enuresis
+Maprotiline,,True,TCAs,N06AA21,Slides,Ludiomil,11,Antidepressants,CNS,Tetracyclic; mainly NE reuptake
+Nortriptyline,,True,TCAs,N06AA10,Slides,Pamelor,11,Antidepressants,CNS,Active metabolite of amitriptyline
+Protriptyline,,True,TCAs,N06AA11,Slides,Vivactil,11,Antidepressants,CNS,Activating; less sedation
+Trimipramine,,True,TCAs,N06AA06,Slides,Surmontil,11,Antidepressants,CNS,Sedating; does not inhibit reuptake strongly
+Isocarboxazid,,True,MAOIs,N06AF01,Slides,Marplan,11,Antidepressants,CNS,Non-selective irreversible MAOI
+Phenelzine,,True,MAOIs,N06AF03,Slides,Nardil,11,Antidepressants,CNS,Non-selective irreversible MAOI
+Selegiline,,True,MAOIs,N06AG02,Slides,"Emsam (patch), Eldepryl",11,Antidepressants,CNS,MAO-B selective at low dose; transdermal avoids food interactions
+Tranylcypromine,,True,MAOIs,N06AF04,Slides,Parnate,11,Antidepressants,CNS,Non-selective irreversible MAOI
+Moclobemide,,True,MAOIs,N06AG02,ATC,"Aurorix, Manerix",11,Antidepressants,CNS,Reversible MAO-A inhibitor (RIMA); fewer food interactions
+Bupropion,,True,NDRI,N06AX12,Slides,"Wellbutrin, Zyban",11,Antidepressants,CNS,Also for smoking cessation; CI in bulimia/seizures
+Mirtazapine,,True,NaSSA,N06AX11,Slides,Remeron,11,Antidepressants,CNS,Sedating; weight gain; no sexual dysfunction
+Nefazodone,,True,SARIs,N06AX06,Slides,-,11,Antidepressants,CNS,Withdrawn in many countries (hepatotoxicity)
+Trazodone,,True,SARIs,N06AX05,Slides,Desyrel,11,Antidepressants,CNS,Low dose widely used for insomnia
+Vilazodone,,True,SMS,N06AX29,Slides,Viibryd,11,Antidepressants,CNS,SSRI + 5-HT1a partial agonist
+Vortioxetine,,True,Multimodal,N06AX26,Slides,Trintellix (Brintellix),11,Antidepressants,CNS,Approved 2013; multimodal serotonergic
+Lithium,,True,Lithium,N05AN01,Slides,"Lithobid, Eskalith",11,Antidepressants,CNS,Narrow therapeutic index; monitor thyroid & renal
+Esketamine,,True,NMDA Antagonist,N06AX27,ATC,Spravato,11,Antidepressants,CNS,Intranasal; approved 2019 for treatment-resistant depression
+Dextromethorphan/Bupropion,,True,NMDA+NDRI,N06AX,ATC,Auvelity,11,Antidepressants,CNS,Approved 2022; oral for MDD
+Brexanolone,,True,Neurosteroid GABA-A,N05CD13,ATC,Zulresso,11,Antidepressants,CNS,IV infusion; approved 2019 for postpartum depression
+Zuranolone,,True,Neurosteroid GABA-A,N05CD,ATC,Zurzuvae,11,Antidepressants,CNS,Oral; approved 2023 for postpartum depression
+Agomelatine,,True,Melatonergic antidepressant,N06AX22,ATC,Valdoxan,11,Antidepressants,CNS,MT1/MT2 agonist + 5-HT2C antagonist; approved EU
+Chlorpromazine,,True,FGA — Low Potency,N05AA01,Slides,Thorazine,12,Antipsychotics,CNS,"Prototype; also antiemetic; strong α-blockade, sedation"
+Thioridazine,,True,FGA — Low Potency,N05AC02,Slides,-,12,Antipsychotics,CNS,Restricted use; QT prolongation risk
+Fluphenazine,,True,FGA — High Potency,N05AB02,Slides,Prolixin,12,Antipsychotics,CNS,Available as LAI (decanoate); high EPS risk
+Haloperidol,,True,FGA — High Potency,N05AD01,Slides,Haldol,12,Antipsychotics,CNS,Widely used; LAI available; antiemetic; Tourette's
+Loxapine,,True,FGA — High Potency,N05AH01,Slides,"Loxitane, Adasuve",12,Antipsychotics,CNS,Also available as inhaled formulation
+Perphenazine,,True,FGA — High Potency,N05AB03,Slides,Trilafon,12,Antipsychotics,CNS,
+Pimozide,,True,FGA — High Potency,N05AG02,Slides,Orap,12,Antipsychotics,CNS,Tourette's; QT prolongation risk
+Prochlorperazine,,True,FGA — High Potency,N05AB04,Slides,Compazine,12,Antipsychotics,CNS,Mainly used as antiemetic
+Thiothixene,,True,FGA — High Potency,N05AF04,Slides,Navane,12,Antipsychotics,CNS,
+Trifluoperazine,,True,FGA — High Potency,N05AB06,Slides,Stelazine,12,Antipsychotics,CNS,
+Aripiprazole,,True,SGA (Atypical),N05AX12,Slides,Abilify,12,Antipsychotics,CNS,D2 partial agonist; lower metabolic risk; LAI available
+Asenapine,,True,SGA (Atypical),N05AH05,Slides,Saphris,12,Antipsychotics,CNS,Sublingual
+Clozapine,,True,SGA — Last Line,N05AH02,Slides,Clozaril,12,Antipsychotics,CNS,Treatment-resistant; agranulocytosis risk; requires blood monitoring
+Iloperidone,,True,SGA (Atypical),N05AX13,Slides,Fanapt,12,Antipsychotics,CNS,
+Lurasidone,,True,SGA (Atypical),N05AX15,Slides,Latuda,12,Antipsychotics,CNS,Low metabolic risk; also for bipolar depression
+Olanzapine,,True,SGA (Atypical),N05AH03,Slides,Zyprexa,12,Antipsychotics,CNS,Effective but high weight gain and metabolic risk
+Paliperidone,,True,SGA (Atypical),N05AX13,Slides,Invega,12,Antipsychotics,CNS,Active metabolite of risperidone; LAI available
+Quetiapine,,True,SGA (Atypical),N05AH04,Slides,Seroquel,12,Antipsychotics,CNS,"Also used for bipolar, insomnia adjunct; sedating"
+Risperidone,,True,SGA (Atypical),N05AX08,Slides,Risperdal,12,Antipsychotics,CNS,Widely used; LAI available; Tourette's; less relapse
+Ziprasidone,,True,SGA (Atypical),N05AE04,Slides,Geodon,12,Antipsychotics,CNS,Lower weight gain; QT prolongation concern
+Brexpiprazole,,True,D2 Partial Agonist,N05AX16,ATC,Rexulti,12,Antipsychotics,CNS,Approved 2015; D2/5-HT1A partial agonist; adjunct for MDD
+Cariprazine,,True,D2 Partial Agonist,N05AX15,ATC,Vraylar,12,Antipsychotics,CNS,Approved 2015; D2/D3 partial agonist; schizophrenia + bipolar
+Pimavanserin,,True,Selective 5-HT2A,N05AX17,ATC,Nuplazid,12,Antipsychotics,CNS,Approved 2016; Parkinson's disease psychosis; no D2 blockade
+Lumateperone,,True,SGA (Atypical),N05AX,ATC,Caplyta,12,Antipsychotics,CNS,Approved 2019; dual 5-HT2A/D2; low EPS; schizophrenia + bipolar
+Phenytoin,,True,Na+ Channel Blocker,N03AB02,Slides,Dilantin,13,Antiepileptics,CNS,1st line; zero-order kinetics; gingival hyperplasia; teratogenic; NOT for absence
+Fosphenytoin,,True,Na+ Channel Blocker,N03AB05,Slides,Cerebyx,13,Antiepileptics,CNS,IV/IM prodrug of phenytoin; status epilepticus
+Carbamazepine,,True,Na+ Channel Blocker,N03AF01,Slides,Tegretol,13,Antiepileptics,CNS,"2nd line; hyponatremia, rash; also bipolar & trigeminal neuralgia; NOT for absence"
+Oxcarbazepine,,True,Na+ Channel Blocker,N03AF02,Slides,Trileptal,13,Antiepileptics,CNS,Analog of carbamazepine; fewer drug interactions
+Eslicarbazepine,,True,Na+ Channel Blocker,N03AF04,Slides,Aptiom,13,Antiepileptics,CNS,Active metabolite of oxcarbazepine
+Lacosamide,,True,Na+ Channel Blocker,N03AX18,Slides,Vimpat,13,Antiepileptics,CNS,Enhances slow inactivation of Na+ channels; few interactions; Schedule V
+Ethosuximide,,True,Ca2+ Channel Blocker (T-type),N03AD01,Slides,Zarontin,13,Antiepileptics,CNS,2nd line; ONLY for generalized absence in children
+Valproic acid,,True,Multiple Mechanism,N03AG01,Slides,"Depakote, Depakene",13,Antiepileptics,CNS,1st line; ↑GABA + blocks Na+/Ca2+; hepatotoxic <2yr; teratogenic (neural tube); also bipolar
+Lamotrigine,,True,Multiple Mechanism,N03AX09,Slides,Lamictal,13,Antiepileptics,CNS,1st line; Na+/Ca2+ block; rash risk (SJS); titrate slowly; also bipolar; safe in elderly
+Topiramate,,True,Multiple Mechanism,N03AX11,Slides,Topamax,13,Antiepileptics,CNS,1st line; Na+/Ca2+ block + NMDA antagonist; weight loss; paresthesias; kidney stones; also migraine
+Levetiracetam,,True,Multiple Mechanism,N03AX14,Slides,Keppra,13,Antiepileptics,CNS,Broad spectrum; SV2A binding; few interactions; mood changes
+Zonisamide,,True,Multiple Mechanism,N03AX15,Slides,Zonegran,13,Antiepileptics,CNS,Broad spectrum; multiple mechanisms
+Rufinamide,,True,Multiple Mechanism,N03AX07,Slides,Banzel,13,Antiepileptics,CNS,Unknown mechanism; shortened QT; for Lennox-Gastaut
+Felbamate,,True,Multiple Mechanism,N03AX10,Slides,Felbatol,13,Antiepileptics,CNS,Last resort; aplastic anemia + hepatic failure risk; for refractory epilepsy
+Gabapentin,,True,Gabapentinoid,N03AX12,Slides,Neurontin,13,Antiepileptics,CNS,GABA analogue but not GABA-R; α2δ Ca2+ subunit; few interactions; also neuropathic pain; safe in elderly
+Pregabalin,,True,Gabapentinoid,N03AX16,Slides,Lyrica,13,Antiepileptics,CNS,"Similar to gabapentin; also for neuropathic pain, fibromyalgia, GAD"
+Diazepam,,False,BZD (antiepileptic),N05BA01,Slides,Valium,13,Antiepileptics,CNS,Status epilepticus (IV/rectal); also for myoclonic/atonic
+Lorazepam,,False,BZD (antiepileptic),N05BA06,Slides,Ativan,13,Antiepileptics,CNS,Status epilepticus (IV); preferred over diazepam
+Clonazepam,,False,BZD (antiepileptic),N03AE01,Slides,Klonopin,13,Antiepileptics,CNS,"Myoclonic, atonic seizures"
+Clobazam,,True,BZD (antiepileptic),N05BA09,Slides,Onfi,13,Antiepileptics,CNS,Adjunct for Lennox-Gastaut
+Phenobarbital,,False,Barbiturate,N03AA02,Slides,Luminal,13,Antiepileptics,CNS,Last line; ↑GABA + Na+ block; status epilepticus; sedation
+Primidone,,True,Barbiturate,N03AA03,Slides,Mysoline,13,Antiepileptics,CNS,Metabolized to phenobarbital; last line
+Tiagabine,,True,GABA Reuptake Inhibitor,N03AG06,Slides,Gabitril,13,Antiepileptics,CNS,Blocks GAT-1; adjunct for partial seizures
+Vigabatrin,,True,GABA-T Inhibitor,N03AG04,Slides,Sabril,13,Antiepileptics,CNS,Irreversible GABA-T inhibitor; vision loss risk; SHARE program only
+Perampanel,,True,AMPA Antagonist,N03AX22,Slides,Fycompa,13,Antiepileptics,CNS,Selective AMPA antagonist; psychiatric/behavioral side effects; long t½
+Ezogabine,,True,K+ Channel Opener,N03AX21,Slides,Potiga,13,Antiepileptics,CNS,KCNQ2/3 opener; retinal/skin discoloration; withdrawn in many markets
+Brivaracetam,,True,SV2A Ligand,N03AX23,ATC,Briviact,13,Antiepileptics,CNS,Approved 2016; higher SV2A affinity than levetiracetam; fewer mood effects
+Cannabidiol (CBD),,True,Cannabinoid,N03AX24,ATC,Epidiolex,13,Antiepileptics,CNS,"Approved 2018; Dravet, Lennox-Gastaut, tuberous sclerosis"
+Cenobamate,,True,Na+ + GABA-A,N03AX25,ATC,Xcopri,13,Antiepileptics,CNS,Approved 2019; focal seizures; slow titration required
+Fenfluramine,,True,Serotonin Releaser,N03AX26,ATC,Fintepla,13,Antiepileptics,CNS,Approved 2020; Dravet syndrome; cardiac monitoring (echocardiogram)
+Halothane,,True,Volatile (Inhaled) Anesthetics,N01AB01,Slides,Fluothane,14,Anesthetics,ANES,First modern volatile; hepatotoxicity risk; malignant hyperthermia risk; largely replaced
+Isoflurane,,True,Volatile (Inhaled) Anesthetics,N01AB06,Slides,Forane,14,Anesthetics,ANES,No hepatic/renal toxicity; no arrhythmias; pungent (not for induction); cheap
+Desflurane,,True,Volatile (Inhaled) Anesthetics,N01AB07,Slides,Suprane,14,Anesthetics,ANES,Rapid induction (low blood solubility); irritates airways; expensive; short procedures
+Sevoflurane,,True,Volatile (Inhaled) Anesthetics,N01AB08,Slides,Ultane,14,Anesthetics,ANES,Non-irritating — suitable for pediatric induction; rapid onset/recovery; some renal risk
+Nitrous oxide,,True,Volatile (Inhaled) Anesthetics,N01AX13,Slides,—,14,Anesthetics,ANES,"Potent analgesic, weak anesthetic; dental use; safest inhaled agent with adequate O2"
+Propofol,,True,Propofol (Alkylphenol),N01AX10,Slides,Diprivan,14,Anesthetics,ANES,Lipid emulsion; 30-40s onset; no analgesia; mild antiemetic; replaced thiopental
+Thiopental,,False,Barbiturates (Anesthetic),N01AF03,Slides,Pentothal,14,Anesthetics,ANES,Ultra-short acting; potent; no analgesia; bronchospasm risk; largely obsolete
+Ketamine,,True,Ketamine (Phencyclidine derivative),N01AX03,Slides,Ketalar,14,Anesthetics,ANES,Dissociative; provides analgesia; raises BP/CO; bronchodilator; hallucinations
+Etomidate,,True,Etomidate (Imidazole derivative),N01AX07,Slides,Amidate,14,Anesthetics,ANES,Short-acting; no CV effects; cortisol/aldosterone suppression; myoclonus
+Dexmedetomidine,,True,Dexmedetomidine (Alpha-2 agonist),N05CM18,Slides,Precedex,14,Anesthetics,ANES,Alpha-2 agonist; no respiratory depression; sedative+analgesic+anxiolytic
+Midazolam,,False,Benzodiazepines (Anesthetic use),N05CD08,Slides,"Dormicum, Versed",14,Anesthetics,ANES,Most common BZD in anesthesia; short-acting; anterograde amnesia
+Diazepam,,False,Benzodiazepines (Anesthetic use),N05BA01,Slides,Valium,14,Anesthetics,ANES,Longer acting; used for premedication
+Lorazepam,,False,Benzodiazepines (Anesthetic use),N05BA06,Slides,"Ativan, Lorivan",14,Anesthetics,ANES,Intermediate acting; premedication
+Fentanyl,,False,Opioid Anesthetics,N01AH01,Slides,"Sublimaze, Duragesic",14,Anesthetics,ANES,80-100x morphine; most common opioid in anesthesia; cross-ref deck 05
+Sufentanil,,False,Opioid Anesthetics,N01AH03,Slides,Sufenta,14,Anesthetics,ANES,5-10x fentanyl; cardiac surgery
+Remifentanil,,False,Opioid Anesthetics,N01AH06,Slides,Ultiva,14,Anesthetics,ANES,Ultra-short acting; ester metabolism; predictable offset
+Morphine,,False,Opioid Anesthetics,N02AA01,Slides,—,14,Anesthetics,ANES,Reference opioid; used IV/IT/epidural in anesthesia; cross-ref deck 05
+Succinylcholine,,True,Depolarizing NMBs,M03AB01,Slides,"Anectine, Quelicin",14,Anesthetics,ANES,Only depolarizing NMB in use; ultra-short; malignant hyperthermia risk
+Cisatracurium,,True,Non-depolarizing NMBs,M03AC11,Slides,Nimbex,14,Anesthetics,ANES,Hofmann degradation; organ-independent elimination
+Pancuronium,,True,Non-depolarizing NMBs,M03AC01,Slides,Pavulon,14,Anesthetics,ANES,Long-acting; vagolytic (tachycardia)
+Rocuronium,,True,Non-depolarizing NMBs,M03AC09,Slides,"Zemuron, Esmeron",14,Anesthetics,ANES,Rapid onset; intermediate duration; reversed by sugammadex
+Vecuronium,,True,Non-depolarizing NMBs,M03AC03,Slides,Norcuron,14,Anesthetics,ANES,Intermediate duration; minimal CV effects; reversed by sugammadex
+Lidocaine,,True,Local Anesthetics — Amides,N01BB02,Slides,Xylocaine,14,Anesthetics,ANES,Most widely used LA; rapid onset; intermediate duration; also antiarrhythmic (Ib)
+Bupivacaine,,True,Local Anesthetics — Amides,N01BB01,Slides,Marcaine,14,Anesthetics,ANES,High potency; slow onset; long duration; cardiotoxicity risk
+Mepivacaine,,True,Local Anesthetics — Amides,N01BB03,Slides,Carbocaine,14,Anesthetics,ANES,Low potency; moderate onset; intermediate duration
+Ropivacaine,,True,Local Anesthetics — Amides,N01BB09,Slides,Naropin,14,Anesthetics,ANES,High potency; moderate onset; long duration; less cardiotoxic than bupivacaine
+Prilocaine,,True,Local Anesthetics — Amides,N01BB04,Slides,Citanest,14,Anesthetics,ANES,Mentioned in comparison table; risk of methemoglobinemia
+Procaine,,True,Local Anesthetics — Esters,N01BA02,Slides,Novocaine,14,Anesthetics,ANES,Low potency; rapid onset; short duration
+Chloroprocaine,,True,Local Anesthetics — Esters,N01BA04,Slides,Nesacaine,14,Anesthetics,ANES,Low potency; rapid onset; short duration; fastest metabolism
+Tetracaine,,True,Local Anesthetics — Esters,N01BA03,Slides,Pontocaine,14,Anesthetics,ANES,High potency; slow onset; long duration (spinal)
+Cocaine,,True,Local Anesthetics — Esters,N01BC01,Slides,—,14,Anesthetics,ANES,Historical; vasoconstrictor properties; topical ENT use only; abuse potential
+Sugammadex,,True,NMB Reversal Agents,V03AB35,ATC,Bridion,14,Anesthetics,ANES,Selective reversal of rocuronium/vecuronium; cyclodextrin encapsulation; approved US 2015
+Remimazolam,,True,Benzodiazepines (Anesthetic use),N05CD13,ATC,Byfavo,14,Anesthetics,ANES,Ultra-short BZD for procedural sedation; ester metabolism; approved 2020
+Levobupivacaine,,True,Local Anesthetics — Amides,N01BB10,ATC,Chirocaine,14,Anesthetics,ANES,S-enantiomer of bupivacaine; less cardiotoxic; similar efficacy
+Articaine,,True,Local Anesthetics — Amides,N01BB08,ATC,"Septocaine, Ultracain",14,Anesthetics,ANES,Thiophene ring; popular in dental anesthesia; rapid onset
+Esketamine,,False,Ketamine (Phencyclidine derivative),N01AX14,ATC,"Ketanest-S, Spravato (nasal)",14,Anesthetics,ANES,S-enantiomer of ketamine; also approved for treatment-resistant depression (N06AX27)
+Dantrolene,,True,NMB Reversal Agents,M03CA01,Slides+ATC,Dantrium,14,Anesthetics,ANES,Treats malignant hyperthermia; blocks intracellular Ca²⁺ release in skeletal muscle
+Diphenhydramine,,True,H1 First Generation,R06AA02,Slides,Benadryl,15,Antihistamines (H1),ALRG,Strong sedation + anticholinergic; OTC sleep aid; also antiemetic
+Promethazine,,True,H1 First Generation,R06AD02,Slides,Phenergan,15,Antihistamines (H1),ALRG,Strong sedation; alpha-adrenergic blockade → hypotension; phenothiazine derivative
+Chlorpheniramine,,True,H1 First Generation,R06AB04,Slides,Chlor-Trimeton,15,Antihistamines (H1),ALRG,Substituted alkylamine; common in cold medications
+Brompheniramine,,True,H1 First Generation,R06AB01,Slides,Dimetapp,15,Antihistamines (H1),ALRG,Similar to chlorpheniramine
+Hydroxyzine,,True,H1 First Generation,N05BB01,Slides,"Atarax, Vistaril",15,Antihistamines (H1),ALRG,Piperazine derivative; anxiolytic properties; parent of cetirizine
+Clemastine,,True,H1 First Generation,R06AA04,Slides,"Tavegyl, Tavist",15,Antihistamines (H1),ALRG,Ethanolamine derivative; moderate sedation
+Cyclizine,,True,H1 First Generation,R06AE03,Slides,Marezine,15,Antihistamines (H1),ALRG,Piperazine; primarily antiemetic/motion sickness
+Cyproheptadine,,True,H1 First Generation,R06AX02,Slides,Periactin,15,Antihistamines (H1),ALRG,Serotonin antagonist → appetite stimulant; used in children for weight gain
+Dimenhydrinate,,True,H1 First Generation,R06AA52,Slides,Dramamine,15,Antihistamines (H1),ALRG,Diphenhydramine + 8-chlorotheophylline; motion sickness
+Doxylamine,,True,H1 First Generation,R06AA09,Slides,Unisom,15,Antihistamines (H1),ALRG,Strong sedation; OTC sleep aid; combined with pyridoxine for pregnancy nausea
+Meclizine,,True,H1 First Generation,R06AE05,Slides,"Antivert, Bonine",15,Antihistamines (H1),ALRG,Motion sickness and vertigo; less sedating than other 1st gen
+Loratadine,,True,H1 Second Generation,R06AX13,Slides,Claritin,15,Antihistamines (H1),ALRG,Non-sedating; OTC; hepatic metabolism (CYP)
+Fexofenadine,,True,H1 Second Generation,R06AX26,Slides,"Allegra, Telfast",15,Antihistamines (H1),ALRG,Non-sedating; active metabolite of terfenadine; no cardiac effects
+Cetirizine,,True,H1 Second Generation,R06AE07,Slides,Zyrtec,15,Antihistamines (H1),ALRG,Active metabolite of hydroxyzine; weak sedation potential; rapid onset
+Desloratadine,,True,H1 Second Generation,R06AX27,Slides,"Aerius, Clarinex",15,Antihistamines (H1),ALRG,Active metabolite of loratadine; non-sedating
+Levocetirizine,,True,H1 Second Generation,R06AE09,Slides,Xyzal,15,Antihistamines (H1),ALRG,R-enantiomer of cetirizine; slightly more potent
+Acrivastine,,True,H1 Second Generation,R06AX18,Slides,Semprex-D,15,Antihistamines (H1),ALRG,Short-acting; weak sedation potential
+Bilastine,,True,H1 Second Generation,R06AX29,ATC,"Blexten, Ilaxten",15,Antihistamines (H1),ALRG,Non-sedating 2nd gen; does not cross BBB; no CYP metabolism; approved EU 2010
+Rupatadine,,True,H1 Second Generation,R06AX28,ATC,"Rupafin, Wystamm",15,Antihistamines (H1),ALRG,Dual H1 + PAF (platelet-activating factor) antagonist; approved EU 2003
+Cimetidine,,True,H2 Receptor Blockers,A02BA01,Slides,Tagamet,16,GI Drugs,GI,"First H2 blocker; endocrine side effects (gynecomastia, impotence); CYP inhibitor; less used now"
+Famotidine,,True,H2 Receptor Blockers,A02BA03,Slides,Pepcid,16,GI Drugs,GI,Most commonly used H2 blocker today; well tolerated; OTC available
+Nizatidine,,True,H2 Receptor Blockers,A02BA04,Slides,Axid,16,GI Drugs,GI,Similar to ranitidine; fewer drug interactions than cimetidine
+Ranitidine,,True,H2 Receptor Blockers,A02BA02,Slides,Zantac,16,GI Drugs,GI,WITHDRAWN 2020 — NDMA contamination; was most popular H2 blocker
+Omeprazole,,True,Proton Pump Inhibitors (PPIs),A02BC01,Slides,"Prilosec, Losec",16,GI Drugs,GI,First PPI; OTC available; CYP2C19 substrate; CI with clopidogrel
+Esomeprazole,,True,Proton Pump Inhibitors (PPIs),A02BC05,Slides,Nexium,16,GI Drugs,GI,S-enantiomer of omeprazole; slightly better bioavailability
+Lansoprazole,,True,Proton Pump Inhibitors (PPIs),A02BC03,Slides,Prevacid,16,GI Drugs,GI,Also available as orally disintegrating tablet
+Dexlansoprazole,,True,Proton Pump Inhibitors (PPIs),A02BC06,Slides,Dexilant,16,GI Drugs,GI,R-enantiomer of lansoprazole; dual delayed-release
+Pantoprazole,,True,Proton Pump Inhibitors (PPIs),A02BC02,Slides,"Protonix, Controloc",16,GI Drugs,GI,Available IV; less CYP interaction; preferred in hospital
+Rabeprazole,,True,Proton Pump Inhibitors (PPIs),A02BC04,Slides,"Aciphex, Pariet",16,GI Drugs,GI,Non-enzymatic activation; less dependent on CYP2C19 genotype
+Misoprostol,,True,Prostaglandin Analogs (GI protective),A02BB01,Slides,Cytotec,16,GI Drugs,GI,PGE1 analog; prevents NSAID ulcers; CI in pregnancy (abortifacient); diarrhea common
+Dicyclomine,,True,Antimuscarinic Agents (GI),A03AA07,Slides,Bentyl,16,GI Drugs,GI,Antispasmodic; blocks muscarinic receptors in GI; also used for IBS cramps
+Aluminum hydroxide,,True,Antacids,A02AB01,Slides,Alternagel,16,GI Drugs,GI,Causes constipation; also used as adsorbent antidiarrheal; binds phosphate
+Calcium carbonate,,True,Antacids,A02AC01,Slides,Tums,16,GI Drugs,GI,Fast acting; calcium supplement; may cause rebound acid secretion
+Magnesium hydroxide,,True,Antacids,A02AA04,Slides,Milk of Magnesia,16,GI Drugs,GI,Causes diarrhea (osmotic); also saline laxative
+Sodium bicarbonate,,True,Antacids,A02AH,Slides,Various,16,GI Drugs,GI,Fast acting; systemic absorption; risk of alkalosis; avoid chronic use
+Sucralfate,,True,Mucosal Protective Agents,A02BX02,Slides,Carafate,16,GI Drugs,GI,Al-sucrose sulfate; forms gel barrier over ulcer; CI with antacids/PPI/H2; interferes drug absorption
+Bismuth subsalicylate,,True,Mucosal Protective Agents,A02BX05,Slides,Pepto-Bismol,16,GI Drugs,GI,Antibacterial + anti-pepsin + mucosal coat; part of H. pylori therapy; contains salicylate
+Diphenoxylate,,False,Antimotility Agents (Opioid-like),A07DA01,Slides,Lomotil (+ atropine),16,GI Drugs,GI,Opioid-like; combined with atropine to prevent abuse; not for children
+Loperamide,,False,Antimotility Agents (Opioid-like),A07DA03,Slides,Imodium,16,GI Drugs,GI,Does not cross BBB; OTC; most commonly used antidiarrheal; no CNS effects
+Bisacodyl,,True,Stimulant Laxatives,A06AB02,Slides,"Correctol, Dulcolax",16,GI Drugs,GI,Stimulates colonic peristalsis; oral or rectal
+Senna,,True,Stimulant Laxatives,A06AB06,Slides,"Ex-Lax, Senokot",16,GI Drugs,GI,Plant-derived; combined with opioids to prevent constipation; acts in ~8h
+Castor oil,,True,Stimulant Laxatives,A06AB05,Slides,—,16,GI Drugs,GI,Ricinoleic acid irritates intestine; CI in pregnancy (uterine contractions)
+Psyllium,,True,Bulk Laxatives,A06AC01,Slides,"Metamucil, Fiberall",16,GI Drugs,GI,Soluble fiber; absorbs water; requires adequate fluid; safest laxative class
+Methylcellulose,,True,Bulk Laxatives,A06AC06,Slides,Citrucel,16,GI Drugs,GI,Semi-synthetic fiber; less gas/bloating than psyllium
+Polyethylene glycol,,True,Osmotic / Saline Laxatives,A06AD65,Slides,"Miralax, Golytely, Moviprep",16,GI Drugs,GI,Osmotic; also bowel prep for colonoscopy; very well tolerated
+Lactulose,,True,Osmotic / Saline Laxatives,A06AD11,Slides,"Constulose, Kristalose",16,GI Drugs,GI,Synthetic disaccharide; also used for hepatic encephalopathy (reduces ammonia)
+Magnesium citrate,,True,Osmotic / Saline Laxatives,A06AD19,Slides,Citroma,16,GI Drugs,GI,Saline laxative; rapid effect; caution in renal impairment
+Docusate,,True,Stool Softeners / Lubricants,A06AA02,Slides,"Colace, Docu-Soft",16,GI Drugs,GI,Surfactant; softens stool; often combined with stimulant laxative
+Lubiprostone,,True,Chloride Channel Activators,A06AX03,Slides,Amitiza,16,GI Drugs,GI,"ClC-2 activator; prostaglandin-like; for chronic constipation, IBS-C; nausea common"
+Vonoprazan,,True,Potassium-Competitive Acid Blockers (P-CABs),A02BX13,ATC,Voquezna,16,GI Drugs,GI,P-CAB; reversible pump inhibition; faster onset than PPI; approved US 2022 for H. pylori
+Linaclotide,,True,Guanylate Cyclase-C Agonists,A06AX04,ATC,Linzess,16,GI Drugs,GI,GC-C agonist; for IBS-C and chronic constipation; approved 2012
+Plecanatide,,True,Guanylate Cyclase-C Agonists,A06AX05,ATC,Trulance,16,GI Drugs,GI,GC-C agonist; uroguanylin analog; approved 2017
+Naloxegol,,False,Peripherally Acting Mu-Opioid Antagonists (PAMORA),A06AH03,ATC,Movantik,16,GI Drugs,GI,Peripheral mu-opioid antagonist; for opioid-induced constipation; approved 2014
+Prucalopride,,True,Stimulant Laxatives,A06AX05,ATC,"Motegrity, Resolor",16,GI Drugs,GI,5-HT4 receptor agonist; for chronic constipation; approved US 2018
+Albuterol (salbutamol),,True,SABA,R03CC02,Slides,"ProAir, Proventil, Ventolin",17,Respiratory,RESP,Most common rescue inhaler; also nebulized
+Levalbuterol,,True,SABA,R03CC,Slides,Xopenex,17,Respiratory,RESP,R-enantiomer of albuterol; fewer cardiac side effects
+Salmeterol,,True,LABA,R03AC12,Slides,Serevent,17,Respiratory,RESP,12h duration; always with ICS in asthma
+Formoterol,,True,LABA,R03AC13,Slides,"Foradil, Perforomist",17,Respiratory,RESP,12h; fast onset (can be used as needed in some protocols)
+Indacaterol,,True,LABA,R03AC18,Slides,Arcapta,17,Respiratory,RESP,24h; once-daily; COPD only
+Arformoterol,,True,LABA,R03AC,Slides,Brovana,17,Respiratory,RESP,R-enantiomer of formoterol; nebulized; COPD
+Fluticasone,,False,ICS,R03BA05,Slides,"Flovent, Flonase",17,Respiratory,RESP,Most commonly used ICS; nasal + inhaled forms
+Budesonide,,False,ICS,R03BA02,Slides,"Pulmicort, Rhinocort",17,Respiratory,RESP,Nebulized form available for children
+Beclomethasone,,False,ICS,R03BA01,Slides,"QVAR, Beconase AQ",17,Respiratory,RESP,Older ICS; still used
+Mometasone,,False,ICS,R03BA07,Slides,"Asmanex, Nasonex",17,Respiratory,RESP,Once-daily; nasal + inhaled
+Ciclesonide,,False,ICS,R03BA08,Slides,"Alvesco, Omnaris, Zetonna",17,Respiratory,RESP,Prodrug; activated in lungs; fewer local side effects
+Triamcinolone,,False,ICS,R03BA06,Slides,Nasacort AQ,17,Respiratory,RESP,Nasal spray for allergic rhinitis
+Salmeterol/fluticasone,,True,LABA+ICS Combination,R03AK06,Slides,Advair,17,Respiratory,RESP,DPI or MDI; asthma + COPD
+Formoterol/budesonide,,True,LABA+ICS Combination,R03AK07,Slides,Symbicort,17,Respiratory,RESP,Also approved for as-needed (SMART therapy)
+Formoterol/mometasone,,True,LABA+ICS Combination,R03AK,Slides,Dulera,17,Respiratory,RESP,MDI
+Vilanterol/fluticasone,,True,LABA+ICS Combination,R03AK10,Slides,Breo Ellipta,17,Respiratory,RESP,Once-daily; COPD (also asthma)
+Ipratropium,,True,SAMA,R03BB01,Slides,Atrovent,17,Respiratory,RESP,Often combined with albuterol (Combivent)
+Tiotropium,,True,LAMA,R03BB04,Slides,Spiriva,17,Respiratory,RESP,Once-daily; COPD mainstay; also approved for asthma
+Aclidinium,,True,LAMA,R03BB05,Slides,Tudorza Pressair,17,Respiratory,RESP,Twice-daily; COPD
+Montelukast,,True,Leukotriene Modifiers,R03DC03,Slides,Singulair,17,Respiratory,RESP,LT receptor antagonist; asthma + allergic rhinitis; oral; black box: neuropsych effects
+Zafirlukast,,True,Leukotriene Modifiers,R03DC01,Slides,Accolate,17,Respiratory,RESP,LT receptor antagonist; asthma
+Zileuton,,True,Leukotriene Modifiers,R03DX02,Slides,Zyflo CR,17,Respiratory,RESP,5-LOX inhibitor; hepatotoxicity monitoring
+Oxymetazoline,,True,α-Adrenergic Agonists (nasal),R01AA05,Slides,"Afrin, Dristan",17,Respiratory,RESP,Topical; max 3 days → rebound congestion
+Phenylephrine,,True,α-Adrenergic Agonists (nasal),R01BA,Slides,"Neo-Synephrine, Sudafed PE",17,Respiratory,RESP,Oral/topical; debated efficacy orally
+Pseudoephedrine,,True,α-Adrenergic Agonists (nasal),R01BA02,Slides,Sudafed,17,Respiratory,RESP,Oral; effective; behind counter (meth precursor)
+Dextromethorphan,,False,Antitussives,R05DA09,Slides,Various (Robitussin DM),17,Respiratory,RESP,NMDA antagonist; OTC; abuse potential (high doses)
+Codeine,,False,Antitussives,R05DA04,Slides,Various,17,Respiratory,RESP,Opioid; Rx; cross-ref deck 05; often + guaifenesin
+Benzonatate,,True,Antitussives,R05DB01,Slides,Tessalon Perles,17,Respiratory,RESP,Local anesthetic-like; peripheral; numbs stretch receptors
+Guaifenesin,,True,Expectorants,R05CA10,Slides,Mucinex,17,Respiratory,RESP,Reduces mucus viscosity; OTC; often combined
+Cromolyn,,True,Mast Cell Stabilizers,R03BC01,Slides,Nasalcrom,17,Respiratory,RESP,Prophylactic only; 3-4x/day; bad taste; less used
+Omalizumab,,True,Anti-IgE,R03DX05,Slides,Xolair,17,Respiratory,RESP,SC q2-4wk; severe allergic asthma; expensive
+Roflumilast,,True,PDE4 Inhibitors,R03DX07,Slides,Daliresp,17,Respiratory,RESP,"Oral; severe COPD; nausea, diarrhea, weight loss"
+Theophylline,,True,Methylxanthines,R03DA04,Slides,"Elixophyllin, Theo-24, Uniphyl",17,Respiratory,RESP,Narrow TI; serum monitoring; less used; many drug interactions
+Olodaterol,,True,Ultra-LABA,R03AC19,ATC,Striverdi Respimat,17,Respiratory,RESP,Once-daily LABA; COPD; approved 2014
+Umeclidinium,,True,Additional LAMAs,R03BB07,ATC,Incruse Ellipta,17,Respiratory,RESP,Once-daily LAMA; COPD; approved 2013
+Glycopyrronium (inhaled),,True,Additional LAMAs,R03BB06,ATC,Seebri Breezhaler,17,Respiratory,RESP,Once/twice-daily LAMA; COPD
+Fluticasone/umeclidinium/vilanterol,,True,Triple Therapy,R03AL08,ATC,Trelegy Ellipta,17,Respiratory,RESP,First triple combo inhaler; COPD + asthma; approved 2017
+Mepolizumab,,True,Anti-IL5/IL5R,R03DX09,ATC,Nucala,17,Respiratory,RESP,Anti-IL5; severe eosinophilic asthma; SC q4wk; approved 2015
+Benralizumab,,True,Anti-IL5/IL5R,R03DX10,ATC,Fasenra,17,Respiratory,RESP,Anti-IL5Rα; depletes eosinophils; SC q4-8wk; approved 2017
+Dupilumab,,True,Anti-IL4/IL13,R03DX,ATC,Dupixent,17,Respiratory,RESP,Anti-IL4Rα; type 2 asthma; also atopic derm; SC q2wk; approved 2018
+Tezepelumab,,True,Anti-TSLP,R03DX,ATC,Tezspire,17,Respiratory,RESP,Anti-TSLP; broad asthma phenotypes; SC q4wk; approved 2021
+Cyclosporine,,True,Calcineurin Inhibitors,L04AD01,Slides,"Neoral, Sandimmune",18,Immunosuppressants,IMMUN,"Binds cyclophilin; nephrotoxicity, neurotoxicity, hepatotoxicity, HTN, hyperlipidemia, gingival hyperplasia, hirsutism"
+Tacrolimus,,True,Calcineurin Inhibitors,L04AD02,Slides,Prograf,18,Immunosuppressants,IMMUN,"Binds FKBP; 10-100x more potent than cyclosporine; nephrotoxicity, neurotoxicity, diabetes, alopecia"
+Sirolimus,,True,mTOR Inhibitors,L04AA10,Slides,Rapamune,18,Immunosuppressants,IMMUN,"Binds FKBP but inhibits mTOR (not calcineurin); hyperlipidemia, thrombocytopenia, delayed wound healing"
+Everolimus,,True,mTOR Inhibitors,L04AA18,Slides,"Afinitor, Zortress",18,Immunosuppressants,IMMUN,"Sirolimus derivative; also used in oncology (renal cell CA, breast CA); constipation, angioedema"
+Belatacept,,True,Co-stimulation Blockers,L04AA28,Slides,Nulojix,18,Immunosuppressants,IMMUN,CTLA4-Ig; blocks Signal 2; IV monthly; renal transplant; risk of PTLD (EBV-related)
+Azathioprine,,True,Purine Synthesis Inhibitors,L04AX01,Slides,Imuran,18,Immunosuppressants,IMMUN,"Prodrug of 6-MP; inhibits purine synthesis; bone marrow suppression, hepatotoxicity; avoid with allopurinol"
+Mycophenolate mofetil,,True,Purine Synthesis Inhibitors,L04AA06,Slides,CellCept,18,Immunosuppressants,IMMUN,"IMPDH inhibitor; selective for lymphocytes; GI upset, diarrhea, leukopenia; teratogenic"
+Mycophenolate sodium,,True,Purine Synthesis Inhibitors,L04AA06,Slides,Myfortic,18,Immunosuppressants,IMMUN,Enteric-coated formulation of mycophenolic acid; same mechanism; less GI upset
+Antithymocyte globulin (ATG),,True,Polyclonal Anti-T-cell Antibodies,L04AA04,Slides,"Atgam, Thymoglobulin",18,Immunosuppressants,IMMUN,"Polyclonal; destroys T cells; profound immunosuppression; fever, chills, CMV risk"
+Basiliximab,,True,Anti-IL-2 Receptor Antibody,L04AC02,Slides,Simulect,18,Immunosuppressants,IMMUN,Chimeric anti-CD25 mAb; blocks IL-2R; induction in renal transplant; GI side effects; well tolerated
+Muromonab-CD3,,True,Polyclonal Anti-T-cell Antibodies,L04AA02,Slides,OKT3 (discontinued),18,Immunosuppressants,IMMUN,Anti-CD3 mAb; destroys T cells; cytokine release syndrome; historically important; withdrawn
+Prednisone,,False,Glucocorticoids (Immunosuppressive),H02AB07,Slides,—,18,Immunosuppressants,IMMUN,Oral prodrug → prednisolone; most common oral steroid in transplant; many systemic side effects
+Prednisolone,,False,Glucocorticoids (Immunosuppressive),H02AB06,Slides,"Orapred, Prelone",18,Immunosuppressants,IMMUN,Active form; oral/IV; used when hepatic conversion impaired
+Methylprednisolone,,False,Glucocorticoids (Immunosuppressive),H02AB04,Slides,"Medrol, Solu-Medrol",18,Immunosuppressants,IMMUN,IV pulse for acute rejection; high-dose; also used in autoimmune flares
+Voclosporin,,True,Voclosporin (novel CNI),L04AD03,ATC,Lupkynis,18,Immunosuppressants,IMMUN,Modified cyclosporine; lupus nephritis; approved 2021; fixed dose; improved metabolic profile
+Tofacitinib,,True,JAK Inhibitors,L04AA29,ATC,Xeljanz,18,Immunosuppressants,IMMUN,"JAK1/3 inhibitor; RA, UC, psoriatic arthritis; approved 2012; infection/VTE risk"
+Baricitinib,,True,JAK Inhibitors,L04AA37,ATC,Olumiant,18,Immunosuppressants,IMMUN,"JAK1/2 inhibitor; RA, atopic dermatitis; approved 2018; also used in COVID-19"
+Upadacitinib,,True,JAK Inhibitors,L04AA44,ATC,Rinvoq,18,Immunosuppressants,IMMUN,"Selective JAK1 inhibitor; RA, UC, atopic derm, Crohn's; approved 2019"
+Propranolol,פרופרנולול,True,F01,,Slide 22,"Inderal, Deralin",19,Antihypertensives,CV,
+Nadolol,נדולול,True,F01,,Slide 22,Corgard,19,Antihypertensives,CV,
+Timolol,טימולול,True,F01,,Slide 22,Blocadren,19,Antihypertensives,CV,
+Pindolol,פינדולול,True,F01,,"Slide 22,26",Visken,19,Antihypertensives,CV,
+Penbutolol,פנבוטולול,True,F01,,Slide 22,Levatol,19,Antihypertensives,CV,
+Metoprolol,מטופרולול,True,F02,,Slide 22,"Lopressor, Toprol-XL",19,Antihypertensives,CV,
+Atenolol,אטנולול,True,F02,,Slide 22,Tenormin,19,Antihypertensives,CV,
+Nebivolol,נביבולול,True,F02,,Slide 22,Bystolic,19,Antihypertensives,CV,
+Bisoprolol,ביסופרולול,True,F02,,Slide 22,Zebeta,19,Antihypertensives,CV,
+Betaxolol,בטקסולול,True,F02,,Slide 22,Kerlone,19,Antihypertensives,CV,
+Esmolol,אסמולול,True,F02,,Slide 22,Brevibloc,19,Antihypertensives,CV,
+Acebutolol,אצבוטולול,True,F03,,"Slide 22,26",Sectral,19,Antihypertensives,CV,
+Pindolol,פינדולול,True,F03,,Slide 26,Visken,19,Antihypertensives,CV,
+Labetalol,לבטלול,True,F04,,Slide 25,Trandate,19,Antihypertensives,CV,
+Carvedilol,קרבדילול,True,F04,,Slide 25,Coreg,19,Antihypertensives,CV,
+Prazosin,פרזוסין,True,F05,,Slide 27,Minipress,19,Antihypertensives,CV,
+Doxazosin,דוקסזוסין,True,F05,,Slide 27,Cardura,19,Antihypertensives,CV,
+Terazosin,טרזוסין,True,F05,,Slide 27,Hytrin,19,Antihypertensives,CV,
+Captopril,קפטופריל,True,F06,,Slide 30,Capoten,19,Antihypertensives,CV,
+Enalapril,אנלפריל,True,F06,,Slide 30,Vasotec,19,Antihypertensives,CV,
+Lisinopril,ליסינופריל,True,F06,,Slide 30,"Prinivil, Zestril",19,Antihypertensives,CV,
+Fosinopril,פוסינופריל,True,F06,,Slide 30,Monopril,19,Antihypertensives,CV,
+Ramipril,רמיפריל,True,F06,,Slide 30,Altace,19,Antihypertensives,CV,
+Perindopril,פרינדופריל,True,F06,,Slide 30,Aceon,19,Antihypertensives,CV,
+Trandolapril,טרנדולפריל,True,F06,,Slide 30,Mavik,19,Antihypertensives,CV,
+Quinapril,קווינפריל,True,F06,,Slide 30,Accupril,19,Antihypertensives,CV,
+Benazepril,בנזפריל,True,F06,,Slide 30,Lotensin,19,Antihypertensives,CV,
+Moexipril,מואקסיפריל,True,F06,,Slide 30,Univasc,19,Antihypertensives,CV,
+Losartan,לוסרטן,True,F07,,Slide 32,Cozaar,19,Antihypertensives,CV,
+Irbesartan,אירבסרטן,True,F07,,Slide 32,Avapro,19,Antihypertensives,CV,
+Candesartan,קנדסרטן,True,F07,,Slide 32,Atacand,19,Antihypertensives,CV,
+Valsartan,ולסרטן,True,F07,,Slide 32,Diovan,19,Antihypertensives,CV,
+Telmisartan,טלמיסרטן,True,F07,,Slide 32,Micardis,19,Antihypertensives,CV,
+Olmesartan,אולמסרטן,True,F07,,Slide 32,Benicar,19,Antihypertensives,CV,
+Eprosartan,אפרוסרטן,True,F07,,Slide 32,Teveten,19,Antihypertensives,CV,
+Azilsartan medoxomil,אזילסרטן מדוקסומיל,True,F07,,Slide 32,Edarbi,19,Antihypertensives,CV,
+Aliskiren,אליסקירן,True,F08,,Slide 33,"Tekturna, Rasilez",19,Antihypertensives,CV,
+Spironolactone,ספירונולקטון,False,F09,,Slide 29,Aldactone,19,Antihypertensives,CV,
+Eplerenone,אפלרנון,False,F09,,ATC,Inspra,19,Antihypertensives,CV,
+Nifedipine,ניפדיפין,True,F10,,Slide 34,"Adalat, Procardia",19,Antihypertensives,CV,
+Amlodipine,אמלודיפין,True,F10,,Slide 34,Norvasc,19,Antihypertensives,CV,
+Felodipine,פלודיפין,True,F10,,Slide 34,Plendil,19,Antihypertensives,CV,
+Isradipine,יסרדיפין,True,F10,,Slide 34,DynaCirc,19,Antihypertensives,CV,
+Nicardipine,ניקרדיפין,True,F10,,Slide 34,Cardene,19,Antihypertensives,CV,
+Nisoldipine,ניסולדיפין,True,F10,,Slide 34,Sular,19,Antihypertensives,CV,
+Clevidipine,קלבידיפין,True,F10,,Slide 34,Cleviprex,19,Antihypertensives,CV,
+Verapamil,ורפמיל,True,F11,,Slide 34,"Calan, Isoptin, Verelan",19,Antihypertensives,CV,
+Diltiazem,דילטיאזם,True,F12,,Slide 34,"Cardizem, Cartia, Dilacor",19,Antihypertensives,CV,
+Clonidine,קלונידין,True,F13,,Slide 36,Catapres,19,Antihypertensives,CV,
+Methyldopa,מתילדופה,True,F13,,Slide 36,Aldomet,19,Antihypertensives,CV,
+Hydralazine,הידרלזין,True,F14,,Slide 37,Apresoline,19,Antihypertensives,CV,
+Minoxidil,מינוקסידיל,True,F14,,Slide 37,"Loniten (oral), Rogaine (topical)",19,Antihypertensives,CV,
+Sacubitril/Valsartan,סקוביטריל/ולסרטן,True,F15,,ATC (2015),Entresto,19,Antihypertensives,CV,
+Finerenone,פינרנון,False,F16,,ATC (2021),Kerendia,19,Antihypertensives,CV,
+Acetazolamide,אצטזולמיד,True,F01,,Slide 12,Diamox,20,Diuretics,CV,Only CA inhibitor in clinical diuretic use; irreversible
+Mannitol,מניטול,True,F02,,"Slide 10,14",Osmitrol,20,Diuretics,CV,"IV; filtered freely, not reabsorbed; for cerebral edema, ↑ICP, ↑IOP, acute renal failure"
+Urea,אוראה,True,F02,,Slide 10,,20,Diuretics,CV,"IV; similar to mannitol, less commonly used"
+Furosemide,פורוסמיד,True,F03,,Slide 16,Lasix,20,Diuretics,CV,Most widely used loop diuretic; IV + oral
+Bumetanide,בומטניד,True,F03,,Slide 16,Bumex,20,Diuretics,CV,More potent per mg than furosemide
+Torsemide,טורסמיד,True,F03,,Slide 16,Demadex,20,Diuretics,CV,Longer half-life
+Ethacrynic acid,חומצה אתקרינית,True,F03,,Slide 16,Edecrin,20,Diuretics,CV,Not sulfonamide-derived; safe in sulfa allergy
+Hydrochlorothiazide,הידרוכלורותיאזיד,True,F04,,Slide 19,"Microzide, Esidrix",20,Diuretics,CV,Most common thiazide; HCTZ
+Chlorothiazide,כלורותיאזיד,True,F04,,Slide 19,Diuril,20,Diuretics,CV,First thiazide; IV formulation available
+Chlorthalidone,כלורתלידון,True,F04,,Slide 19,"Hygroton, Thalitone",20,Diuretics,CV,Thiazide-like; longer acting; preferred for HTN in guidelines
+Metolazone,מטולזון,True,F04,,Slide 19,Zaroxolyn,20,Diuretics,CV,Thiazide-like; effective even in renal impairment; synergy with loop diuretics
+Indapamide,אינדפמיד,True,F04,,Slide 19,Lozol,20,Diuretics,CV,Thiazide-like; also vasodilator; less metabolic SE
+Triamterene,טריאמטרן,True,F05,,Slide 22,Dyrenium,20,Diuretics,CV,Direct ENaC blocker; weak diuretic
+Amiloride,אמילוריד,True,F05,,Slide 22,Midamor,20,Diuretics,CV,Direct ENaC blocker; also used for Liddle syndrome
+Spironolactone,ספירונולקטון,True,F06,,Slide 22,Aldactone,20,Diuretics,CV,"Steroidal MRA; anti-androgenic SE (gynecomastia); also for PCOS, hyperaldosteronism"
+Eplerenone,אפלרנון,True,F06,,Slide 22,Inspra,20,Diuretics,CV,Selective steroidal MRA; fewer endocrine SE than spironolactone
+Tolvaptan,טולבפטן,True,F07,,Slide 10,"Samsca, Jynarque",20,Diuretics,CV,"V2-receptor antagonist; for SIADH, hyponatremia, PKD"
+Dapagliflozin,דפגליפלוזין,False,F08,,ATC (2014),"Forxiga, Farxiga",20,Diuretics,CV,SGLT2 inhibitor; approved HF (2020) + CKD (2021) beyond diabetes
+Empagliflozin,אמפגליפלוזין,False,F08,,ATC (2014),Jardiance,20,Diuretics,CV,SGLT2 inhibitor; CV benefit demonstrated (EMPA-REG)
+Canagliflozin,קנגליפלוזין,False,F08,,ATC (2013),Invokana,20,Diuretics,CV,SGLT2 inhibitor; first in class (2013)
+Nitroglycerin (glyceryl trinitrate),,True,Organic Nitrates & Nitrites,C01DA02,Slides,"Nitrostat, Nitrolingual, Nitro-Dur",22,Angina Pectoris,CV,"High first-pass metabolism; SL (acute, onset 2min/25min duration) or transdermal/sustained-release (chronic, 30min onset/10-12hr); the cornerstone acute anti-anginal"
+Isosorbide dinitrate (ISDN),,True,Organic Nitrates & Nitrites,C01DA08,Slides,"Isoket, Isordil",22,Angina Pectoris,CV,"Low first-pass; SL (acute, 5min onset/1hr) or oral slow-release (chronic, 30min/8hr); denitrated to 2 active mononitrates; also used in HF combo with hydralazine (deck 21)"
+Isosorbide mononitrate (ISMN),,True,Organic Nitrates & Nitrites,C01DA14,Slides,"Imdur, Monoket",22,Angina Pectoris,CV,Active metabolite of ISDN; oral extended-release (30min onset/12-24hr); 100% bioavailability; preferred for chronic prophylaxis
+Ranolazine,,True,Late Sodium Channel Blocker,C01EB18,Slides,Ranexa,22,Angina Pectoris,CV,Add-on therapy when first-line agents insufficient; CYP3A4 substrate (avoid with strong 3A4 inhibitors); may prolong QT; no effect on HR or BP
+Propranolol,,False,β-Blockers (anti-anginal),C07AA05,Slides (xref→19),"Inderal, Deralin",22,Angina Pectoris,CV,"Non-selective β1+β2; also used for anxiety, tremor, migraine prophylaxis; avoid in asthma/COPD"
+Atenolol,,False,β-Blockers (anti-anginal),C07AB03,Slides (xref→19),"Normalol, Tenormin",22,Angina Pectoris,CV,Cardioselective β1; widely used for stable angina; once-daily dosing
+Bisoprolol,,False,β-Blockers (anti-anginal),C07AB07,Slides (xref→19),Concor,22,Angina Pectoris,CV,Cardioselective β1; also approved for HF (deck 21)
+Metoprolol,,False,β-Blockers (anti-anginal),C07AB02,Slides (xref→19),"Betaloc, Lopressor",22,Angina Pectoris,CV,Cardioselective β1; tartrate (angina/HTN) vs succinate (HF); short-acting form for angina
+Amlodipine,,False,CCBs — DHP (anti-anginal),C08CA01,Slides (xref→19),"Norvasc, Amlodex",22,Angina Pectoris,CV,Long-acting DHP; once-daily; well tolerated; effective for both stable and vasospastic angina
+Felodipine,,False,CCBs — DHP (anti-anginal),C08CA02,Slides (xref→19),Plendil,22,Angina Pectoris,CV,DHP; mainly vascular selectivity; extended-release
+Nifedipine,,False,CCBs — DHP (anti-anginal),C08CA05,Slides (xref→19),"Adalat, Osmo-Adalat",22,Angina Pectoris,CV,DHP; IR form can cause reflex tachycardia — use extended-release; effective for vasospastic angina
+Verapamil,,False,CCBs — non-DHP (anti-anginal),C08DA01,Slides (xref→19),"Ikacor, Calan",22,Angina Pectoris,CV,Phenylalkylamine; ↓HR + ↓contractility; effective for vasospastic angina; avoid in HF and with β-blockers (AV block risk)
+Diltiazem,,False,CCBs — non-DHP (anti-anginal),C08DB01,Slides (xref→19),"Tildiem, Cardizem",22,Angina Pectoris,CV,Benzothiazepine; intermediate cardiac/vascular effects; safe in vasospastic angina; caution with β-blockers
+Aspirin,,False,Antithrombotic (ACS),B01AC06,Slides (xref→07),"Micropirin, Aspirin Cardio, Cartia",22,Angina Pectoris,CV,Low-dose (75-100mg); irreversible COX-1 inhibition; cornerstone of ACS/CAD secondary prevention
+Heparin (UFH),,False,Antithrombotic (ACS),B01AB01,Slides (xref→07),Heparin,22,Angina Pectoris,CV,IV; acute ACS setting; activates antithrombin III; monitored by aPTT
+Warfarin,,False,Antithrombotic (ACS),B01AA03,Slides (xref→07),Coumadin,22,Angina Pectoris,CV,Oral VKA; less commonly used in pure CAD (DOACs and antiplatelets preferred); still used in AF + CAD overlap
+Ivabradine,,True,If-Channel Blocker (anti-anginal),C01EB17,Slides (xref→21),"Corlanor, Procoralan",22,Angina Pectoris,CV,Also in slides 25-26 for angina (separate from HF indication in deck 21); ↓HR by slowing diastolic depolarization; luminous phenomena
+Ticagrelor,,False,P2Y12 Inhibitors (ACS),B01AC24,ATC (xref→07),Brilinta,22,Angina Pectoris,CV,Reversible P2Y12 blocker; preferred over Clopidogrel for ACS; faster onset; already in deck 07
+Prasugrel,,False,P2Y12 Inhibitors (ACS),B01AC22,ATC (xref→07),Effient,22,Angina Pectoris,CV,Irreversible P2Y12; more potent than Clopidogrel; higher bleeding risk; already in deck 07
+Nicorandil,,True,Nicorandil (K-ATP + nitrate),C01DX12,ATC,"Ikorel, Dancor, Sigmart",22,Angina Pectoris,CV,Not in slides; dual mechanism (K-ATP opener + NO donor); used in Europe/Japan; oral ulcers as notable side effect; not FDA-approved
+Quinidine,,True,Class IA,C01BA01,Slides,Quinidine Sulfate,23,Cardiac Arrhythmia,CV,Also blocks K+/Ca²+ channels + α1; Torsades de Pointes risk; cinchonism toxicity; Pgp inhibitor; CYP450 substrate/inhibitor
+Procainamide,,True,Class IA,C01BA02,Slides,Pronestyl,23,Cardiac Arrhythmia,CV,IV hypotension; lupus-like syndrome with chronic use; NAPA active metabolite (class III activity)
+Disopyramide,,True,Class IA,C01BA03,Slides,Norpace,23,Cardiac Arrhythmia,CV,"Strong anticholinergic effects (dry mouth, urinary retention); negative inotropic → avoid in HF"
+Lidocaine,,False,Class IB,C01BB01,Slides,Xylocaine (IV),23,Cardiac Arrhythmia,CV,"IV only for cardiac use; ventricular arrhythmias; also local anesthetic (deck 14); CNS toxicity (nystagmus, confusion, slurred speech)"
+Mexiletine,,True,Class IB,C01BB02,Slides,Mexitil,23,Cardiac Arrhythmia,CV,Oral alternative to lidocaine; for chronic ventricular arrhythmias; CNS side effects
+Flecainide,,True,Class IC,C01BC04,Slides,Tambocor,23,Cardiac Arrhythmia,CV,Also has β-blocking activity; for supraventricular arrhythmias WITHOUT structural heart disease; CAST trial showed increased mortality post-MI
+Propafenone,,True,Class IC,C01BC03,Slides,Rytmonorm,23,Cardiac Arrhythmia,CV,Also mild β-blocker; contraindicated in asthma; for AF without structural disease; CNS side effects; worsens HF
+Metoprolol,,False,Class II (β-Blocker),C07AB02,Slides (xref→19),Betaloc,23,Cardiac Arrhythmia,CV,"Most commonly used for AF rate control, post-MI arrhythmia prevention; also in SVT"
+Esmolol,,False,Class II (β-Blocker),C07AB09,Slides (xref→19),Brevibloc,23,Cardiac Arrhythmia,CV,Ultra-short acting IV; t½ ~9 min; for intraoperative arrhythmias; easily titratable
+Atenolol,,False,Class II (β-Blocker),C07AB03,Slides (xref→19),Normalol,23,Cardiac Arrhythmia,CV,Cardioselective; for arrhythmia prevention
+Sotalol,,True,Class III (also β-blocker),C07AA07,Slides,"Sotacor, Betapace",23,Cardiac Arrhythmia,CV,Dual: non-selective β-blocker + K+ channel blocker; bronchospasm + bradycardia (β) + Torsades (K+); for general arrhythmias
+Amiodarone,,True,Class III (multi-channel),C01BD01,Slides,"Cordarone, Pacerone",23,Cardiac Arrhythmia,CV,"Blocks Na+/K+/Ca²+ channels; most effective antiarrhythmic; many side effects (thyroid, lung fibrosis, corneal deposits, photosensitivity); many drug interactions; low-dose + close monitoring now standard; for refractory arrhythmias"
+Dronedarone,,True,Class III,C01BD07,Slides,Multaq,23,Cardiac Arrhythmia,CV,Amiodarone analog without iodine; fewer thyroid/pulmonary effects; less effective; contraindicated in severe HF (ANDROMEDA trial)
+Ibutilide,,True,Class III,C01BD05,Slides,Corvert,23,Cardiac Arrhythmia,CV,IV only; for acute conversion of atrial flutter/fibrillation; Torsades risk; hospital use only
+Dofetilide,,True,Class III (pure K+ blocker),C01BD04,Slides,Tikosyn,23,Cardiac Arrhythmia,CV,Pure IKr blocker; first-line for AF conversion; hospital initiation required (Torsades monitoring); renal dose adjustment
+Verapamil,,False,Class IV (CCB),C08DA01,Slides (xref→19),Ikacor,23,Cardiac Arrhythmia,CV,"Cardiac depression; for nodal arrhythmias + AF rate control; many interactions (CYP450, Pgp)"
+Diltiazem,,False,Class IV (CCB),C08DB01,Slides (xref→19),Tildiem,23,Cardiac Arrhythmia,CV,For acute SVT + AF rate control; less cardiac depression than Verapamil
+Adenosine,,True,Other,C01EB10,Slides,Adenocor,23,Cardiac Arrhythmia,CV,"IV bolus; t½ ~10 sec; first-line for acute SVT; diagnostic (unmasks atrial flutter); flushing, chest tightness, transient asystole"
+Magnesium sulfate,,True,Other,A12CC02,Slides,MgSO₄ IV,23,Cardiac Arrhythmia,CV,For Torsades de Pointes; for digitalis-induced arrhythmias; IV administration
+Digoxin,,True,Other (cardiac glycoside),C01AA05,Slides (xref→21),Lanoxin,23,Cardiac Arrhythmia,CV,Rate control in AF/flutter; higher antiarrhythmic dose (1-2 ng/mL) vs HF dose (0.5-0.8); narrow TI
+Vernakalant,,True,Atrial-selective Na+/K+ blocker,C01BG11,ATC (2010 EU),Brinavess,23,Cardiac Arrhythmia,CV,IV; rapid AF cardioversion (<7 days duration); atrial-selective; not FDA-approved; avoid in HF/hypotension/QT prolongation
+Penicillin G,פניצילין G,True,Penicillins,J01CE01,Slide+PDF,,24,Antimicrobials Intro,ANTI,"Pneumonia, gonorrhea, syphilis; does not cross BBB except meningitis"
+Penicillin V,פניצילין V,True,Penicillins,J01CE02,Slide,,24,Antimicrobials Intro,ANTI,Oral form; acid-stable
+Amoxicillin,אמוקסיצילין,True,Penicillins,J01CA04,PDF,,24,Antimicrobials Intro,ANTI,Extended spectrum; dental prophylaxis; crosses placenta safely
+Ampicillin,אמפיצילין,True,Penicillins,J01CA01,Slide,,24,Antimicrobials Intro,ANTI,Extended spectrum; G+ and some G− bacilli
+Oxacillin,אוקסצילין,True,Penicillins,J01CF04,Slide,,24,Antimicrobials Intro,ANTI,Penicillinase-resistant; MSSA
+Nafcillin,נפצילין,True,Penicillins,J01CF06,Slide,,24,Antimicrobials Intro,ANTI,Penicillinase-resistant
+Dicloxacillin,דיקלוקסצילין,True,Penicillins,J01CF01,Slide,,24,Antimicrobials Intro,ANTI,Penicillinase-resistant; oral
+Piperacillin,פיפרצילין,True,Penicillins,J01CA12,Slide,,24,Antimicrobials Intro,ANTI,Often combined with tazobactam
+Ticarcillin,טיקרצילין,True,Penicillins,J01CA13,Slide,,24,Antimicrobials Intro,ANTI,Often combined with clavulanate
+Clavulanic acid,חומצה קלבולנית,True,β-Lactamase Inhibitors,J01CR02,PDF,,24,Antimicrobials Intro,ANTI,Combined with amoxicillin (Augmentin) or ticarcillin
+Sulbactam,סולבקטם,True,β-Lactamase Inhibitors,J01CR01,PDF,,24,Antimicrobials Intro,ANTI,Combined with ampicillin (Unasyn)
+Tazobactam,טזובקטם,True,β-Lactamase Inhibitors,J01CR05,PDF,,24,Antimicrobials Intro,ANTI,Combined with piperacillin (Tazocin)
+Cefazolin,צפזולין,True,Cephalosporins,J01DB04,PDF,,24,Antimicrobials Intro,ANTI,"Strep+Staph, community E.coli; surgical prophylaxis"
+Cefuroxime,צפורוקסים,True,Cephalosporins,J01DC02,PDF,,24,Antimicrobials Intro,ANTI,"Broader G−; H.influenzae, Moraxella; pneumonia, UTI"
+Cefaclor,צפקלור,True,Cephalosporins,J01DC04,PDF,,24,Antimicrobials Intro,ANTI,"Oral; bronchitis, otitis"
+Ceftriaxone,צפטריאקסון,True,Cephalosporins,J01DD04,PDF,,24,Antimicrobials Intro,ANTI,Meningitis first-line; gonorrhea; crosses CSF well
+Ceftazidime,צפטזידים,True,Cephalosporins,J01DD02,PDF,,24,Antimicrobials Intro,ANTI,Anti-pseudomonal; severe G− infections
+Cefotaxime,צפוטקסים,True,Cephalosporins,J01DD01,Slide,,24,Antimicrobials Intro,ANTI,Broad G−; neonatal meningitis
+Cefepime,צפפים,True,Cephalosporins,J01DE01,PDF,,24,Antimicrobials Intro,ANTI,Broad G− incl. Pseudomonas + MSSA + resistant pneumococci
+Ceftaroline,צפטרולין,True,Cephalosporins,J01DI02,PDF,,24,Antimicrobials Intro,ANTI,"Covers MRSA, resistant strep, ESBL; skin infections + CAP"
+Imipenem,אימיפנם,True,Carbapenems,J01DH51,PDF,,24,Antimicrobials Intro,ANTI,Broadest spectrum; given with cilastatin; meningitis
+Meropenem,מרופנם,True,Carbapenems,J01DH02,PDF,,24,Antimicrobials Intro,ANTI,Similar to imipenem; better CNS penetration
+Doripenem,דוריפנם,True,Carbapenems,J01DH04,PDF,,24,Antimicrobials Intro,ANTI,Anti-pseudomonal
+Ertapenem,ארטפנם,True,Carbapenems,J01DH03,PDF,,24,Antimicrobials Intro,ANTI,Lacks Pseudomonas coverage; once daily
+Aztreonam,אזטריאונם,True,Monobactams,J01DF01,PDF,,24,Antimicrobials Intro,ANTI,G− only incl. Pseudomonas; safe for penicillin-allergic
+Vancomycin,ונקומיצין,True,Glycopeptides,J01XA01,Slide+PDF,,24,Antimicrobials Intro,ANTI,IV for MRSA systemic; PO for C.diff colitis; Red man syndrome; oto/nephrotoxic; TDM required
+Bacitracin,באציטרצין,True,Bacitracin,D06AX05,PDF,,24,Antimicrobials Intro,ANTI,Topical only (systemic toxicity); skin trauma prevention
+Daptomycin,דפטומיצין,True,Lipopeptides,J01XX09,Slide+PDF,,24,Antimicrobials Intro,ANTI,"MRSA/VRE bacteremia, skin; CI in pneumonia (surfactant inactivates); watch myopathy+statins"
+Telavancin,טלבנצין,True,Lipoglycopeptides,J01XA03,PDF,,24,Antimicrobials Intro,ANTI,Alt to vancomycin/daptomycin; skin infections; CI pregnancy; QT prolongation
+Polymyxin B,פולימיקסין B,True,Polymyxins,J01XB02,Slide+PDF,,24,Antimicrobials Intro,ANTI,G− MDR; CNS+nephrotoxic; prefer topical
+Colistin (Polymyxin E),קוליסטין,True,Polymyxins,J01XB01,PDF,,24,Antimicrobials Intro,ANTI,G− MDR; last resort; nephrotoxic
+Tetracycline,טטרציקלין,True,Tetracyclines,J01AA07,PDF,,24,Antimicrobials Intro,ANTI,Broad; avoid dairy/antacids; photosensitivity
+Doxycycline,דוקסיציקלין,True,Tetracyclines,J01AA02,PDF,,24,Antimicrobials Intro,ANTI,"Acne, chlamydia, cholera; photosensitivity; CI pregnancy/children<8"
+Minocycline,מינוציקלין,True,Tetracyclines,J01AA08,PDF,,24,Antimicrobials Intro,ANTI,Vestibular side effects; hepatotoxic
+Demeclocycline,דמקלוציקלין,True,Tetracyclines,J01AA01,PDF,,24,Antimicrobials Intro,ANTI,Also used for SIADH (ADH antagonism)
+Gentamicin,גנטמיצין,True,Aminoglycosides,J01GB03,Slide+PDF,,24,Antimicrobials Intro,ANTI,Oto/nephrotoxic; TDM required; CI pregnancy (teratogen); synergy with β-lactams
+Amikacin,אמיקצין,True,Aminoglycosides,J01GB06,PDF,,24,Antimicrobials Intro,ANTI,Broader G− coverage; resistant to many AMG-modifying enzymes
+Tobramycin,טוברמיצין,True,Aminoglycosides,J01GB01,Slide+PDF,,24,Antimicrobials Intro,ANTI,Anti-pseudomonal; inhaled for CF
+Streptomycin,סטרפטומיצין,True,Aminoglycosides,J01GA01,PDF,,24,Antimicrobials Intro,ANTI,TB (second-line); endocarditis combo
+Neomycin,ניאומיצין,True,Aminoglycosides,J01GB05,PDF,,24,Antimicrobials Intro,ANTI,PO pre-abdominal surgery; topical for skin; too toxic for parenteral
+Erythromycin,אריתרומיצין,True,Macrolides,J01FA01,PDF,,24,Antimicrobials Intro,ANTI,Like Pen G + broader; CYP450 inhibitor; GI side effects; QT risk
+Azithromycin,אזיתרומיצין,True,Macrolides,J01FA10,Slide+PDF,,24,Antimicrobials Intro,ANTI,Respiratory + chlamydia; long t½; fewer drug interactions
+Clarithromycin,קלריתרומיצין,True,Macrolides,J01FA09,PDF,,24,Antimicrobials Intro,ANTI,H.pylori combo; H.influenzae; CYP450 inhibitor
+Telithromycin,טליתרומיצין,True,Ketolides,J01FA15,PDF,,24,Antimicrobials Intro,ANTI,Respiratory infections; hepatotoxicity concern; no cross-resistance with macrolides
+Chloramphenicol,כלורמפניקול,True,Chloramphenicol,J01BA01,Slide+PDF,,24,Antimicrobials Intro,ANTI,"Very broad but severe toxicity: aplastic anemia, gray baby syndrome; crosses CSF; reserved for life-threatening; topical=Synthomycin"
+Clindamycin,קלינדמיצין,True,Lincosamides,J01FF01,Slide+PDF,,24,Antimicrobials Intro,ANTI,"G+, MRSA, anaerobes; risk of C.diff colitis; topical for acne"
+Linezolid,לינזוליד,True,Oxazolidinones,J01XX08,Slide+PDF,,24,Antimicrobials Intro,ANTI,"VRE, MRSA; max 28 days (vision damage); MAO inhibitor; serotonin syndrome risk"
+Mupirocin,מופירוצין,True,Mupirocin,D06AX09,PDF,,24,Antimicrobials Intro,ANTI,Impetigo; MRSA nasal decolonization
+Ciprofloxacin,ציפרופלוקסצין,True,Fluoroquinolones,J01MA02,PDF,,24,Antimicrobials Intro,ANTI,"Systemic G− infections, Pseudomonas in CF, Salmonella, E.coli; TB second-line"
+Levofloxacin,לבופלוקסצין,True,Fluoroquinolones,J01MA12,PDF,,24,Antimicrobials Intro,ANTI,"Broad: prostatitis, skin, CAP, HAP; reaches prostate fluid"
+Moxifloxacin,מוקסיפלוקסצין,True,Fluoroquinolones,J01MA14,PDF,,24,Antimicrobials Intro,ANTI,Pneumonia + anaerobes; NOT for UTI or Pseudomonas
+Norfloxacin,נורפלוקסצין,True,Fluoroquinolones,J01MA06,Slide,,24,Antimicrobials Intro,ANTI,UTI
+Ofloxacin,אופלוקסצין,True,Fluoroquinolones,J01MA01,Slide,,24,Antimicrobials Intro,ANTI,"UTI, ear/eye drops"
+Nalidixic acid,חומצה נלידיקסית,True,Fluoroquinolones,J01MB02,Slide,,24,Antimicrobials Intro,ANTI,Narrow; historical; UTI only
+Sulfamethoxazole,סולפמתוקסזול,True,Sulfonamides,J01EC01,PDF,,24,Antimicrobials Intro,ANTI,Usually combined with TMP (Cotrimoxazole/Bactrim)
+Sulfasalazine,סולפסלזין,False,Sulfonamides,A07EC01,PDF,,24,Antimicrobials Intro,ANTI,Also anti-inflammatory for IBD/RA (dual action)
+Silver sulfadiazine,כסף סולפדיאזין,True,Sulfonamides,D06BA01,PDF,,24,Antimicrobials Intro,ANTI,Burn wound infections
+Mafenide,מפנייד,True,Sulfonamides,D06BA03,PDF,,24,Antimicrobials Intro,ANTI,Burn wound infections; penetrates eschar
+Trimethoprim,טרימתופרים,True,Folate Reductase Inhibitors,J01EA01,PDF,,24,Antimicrobials Intro,ANTI,UTI; usually combined with SMX; megaloblastic anemia risk
+Pyrimethamine,פירימתמין,True,Folate Reductase Inhibitors,P01BD01,PDF,,24,Antimicrobials Intro,ANTI,"Toxoplasmosis, malaria prophylaxis"
+Methenamine,מתנאמין,True,Methenamine,J01XX05,PDF,,24,Antimicrobials Intro,ANTI,Chronic UTI suppression; CI liver/kidney disease
+Nitrofurantoin,ניטרופורנטואין,True,Nitrofurantoin,J01XE01,PDF,,24,Antimicrobials Intro,ANTI,"UTI: E.coli, G+ cocci; hemolytic anemia in G6PD"
+Tigecycline,טיגציקלין,True,Glycylcyclines,J01AA12,Slide 29+ATC,,25,Antimicrobials Detail,ANTI,"Broad spectrum incl. MRSA, VRE, ESBL, anaerobes; NOT for Pseudomonas or Proteus; CI children<8; nausea common; FDA black box: increased mortality in serious infections; IV only"
+Quinupristin/Dalfopristin,קוויינופריסטין/דלפופריסטין,True,Streptogramins,J01FG02,Slide 29+ATC,,25,Antimicrobials Detail,ANTI,Synercid; for VRE (E.faecium) and MRSA; IV only; infusion-site reactions; myalgia/arthralgia; CYP3A4 inhibitor; 1995 approval
+Fosfomycin,פוספומיצין,True,Fosfomycin,J01XX01,Slide 38+ATC,,25,Antimicrobials Detail,ANTI,Single-dose PO (3g) for uncomplicated UTI; IV for serious infections (EU); broad spectrum; minimal resistance; safe in pregnancy
+Cephalexin,צפלקסין,True,Cephalosporins,J01DB01,Slide 3+11,,25,Antimicrobials Detail,ANTI,"Keflex; oral Gen I; skin infections, UTI; very common outpatient"
+Cefadroxil,צפדרוקסיל,True,Cephalosporins,J01DB05,Slide 3,,25,Antimicrobials Detail,ANTI,"Oral Gen I; once-daily dosing; pharyngitis, UTI, skin"
+Cefoxitin,צפוקסיטין,True,Cephalosporins,J01DC01,Slide 3+9,,25,Antimicrobials Detail,ANTI,Cephamycin (technically); anaerobic coverage; surgical prophylaxis (abdominal/pelvic)
+Cefotetan,צפוטטן,True,Cephalosporins,J01DC05,Slide 3+9,,25,Antimicrobials Detail,ANTI,Cephamycin; anaerobic coverage like cefoxitin; surgical prophylaxis
+Cefprozil,צפרוזיל,True,Cephalosporins,J01DC10,Slide 3,,25,Antimicrobials Detail,ANTI,"Oral Gen II; otitis media, sinusitis, bronchitis"
+Ceftizoxime,צפטיזוקסים,True,Cephalosporins,J01DD07,Slide 3,,25,Antimicrobials Detail,ANTI,Broad G−; gonorrhea; less commonly used now
+Cefixime,צפיקסים,True,Cephalosporins,J01DD08,Slide 3,,25,Antimicrobials Detail,ANTI,"Oral Gen III; gonorrhea (was first-line, now ceftriaxone preferred); UTI, respiratory"
+Ceftibuten,צפטיבוטן,True,Cephalosporins,J01DD14,Slide 3,,25,Antimicrobials Detail,ANTI,"Oral Gen III; otitis media, respiratory"
+Cefdinir,צפדיניר,True,Cephalosporins,J01DD15,Slide 3,,25,Antimicrobials Detail,ANTI,"Oral Gen III; otitis media, sinusitis, pharyngitis; common pediatric use"
+Methicillin,מתיצילין,True,Penicillins,J01CF03,Slide 3+6,,25,Antimicrobials Detail,ANTI,No longer in clinical use; historical importance for MRSA naming; replaced by nafcillin/oxacillin
+Isoniazid (INH),איזוניאזיד,True,F27_01,J04AC01,,,27,Anti-TB + Antifungals,ANTI,מונותרפיה ל-LTBI (9 חודשים). בשחפת פעילה: תמיד בשילוב
+Rifampin (Rifampicin),ריפאמפין,True,F27_02,J04AB02,,,27,Anti-TB + Antifungals,ANTI,"התווית נגד: קשישים, אלכוהוליסטים, אי ספיקת כבד. גם למניעת מנינגיטיס (N. meningitidis)"
+Rifabutin,ריפאבוטין,True,F27_02,J04AB04,,,27,Anti-TB + Antifungals,ANTI,מועדף בחולי HIV (פחות אינטראקציות עם antiretrovirals)
+Rifapentine,ריפאפנטין,True,F27_02,J04AB05,,,27,Anti-TB + Antifungals,ANTI,T1/2 ארוך — מתן שבועי. משטר 12 שבועות isoniazid+rifapentine ל-LTBI
+Pyrazinamide,פירזינאמיד,True,F27_03,J04AK01,,,27,Anti-TB + Antifungals,ANTI,חודשיים בלבד (intensive phase). בדיקת אנזימי כבד + חומצת שתן
+Ethambutol,אתמבוטול,True,F27_04,J04AK02,,,27,Anti-TB + Antifungals,ANTI,בדיקת חדות ראיה וראיית צבעים baseline + חודשי. תלוי בבדיקות רגישות
+Aminosalicylic acid (PAS),PAS,True,F27_05,J04AA01,,,27,Anti-TB + Antifungals,ANTI,לשחפת עמידה. נסבלות ירודה
+Bedaquiline,בדאקווילין,True,F27_06,J04AK05,,,27,Anti-TB + Antifungals,ANTI,FDA 2012. BPaL regimen. black box: עלייה בתמותה במחקרים. 24 שבועות
+Capreomycin,קפראומיצין,True,F27_07,J04AB30,,,27,Anti-TB + Antifungals,ANTI,קו שני. דומה ל-aminoglycosides בפרופיל רעילות
+Cycloserine,ציקלוסרין,True,F27_08,J04AB01,,,27,Anti-TB + Antifungals,ANTI,מתן pyridoxine (B6) להפחתת רעילות. קו שני בלבד
+Ethionamide,אתיונאמיד,True,F27_09,J04AD03,,,27,Anti-TB + Antifungals,ANTI,אנלוג של isoniazid. קו שני. מנגנון דומה אך עמידות צולבת חלקית בלבד
+Clofazimine,קלופזימין,True,F27_10,J04BA01,,,27,Anti-TB + Antifungals,ANTI,גם anti-inflammatory. גם ב-MDR-TB (שימוש off-label). שינוי צבע הפיך
+Dapsone,דאפסון,True,F27_10,J04BA02,,,27,Anti-TB + Antifungals,ANTI,בדיקת G6PD לפני תחילת טיפול. גם לדרמטיטיס הרפפטיפורמיס ולפנאומוציסטיס (prophylaxis)
+Amphotericin B,אמפוטריצין B,True,F27_11,J02AA01,,,27,Anti-TB + Antifungals,ANTI,"Test Dose לפני. פורמולציה: deoxycholate (זול, יותר רעיל) או liposomal (יקר, פחות nephrotoxic). לזיהומים מסכני חיים"
+Nystatin,ניסטטין,True,F27_18,A07AA02,,,27,Anti-TB + Antifungals,ANTI,"ספיגה מינימלית. לקנדידה בפה (מציצה), עור, ווגינה. לא סיסטמי"
+Flucytosine (5-FC),פלוציטוזין,True,F27_12,J02AX01,,,27,Anti-TB + Antifungals,ANTI,עמידות מהירה → תמיד בשילוב. קריפטוקוקוס מנינגיטיס + קנדידה סיסטמי
+Fluconazole,פלוקונאזול,True,F27_13,J02AC01,,,27,Anti-TB + Antifungals,ANTI,טווח צר: קריפטוקוק + קנדידה. חדירה טובה ל-CNS. מניעת זיהומים במושתלי מח עצם. הפחתת מינון באי ספיקת כליות
+Itraconazole,איטרקונאזול,True,F27_13,J02AC02,,,27,Anti-TB + Antifungals,ANTI,טווח רחב: אספרגילוזיס + פטריות נוספות. לא חודר ל-CNS. גם לפטרת ציפורניים. ספיגה עם שתיה חומצית
+Posaconazole,פוסקונאזול,True,F27_13,J02AC04,,,27,Anti-TB + Antifungals,ANTI,טווח רחב. לטיפול ומניעה בקנדידה ואספרגילוס במדוכאי חיסון. PO עם אוכל
+Voriconazole,ווריקונאזול,True,F27_13,J02AC03,,,27,Anti-TB + Antifungals,ANTI,"טווח רחב: אספרגילוס (1st line), קנדידה ועוד. חודר היטב ל-CNS. קינטיקה לא לינארית (zero-order)"
+Caspofungin,קספופונגין,True,F27_14,J02AX04,,,27,Anti-TB + Antifungals,ANTI,קנדידיאזיס/קנדידמיה. אספרגילוזיס חודרני עמיד ל-AmB
+Micafungin,מיקאפונגין,True,F27_14,J02AX05,,,27,Anti-TB + Antifungals,ANTI,קנדידיאזיס + מניעת קנדידה במושתלי מח עצם. לא דורש הפחתת מינון
+Anidulafungin,אנידולאפונגין,True,F27_14,J02AX06,,,27,Anti-TB + Antifungals,ANTI,קנדידיאזיס. פירוק לא-אנזימטי. לא דורש הפחתת מינון בכליה/כבד
+Terbinafine,טרבינפין,True,F27_15,D01BA02,,,27,Anti-TB + Antifungals,ANTI,"PO: פטרת ציפורניים וקרקפת (3 חודשים). טופיקלי: פטרת עור (שבוע). התווית נגד: הנקה, מחלות כליה/כבד בינוני-חמור"
+Naftifine,נפטיפין,True,F27_15,D01AE22,,,27,Anti-TB + Antifungals,ANTI,טופיקלי בלבד. דרמטופיטים + קנדידה
+Butenafine,בוטנפין,True,F27_15,D01AE17,,,27,Anti-TB + Antifungals,ANTI,טופיקלי בלבד. דרמטופיטים
+Griseofulvin,גריזאופולבין,True,F27_16,D01BA01,,,27,Anti-TB + Antifungals,ANTI,דרמטופיטים בלבד (קרקפת + ציפורניים). משך טיפול ארוך. נקשר לקרטין. אסור בהריון/פורפיריה
+Clotrimazole,קלוטרימאזול,True,F27_17,D01AC01,,,27,Anti-TB + Antifungals,ANTI,אגיסטן. טווח רחב. גם כדור למציצה לקנדידיאזיס אוראלי
+Miconazole,מיקונאזול,True,F27_17,D01AC02,,,27,Anti-TB + Antifungals,ANTI,דקטרין. לקנדידיאזיס ודרמטופיטוזיס
+Ketoconazole,קטוקונאזול,True,F27_17,D01AC08,,,27,Anti-TB + Antifungals,ANTI,PO כמעט לא בשימוש בגלל רעילות כבד (FDA black box 2013). טופיקלי: שמפו/קרם
+Pretomanid,פרטומניד,True,F27_19,J04AK08,,,27,Anti-TB + Antifungals,ANTI,FDA 2019. BPaL regimen ל-XDR-TB. 26 שבועות. ניטור כבד חובה
+Delamanid,דלאמניד,True,F27_20,J04AK07,,,27,Anti-TB + Antifungals,ANTI,EMA 2014. MDR-TB כשאין חלופה. 24 שבועות
+Isavuconazole,איסאבוקונאזול,True,F27_21,J02AC05,,,27,Anti-TB + Antifungals,ANTI,FDA 2015. אספרגילוזיס חודרני + מוקורמיקוזיס. פרופיל אינטראקציות טוב יותר מ-voriconazole
+Ibrexafungerp,איברקספונגרפ,True,F27_22,J02AX10,,,27,Anti-TB + Antifungals,ANTI,FDA 2021. Brexafemme. PO glucan synthase inhibitor — ראשון בקלאס. Vulvovaginal candidiasis
+Rezafungin,רזאפונגין,True,F27_23,J02AX,,,27,Anti-TB + Antifungals,ANTI,FDA 2023. Rezzayo. T1/2 ארוך — once weekly. קנדידמיה + candidemia חודרני
+Oteseconazole,אוטסקונאזול,True,F27_24,D01AC90,,,27,Anti-TB + Antifungals,ANTI,FDA 2022. Vivjoa. מניעת RVVC. אסור בהריון. Tetrazole (לא triazole)
+Oseltamivir (Tamiflu),אוסלטמיביר,True,F29_01,J05AH02,,,29,Antivirals,ANTI,Influenza A+B. טיפול (5 ימים) + מניעה. תוך 48 שעות
+Zanamivir,זאנאמיביר,True,F29_01,J05AH01,,,29,Antivirals,ANTI,Inhaled. אסור באסתמה/COPD חמור. Influenza A+B
+Amantadine,אמנטדין,False,F29_02,J05AC02,,,29,Antivirals,ANTI,Influenza A בלבד. גם ל-Parkinson. חוצה BBB. כמעט לא בשימוש (עמידות)
+Rimantadine,רימנטדין,True,F29_02,J05AC02,,,29,Antivirals,ANTI,Influenza A. לא חוצה BBB ביעילות. כמעט לא בשימוש
+Ribavirin,ריבאווירין,True,F29_03,J05AB04,,,29,Antivirals,ANTI,"Aerosol ל-RSV (תינוקות). PO+INFα ל-HCV (הוחלף ע""י DAAs). אסור בהריון"
+Interferon-α (pegylated),אינטרפרון-אלפא (פגילטי),True,F29_04,L03AB10,,,29,Antivirals,ANTI,"HBV, HCV כרוני (HCV הוחלף ברובו ע""י DAAs). HPV. לויקמיות. Kaposi"
+Lamivudine (3TC),למיבודין,True,F29_05,J05AF05,,,29,Antivirals,ANTI,HBV + HIV. עמידות גבוהה ב-HBV (מונותרפיה). YMDD mutation
+Adefovir dipivoxil,אדפוביר,True,F29_05,J05AF08,,,29,Antivirals,ANTI,"HBV. פחות בשימוש כיום (הוחלף ע""י entecavir/TAF)"
+Entecavir,אנטקאביר,True,F29_05,J05AF10,,,29,Antivirals,ANTI,HBV 1st line. עמידות נמוכה מאוד. לא ל-HIV co-infection (ללא HAART)
+Telbivudine,טלביבודין,True,F29_05,J05AF11,,,29,Antivirals,ANTI,HBV. פחות בשימוש. עמידות בינונית
+Boceprevir,בוצפרביר,True,F29_06,J05AP01,,,29,Antivirals,ANTI,"HCV Gen 1. OBSOLETE — הוחלף ע""י DAAs"
+Telaprevir,טלפרביר,True,F29_06,J05AP02,,,29,Antivirals,ANTI,"HCV Gen 1. OBSOLETE — הוחלף ע""י DAAs"
+Acyclovir,אציקלוביר,True,F29_07,J05AB01,,,29,Antivirals,ANTI,"HSV1/2, VZV, EBV. אנצפליטיס הרפטי. פרופילקטי לפני דיכוי חיסוני (סרו-פוזיטיב)"
+Valacyclovir,ולאציקלוביר,True,F29_07,J05AB11,,,29,Antivirals,ANTI,"Pro-drug של acyclovir. ספיגה אוראלית טובה יותר. HSV, VZV, מניעה"
+Ganciclovir,גנציקלוביר,True,F29_07,J05AB06,,,29,Antivirals,ANTI,CMV retinitis (AIDS). CMV prophylaxis transplant. מח עצם — יש לעקוב ספירות
+Valganciclovir,ולגנציקלוביר,True,F29_07,J05AB14,,,29,Antivirals,ANTI,Pro-drug של ganciclovir. PO — החליף ganciclovir IV ברוב ההתוויות
+Foscarnet,פוסקרנט,True,F29_07,J05AD01,,,29,Antivirals,ANTI,CMV + HSV עמיד ל-acyclovir. מנגנון שונה: לא דורש TK. חייב הידרציה
+Cidofovir,סידופוביר,True,F29_07,J05AB12,,,29,Antivirals,ANTI,"CMV retinitis. גם ל-adenovirus, HPV. שימוש מוגבל בגלל רעילות כלייתית"
+Penciclovir,פנסיקלוביר,True,F29_07,J05AB13,,,29,Antivirals,ANTI,HSV labialis (herpes שפתיים). טופיקלי בלבד
+Famciclovir,פמציקלוביר,True,F29_07,J05AB09,,,29,Antivirals,ANTI,"Pro-drug של penciclovir. PO. HSV, VZV"
+Trifluridine,טריפלורידין,True,F29_07,J05AB02,,,29,Antivirals,ANTI,HSV keratitis (זיהום עיני). טיפות עיניים בלבד
+Zidovudine (AZT),זידובודין,True,F29_08,J05AF01,,,29,Antivirals,ANTI,התרופה הראשונה נגד AIDS. אנלוג pyrimidine. מניעת העברה perinatal. PEP
+Lamivudine (3TC),למיבודין,True,F29_08,J05AF05,,,29,Antivirals,ANTI,"HIV + HBV. M184V mutation → עמידות מהירה, אך מגבירה רגישות ל-AZT/TDF"
+Emtricitabine (FTC),אמטריציטבין,True,F29_08,J05AF09,,,29,Antivirals,ANTI,"דומה מאוד ל-3TC. ב-Truvada (FTC+TDF), Descovy (FTC+TAF). PrEP backbone"
+Tenofovir disoproxil (TDF),טנופוביר דיסופרוקסיל,True,F29_08,J05AF07,,,29,Antivirals,ANTI,"NtRTI (nucleoTide). HIV+HBV. ב-Truvada. הוחלף חלקית ע""י TAF"
+Abacavir (ABC),אבקאביר,True,F29_08,J05AF06,,,29,Antivirals,ANTI,אנלוג גואנוזין. ב-Triumeq (ABC+3TC+DTG). חובה screening גנטי
+Didanosine (ddI),דידאנוזין,True,F29_08,J05AF02,,,29,Antivirals,ANTI,פחות בשימוש כיום
+Stavudine (d4T),סטאבודין,True,F29_08,J05AF04,,,29,Antivirals,ANTI,פחות בשימוש בגלל רעילות מיטוכונדריאלית
+Nevirapine (NVP),נווירפין,True,F29_09,J05AG01,,,29,Antivirals,ANTI,רק בספירת CD4 נמוכה. titrация 14 יום בחצי מינון. חוצה שליה — מניעת MTCT
+Efavirenz (EFV),אפאווירנץ,True,F29_09,J05AG03,,,29,Antivirals,ANTI,היה 1st line שנים. אסור בהריון. לקחת לפני שינה (CNS AE). ב-Atripla
+Etravirine (ETR),אטראווירין,True,F29_09,J05AG04,,,29,Antivirals,ANTI,יעיל נגד חלק ממוטציות עמידות ל-EFV/NVP
+Rilpivirine (RPV),רילפיווירין,True,F29_09,J05AG05,,,29,Antivirals,ANTI,"PO (Edurant) + IM long-acting (Cabenuva). רק VL<100,000"
+Ritonavir (RTV),ריטונאביר,True,F29_10,J05AE03,,,29,Antivirals,ANTI,במינון נמוך = pharmacokinetic booster. מעלה רמות של PI אחרים. המון אינטראקציות
+Lopinavir/Ritonavir,לופינאביר/ריטונאביר,True,F29_10,J05AR10,,,29,Antivirals,ANTI,"Kaletra. לופינאביר = ה-PI הפעיל, ריטונאביר = booster"
+Atazanavir (ATV),אטזנאביר,True,F29_10,J05AE08,,,29,Antivirals,ANTI,פחות dyslipidemia מ-PI אחרים. צהבת קוסמטית (לא הפטוטוקסיות)
+Darunavir (DRV),דרונאביר,True,F29_10,J05AE10,,,29,Antivirals,ANTI,"PI מועדף כיום. סף עמידות גבוה. ב-Prezcobix, Symtuza"
+Enfuvirtide (T-20),אנפוווירטיד,True,F29_11,J05AX07,,,29,Antivirals,ANTI,Fuzeon. SC x2/day. Salvage therapy. יקר
+Maraviroc,מראבירוק,True,F29_11,J05AX09,,,29,Antivirals,ANTI,חוסם CCR5. בדיקת tropism חובה. לא יעיל ב-CXCR4-tropic HIV
+Raltegravir (RAL),ראלטגראביר,True,F29_12,J05AJ01,,,29,Antivirals,ANTI,INSTI דור 1. Isentress. פעמיים ביום. סף עמידות נמוך יחסית
+Elvitegravir (EVG),אלוויטגראביר,True,F29_12,J05AJ03,,,29,Antivirals,ANTI,"ב-Stribild, Genvoya. דורש cobicistat booster"
+Dolutegravir (DTG),דולוטגראביר,True,F29_12,J05AJ03,,,29,Antivirals,ANTI,"INSTI דור 2. Tivicay. פעם ביום. סף עמידות גבוה. 1st line ב-WHO guidelines. ב-Triumeq, Dovato"
+Baloxavir marboxil,בלוקסאביר,True,F29_13,J05AX25,,,29,Antivirals,ANTI,Xofluza. מנה בודדת. Influenza A+B. עמידות: I38T substitution
+Peramivir,פראמיביר,True,F29_14,J05AH02,,,29,Antivirals,ANTI,Rapivab. IV single dose. Influenza. לחולים שלא יכולים PO/inhaled
+Sofosbuvir,סופוסבוביר,True,F29_15,J05AP08,,,29,Antivirals,ANTI,"Sovaldi (2013). מהפכה ב-HCV. 12 שבועות. ריפוי >95%. ב-Harvoni, Epclusa"
+Ledipasvir/Sofosbuvir,לדיפאסביר/סופוסבוביר,True,F29_15+16,J05AP51,,,29,Antivirals,ANTI,"Harvoni (2014). HCV Gen 1,4,5,6. 12 שבועות (או 8). one-pill"
+Glecaprevir/Pibrentasvir,גלקפרביר/פיברנטסביר,True,F29_16,J05AP57,,,29,Antivirals,ANTI,Mavyret (2017). Pangenotypic (כל הגנוטיפים). 8 שבועות. ללא cirrhosis
+Letermovir,לטרמוביר,True,F29_17,J05AX18,,,29,Antivirals,ANTI,Prevymis (2017). מניעת CMV ב-allo-HSCT. לא myelosuppressive
+Tenofovir Alafenamide (TAF),טנופוביר אלפנאמיד,True,F29_18,J05AF13,,,29,Antivirals,ANTI,"Pro-drug משופר. ב-Biktarvy, Descovy, Odefsey, Genvoya"
+Bictegravir,ביקטגראביר,True,F29_19,J05AJ04,,,29,Antivirals,ANTI,"Biktarvy (BIC/FTC/TAF, 2018). One-pill once-daily. 1st line"
+Cabotegravir,קבוטגראביר,True,F29_20,J05AJ04,,,29,Antivirals,ANTI,"IM כל חודשיים. Cabenuva (CAB+RPV, ART). Apretude (CAB, PrEP)"
+Lenacapavir,לנקפאביר,True,F29_21,J05AX29,,,29,Antivirals,ANTI,Sunlenca (2022). SC כל 6 חודשים. Capsid inhibitor. Multi-resistant HIV
+Doravirine,דוראבירין,True,F29_22,J05AG06,,,29,Antivirals,ANTI,Pifeltro (2018). NNRTI חדש. ב-Delstrigo
+Nirmatrelvir/Ritonavir,נירמטרלביר/ריטונאביר,True,F29_23,J05AE30,,,29,Antivirals,ANTI,Paxlovid (2021). COVID-19. 5 ימים. לחולים בסיכון
+Molnupiravir,מולנופיראביר,True,F29_24,J05AX27,,,29,Antivirals,ANTI,Lagevrio (2021). COVID-19. Mutagenesis mechanism. אסור בהריון
+Tecovirimat,טקובירימט,True,F29_25,J05AX17,,,29,Antivirals,ANTI,TPOXX (2018). Mpox + smallpox
+Somatropin,,True,,H01AC01,Slides,,30,Pituitary Hormones,ENDO,Recombinant DNA; daily SC injection
+Octreotide,,True,,H01CB02,Slides,,30,Pituitary Hormones,ENDO,"SC/IM; also used for carcinoid, VIPoma"
+Lanreotide,,True,,H01CB03,Slides,,30,Pituitary Hormones,ENDO,Deep SC depot; monthly
+Pasireotide,,True,,H01CB05,ATC,,30,Pituitary Hormones,ENDO,2012; multi-receptor SST analogue (SST5); Cushing's disease + acromegaly
+Pegvisomant,,True,,H01AX01,Slides,,30,Pituitary Hormones,ENDO,GH-R antagonist; acromegaly when somatostatin analogues insufficient
+Cosyntropin,,True,,H01AA02,Slides,,30,Pituitary Hormones,ENDO,INN: tetracosactide. Synthetic ACTH 1-24; diagnostic (Addison's) + corticosteroid substitute
+Leuprolide,,True,,L02AE02,Slides,,30,Pituitary Hormones,ENDO,"Depot IM/SC; prostate cancer, endometriosis, precocious puberty"
+Nafarelin,,True,,H01CA02,Slides,,30,Pituitary Hormones,ENDO,Nasal spray
+Goserelin,,True,,L02AE03,Slides,,30,Pituitary Hormones,ENDO,SC implant; breast/prostate cancer
+Histrelin,,True,,L02AE05,Slides,,30,Pituitary Hormones,ENDO,SC implant; annual
+Urofollitropin,,True,,G03GA04,Slides,,30,Pituitary Hormones,ENDO,Purified urinary FSH; postmenopausal urine source
+Follitropin alfa,,True,,G03GA05,Slides,,30,Pituitary Hormones,ENDO,Recombinant FSH
+Follitropin beta,,True,,G03GA06,Slides,,30,Pituitary Hormones,ENDO,Recombinant FSH
+Choriogonadotropin alfa,,True,,G03GA08,Slides,,30,Pituitary Hormones,ENDO,Recombinant hCG. Classic urinary hCG = G03GA01. Recombinant hCG; LH-like activity
+Menotropin (hMG),,True,,G03GA02,Slides,,30,Pituitary Hormones,ENDO,Urinary FSH+LH; infertility
+Bromocriptine,,False,,G02CB01,Slides,,30,Pituitary Hormones,ENDO,Ergot alkaloid; also Parkinson's (lower doses)
+Cabergoline,,True,,G02CB03,Slides,,30,Pituitary Hormones,ENDO,Longer-acting; preferred for prolactinoma
+Desmopressin,,True,,H01BA02,Slides,,30,Pituitary Hormones,ENDO,"Modified vasopressin; diabetes insipidus, enuresis, von Willebrand"
+Terlipressin,,True,,H01BA04,ATC,,30,Pituitary Hormones,ENDO,2022 US FDA; V1 selective; hepatorenal syndrome type 1
+Oxytocin (Pitocin),,True,,H01BB02,Slides,,30,Pituitary Hormones,ENDO,"IV/IM; labor induction, postpartum hemorrhage"
+Elagolix,,True,,H01CC04,ATC,,30,Pituitary Hormones,ENDO,"2018; first oral GnRH antagonist; endometriosis, uterine fibroids"
+Relugolix,,True,,L02BX04,ATC,,30,Pituitary Hormones,ENDO,2020; oral; prostate cancer + uterine fibroids
+Somapacitan,,True,,H01AC08,ATC,,30,Pituitary Hormones,ENDO,2020; albumin-binding GH; once-weekly SC
+Lonapegsomatropin,,True,,H01AC09,ATC,,30,Pituitary Hormones,ENDO,2021; PEGylated prodrug GH; once-weekly SC; pediatric GHD
+Levothyroxine (T4),,True,,H03AA01,Slides,,31,Thyroid Hormones,ENDO,"Preferred agent; better tolerated, longer half-life (6-7 days). Most common thyroid drug in Israel"
+Liothyronine (T3),,True,,H03AA02,Slides,,31,Thyroid Hormones,ENDO,"More potent, shorter half-life (1-2 days); used when rapid effect needed or T4→T3 conversion impaired"
+Liotrix (T4+T3),,True,,H03AA03,Slides,,31,Thyroid Hormones,ENDO,Fixed combination T4+T3; rarely used; discontinued in many markets
+Propylthiouracil (PTU),,True,,H03BA02,Slides,,31,Thyroid Hormones,ENDO,Preferred in 1st trimester pregnancy and thyroid storm (also blocks peripheral T4→T3 conversion)
+Methimazole,,True,,H03BB02,Slides,,31,Thyroid Hormones,ENDO,"Preferred thioamide overall (once daily, fewer hepatic SE). Teratogenic in 1st trimester"
+Carbimazole,,True,,H03BB01,ATC,,31,Thyroid Hormones,ENDO,Prodrug of methimazole; used in Israel and Europe. Not post-2012 but absent from US-centric slides
+Potassium Iodide,,True,,H03CA,Slides,,31,Thyroid Hormones,ENDO,"Thyroid storm, pre-thyroidectomy (reduces vascularity). Effect transient (weeks). Also nuclear emergency prophylaxis"
+Sodium Iodide I-131,,True,,V10XA01,Slides,,31,Thyroid Hormones,ENDO,Definitive treatment for Graves'. Contraindicated in pregnancy/lactation. Main SE = hypothyroidism (often desired)
+Teprotumumab,,True,,S01LA09,ATC,,31,Thyroid Hormones,ENDO,2020 FDA; first drug specifically for thyroid eye disease (Graves' ophthalmopathy); IV q3w x8 doses
+Insulin Lispro,,True,,A10AB04,Slides,,32,Diabetes Mellitus,ENDO,Lys-Pro swap at positions 28-29
+Insulin Aspart,,True,,A10AB05,Slides,,32,Diabetes Mellitus,ENDO,Pro→Asp at position 28
+Insulin Glulisine,,True,,A10AB06,Slides,,32,Diabetes Mellitus,ENDO,Glu-Lys swap
+Regular Insulin (Human),,True,,A10AB01,Slides,,32,Diabetes Mellitus,ENDO,Identical to human insulin; IV-compatible
+NPH Insulin (Isophane),,True,,A10AC01,Slides,,32,Diabetes Mellitus,ENDO,Protamine suspension; can mix with rapid/short
+Insulin Glargine,,True,,A10AE04,Slides,,32,Diabetes Mellitus,ENDO,Precipitates at injection site; peakless 20-24h; DO NOT MIX
+Insulin Detemir,,True,,A10AE05,Slides,,32,Diabetes Mellitus,ENDO,Albumin-binding; 12-24h duration
+Insulin Degludec,,True,,A10AE06,ATC,,32,Diabetes Mellitus,ENDO,2013; ultra-long-acting 42h+; multi-hexamer depot; allows flexible dosing
+Glyburide (Glibenclamide),,True,,A10BB01,Slides,,32,Diabetes Mellitus,ENDO,18h duration; highest hypoglycemia risk; caution in renal/hepatic impairment
+Glipizide,,True,,A10BB07,Slides,,32,Diabetes Mellitus,ENDO,20h duration
+Glimepiride,,True,,A10BB12,Slides,,32,Diabetes Mellitus,ENDO,24h duration; once daily; lowest hypoglycemia risk in class
+Repaglinide,,True,,A10BX02,Slides,,32,Diabetes Mellitus,ENDO,2h duration; before meals. CI with Gemfibrozil (CYP inhibition)
+Nateglinide,,True,,A10BX03,Slides,,32,Diabetes Mellitus,ENDO,2h duration; D-phenylalanine derivative
+Metformin,,True,,A10BA02,Slides,,32,Diabetes Mellitus,ENDO,"FIRST LINE T2DM. Also PCOS. CI: renal failure (lactic acidosis), HF. Weight loss. No hypoglycemia"
+Pioglitazone,,True,,A10BG03,Slides,,32,Diabetes Mellitus,ENDO,"Once daily. Monitor liver enzymes. CI: HF, lactation. Fracture risk"
+Rosiglitazone,,True,,A10BG02,Slides,,32,Diabetes Mellitus,ENDO,"CV safety concerns (restricted in some markets). Edema, weight gain"
+Acarbose,,True,,A10BF01,Slides,,32,Diabetes Mellitus,ENDO,"25-100mg before meals. GI side effects limit use. CI: IBD, bowel obstruction"
+Miglitol,,True,,A10BF02,Slides,,32,Diabetes Mellitus,ENDO,25-100mg before meals. Similar to acarbose
+Sitagliptin,,True,,A10BH01,Slides,,32,Diabetes Mellitus,ENDO,Well tolerated; once daily; risk of pancreatitis (rare)
+Saxagliptin,,True,,A10BH03,Slides,,32,Diabetes Mellitus,ENDO,
+Alogliptin,,True,,A10BH04,Slides,,32,Diabetes Mellitus,ENDO,
+Linagliptin,,True,,A10BH05,Slides,,32,Diabetes Mellitus,ENDO,No renal dose adjustment needed (biliary excretion)
+Exenatide,,True,,A10BJ01,Slides,,32,Diabetes Mellitus,ENDO,"SC BID (Byetta) or weekly (Bydureon). Nausea, vomiting, pancreatitis risk"
+Liraglutide,,True,,A10BJ02,Slides,,32,Diabetes Mellitus,ENDO,SC once daily. Weight loss. Also approved for obesity at higher dose
+Semaglutide,,True,,A10BJ06,ATC,,32,Diabetes Mellitus,ENDO,2017; SC weekly or oral daily (first oral GLP-1 RA 2019). Major weight loss. Also CV benefit
+Dulaglutide,,True,,A10BJ05,ATC,,32,Diabetes Mellitus,ENDO,2014; SC once weekly. CV benefit demonstrated
+Canagliflozin,,True,,A10BK01,Slides,,32,Diabetes Mellitus,ENDO,"UTI risk, polyuria, hypotension. CV + renal benefit. Amputation risk (cana only)"
+Dapagliflozin,,True,,A10BK03,Slides,,32,Diabetes Mellitus,ENDO,Also approved for HFrEF + HFpEF + CKD (xref deck 21)
+Empagliflozin,,True,,A10BK04,Slides,,32,Diabetes Mellitus,ENDO,Also approved for HF (xref deck 21). CV mortality benefit (EMPA-REG)
+Pramlintide,,True,,A10BX05,Slides,,32,Diabetes Mellitus,ENDO,"SC before meals. Reduces insulin dose 50%. Nausea, anorexia"
+Tirzepatide,,True,,A10BX16,ATC,,32,Diabetes Mellitus,ENDO,2022; SC weekly. Superior HbA1c + weight reduction. Also obesity indication
+Estradiol,,True,Steroidal Estrogen Analogs,G03CA03,Slides,,33,Gonadal Hormones,ENDO,Most potent endogenous estrogen; primary in reproductive age
+Ethinyl estradiol,,True,Steroidal Estrogen Analogs,G03CA01,Slides,,33,Gonadal Hormones,ENDO,Synthetic; main estrogen component of combined OCs
+Estrone,,True,Steroidal Estrogen Analogs,G03CA07,Slides,,33,Gonadal Hormones,ENDO,Less potent; primary estrogen post-menopause
+Mestranol,,True,Steroidal Estrogen Analogs,G03CA04,Slides,,33,Gonadal Hormones,ENDO,Prodrug of ethinyl estradiol; older OC component
+Estetrol (E4),,True,Steroidal Estrogen Analogs,G03CA10,ATC,,33,Gonadal Hormones,ENDO,Natural fetal estrogen; selective tissue action; combined OC approved 2021
+Diethylstilbestrol,,True,Nonsteroidal Estrogen Analogs,G03CC05,Slides,,33,Gonadal Hormones,ENDO,Historical; largely withdrawn due to teratogenicity
+Tamoxifen,,True,ER Antagonists (SERMs),L02BA01,Slides,,33,Gonadal Hormones,ENDO,ER antagonist in breast; may cause endometrial tumors
+Clomiphene,,True,ER Antagonists (SERMs),G03GB02,Slides,,33,Gonadal Hormones,ENDO,Partial agonist; disrupts hypothalamic negative feedback → ↑GnRH → infertility treatment
+Toremifene,,True,ER Antagonists (SERMs),L02BA02,Slides,,33,Gonadal Hormones,ENDO,Similar to tamoxifen; breast cancer
+Raloxifene,,True,SERMs (Modulators),G03XC01,Slides,,33,Gonadal Hormones,ENDO,"Antagonist in breast, agonist in bone; osteoporosis; ↓LDL"
+Ospemifene,,True,SERMs (Modulators),G03XC04,Slides,,33,Gonadal Hormones,ENDO,Partial agonist; postmenopausal dyspareunia
+Bazedoxifene,,True,SERMs (Modulators),G03XC02,ATC,,33,Gonadal Hormones,ENDO,SERM for PM osteoporosis; combined with CE for vasomotor symptoms. Approved US 2013
+Anastrozole,,True,Aromatase Inhibitors,L02BG03,Slides,,33,Gonadal Hormones,ENDO,Nonsteroidal; reversible; postmenopausal breast cancer
+Letrozole,,True,Aromatase Inhibitors,L02BG04,ATC,,33,Gonadal Hormones,ENDO,Nonsteroidal; reversible; also used off-label for ovulation induction
+Exemestane,,True,Aromatase Inhibitors,L02BG06,ATC,,33,Gonadal Hormones,ENDO,Steroidal; irreversible; used after tamoxifen failure
+Fulvestrant,,True,SERDs,L02BA03,ATC,,33,Gonadal Hormones,ENDO,Pure ER antagonist + degrader; advanced breast cancer; IM injection only
+Elacestrant,,True,SERDs,L02BA04,ATC,,33,Gonadal Hormones,ENDO,First oral SERD; approved 2023; ESR1-mutated ER+ breast cancer
+Progesterone,,True,Natural Progestogens,G03DA04,Slides,,33,Gonadal Hormones,ENDO,Low lipid solubility; high first-pass metabolism
+Levonorgestrel,,True,Synthetic Progestins,G03AC03,Slides,,33,Gonadal Hormones,ENDO,2nd gen; structurally androgenic; emergency contraception + IUD
+Norgestimate,,True,Synthetic Progestins,G03AC/G03AA,Slides,,33,Gonadal Hormones,ENDO,3rd gen; less androgenic; combined OCs
+Desogestrel,,True,Synthetic Progestins,G03AC09,Slides,,33,Gonadal Hormones,ENDO,3rd gen; progestin-only pill + combined OCs
+Dienogest,,True,Synthetic Progestins,G03DB08,Slides,,33,Gonadal Hormones,ENDO,Unique: anti-androgenic; endometriosis treatment
+Drospirenone,,True,Synthetic Progestins,G03AC/G03AA,Slides,,33,Gonadal Hormones,ENDO,4th gen; anti-androgenic + anti-mineralocorticoid (spironolactone analog); risk hyperkalemia
+Norethindrone,,True,Synthetic Progestins,G03AC01,Slides,,33,Gonadal Hormones,ENDO,1st gen; structurally androgenic
+Norgestrel,,True,Synthetic Progestins,G03AC02,Slides,,33,Gonadal Hormones,ENDO,2nd gen; POP; structurally androgenic
+Etonogestrel,,True,Synthetic Progestins,G03AC08,ATC,,33,Gonadal Hormones,ENDO,Active metabolite of desogestrel; subdermal implant (3yr) and vaginal ring
+Medroxyprogesterone acetate,,True,Synthetic Progestins,G03AC06,ATC,,33,Gonadal Hormones,ENDO,Depot injection (3mo contraception); also HRT and endometriosis; not post-2012 but missing from slides
+Mifepristone,,True,Progesterone Receptor Antagonists,G03XB01,Slides,,33,Gonadal Hormones,ENDO,Medical abortion (with misoprostol); heavy bleeding as SE
+Ulipristal acetate,,True,Progesterone Receptor Antagonists,G03AD02,ATC,,33,Gonadal Hormones,ENDO,"Selective PRM; emergency contraception (up to 5 days) + uterine fibroids. EC approved 2010, fibroids 2012"
+Testosterone,,True,Androgens / Anabolic Steroids,G03BA03,Slides,,33,Gonadal Hormones,ENDO,Primary androgen; multiple formulations
+Testosterone cypionate,,True,Androgens / Anabolic Steroids,G03BA03,Slides,,33,Gonadal Hormones,ENDO,Long-acting ester; IM every 2-4 weeks
+Testosterone enanthate,,True,Androgens / Anabolic Steroids,G03BA03,Slides,,33,Gonadal Hormones,ENDO,Long-acting ester; IM every 2-4 weeks
+Testosterone undecanoate,,True,Androgens / Anabolic Steroids,G03BA03,ATC,,33,Gonadal Hormones,ENDO,Oral formulation (2019) and ultra-long-acting IM (10 weeks)
+Fluoxymesterone,,True,Androgens / Anabolic Steroids,G03BA01,Slides,,33,Gonadal Hormones,ENDO,Oral; hepatotoxic; rarely used
+Oxandrolone,,True,Androgens / Anabolic Steroids,A14AA08,Slides,,33,Gonadal Hormones,ENDO,"Anabolic; chronic wasting (HIV, burns)"
+Danazol,,True,Androgens / Anabolic Steroids,G03XA01,Slides,,33,Gonadal Hormones,ENDO,"Weak androgen + anti-estrogenic; endometriosis, breast cancer"
+Flutamide,,True,AR Antagonists,L02BB01,Slides,,33,Gonadal Hormones,ENDO,1st gen nonsteroidal; prostate cancer; hepatotoxic
+Bicalutamide,,True,AR Antagonists,L02BB03,Slides,,33,Gonadal Hormones,ENDO,1st gen nonsteroidal; prostate cancer
+Enzalutamide,,True,AR Antagonists,L02BB04,Slides,,33,Gonadal Hormones,ENDO,2nd gen; mCRPC (2012); also non-metastatic CRPC
+Nilutamide,,True,AR Antagonists,L02BB02,Slides,,33,Gonadal Hormones,ENDO,1st gen; prostate cancer; visual disturbances
+Apalutamide,,True,AR Antagonists,L02BB05,ATC,,33,Gonadal Hormones,ENDO,2nd gen AR antagonist; non-metastatic CRPC. Approved 2018
+Darolutamide,,True,AR Antagonists,L02BB06,ATC,,33,Gonadal Hormones,ENDO,2nd gen; lower CNS penetration → fewer seizure/fatigue SE. Approved 2019
+Finasteride,,True,5α-Reductase Inhibitors,G04CB01,Slides,,33,Gonadal Hormones,ENDO,Type II selective; BPH + male pattern baldness (1/5 dose)
+Dutasteride,,True,5α-Reductase Inhibitors,G04CB02,Slides,,33,Gonadal Hormones,ENDO,Dual type I+II inhibitor; BPH
+Abiraterone,,True,CYP17 Inhibitors,L02BX03,ATC,,33,Gonadal Hormones,ENDO,Blocks androgen synthesis; mCRPC (with prednisone). Approved 2011
+Leuprolide,,False,GnRH Agonists (xref→Deck 30),L02AE02,xref→Deck 30,,33,Gonadal Hormones,ENDO,"Chemical castration; prostate cancer, endometriosis, precocious puberty"
+Hydrocortisone,,True,Short-acting GCs,H02AB09,Slides,,34,Adrenocorticosteroids,ENDO,
+Cortisone,,True,Short-acting GCs,H02AB10,Slides,,34,Adrenocorticosteroids,ENDO,Prodrug → converted to cortisol in liver; potency 0.8; salt retention 0.8
+Prednisone,,True,Intermediate GCs,H02AB07,Slides,,34,Adrenocorticosteroids,ENDO,Prodrug → prednisolone in liver; anti-infl 4x; salt 0.8; preferred in pregnancy (not activated by fetal liver)
+Prednisolone,,True,Intermediate GCs,H02AB06,Slides,,34,Adrenocorticosteroids,ENDO,Active form; anti-infl 4x; salt 0.8
+Methylprednisolone,,True,Intermediate GCs,H02AB04,Slides,,34,Adrenocorticosteroids,ENDO,Anti-infl 5x; salt 0.5; IV pulse therapy for acute flares
+Triamcinolone,,True,Intermediate GCs,H02AB08,Slides,,34,Adrenocorticosteroids,ENDO,Anti-infl 5x; salt 0; intra-articular injections common
+Betamethasone,,True,Long-acting GCs,H02AB01,Slides,,34,Adrenocorticosteroids,ENDO,Anti-infl 25x; salt 0; fetal lung maturation; very potent topical
+Dexamethasone,,True,Long-acting GCs,H02AB02,Slides,,34,Adrenocorticosteroids,ENDO,Anti-infl 30x; salt 0; Cushing diagnostic (suppression test); COVID-19 (2020); cerebral edema
+Beclomethasone,,True,Inhaled/Topical GCs,R03BA01,Slides,,34,Adrenocorticosteroids,ENDO,Good mucosal action; low systemic absorption; asthma maintenance
+Budesonide,,True,Inhaled/Topical GCs,R03BA02,Slides,,34,Adrenocorticosteroids,ENDO,Low systemic bioavailability; also used PO for Crohn's (Entocort)
+Ciclesonide,,True,Inhaled/Topical GCs,R03BA08,Slides,,34,Adrenocorticosteroids,ENDO,Prodrug activated in lungs; minimal oral bioavailability
+Flunisolide,,True,Inhaled/Topical GCs,R03BA03,Slides,,34,Adrenocorticosteroids,ENDO,Older inhaled GC
+Fluticasone,,True,Inhaled/Topical GCs,R03BA05,Slides,,34,Adrenocorticosteroids,ENDO,Very potent; high topical:systemic ratio; commonly combined with LABA
+Mometasone,,True,Inhaled/Topical GCs,R03BA07,Slides,,34,Adrenocorticosteroids,ENDO,Potent topical; nasal spray for rhinitis
+Deflazacort,,True,Inhaled/Topical GCs,H02AB13,ATC,,34,Adrenocorticosteroids,ENDO,Oxazoline derivative of prednisolone; approved 2017 for Duchenne muscular dystrophy; less bone loss than prednisone
+Fludrocortisone,,True,Mineralocorticoids,H02AA02,Slides,,34,Adrenocorticosteroids,ENDO,"Synthetic; anti-infl 10x, salt retention 125x; replacement therapy in adrenal insufficiency (Addison's)"
+Spironolactone,,False,MR Antagonists (Steroidal),C03DA01,Slides,,34,Adrenocorticosteroids,ENDO,"Non-selective MR antagonist; also anti-androgenic → gynecomastia SE; HF, hyperaldosteronism, hirsutism"
+Eplerenone,,False,MR Antagonists (Steroidal),C03DA04,Slides,,34,Adrenocorticosteroids,ENDO,"Selective MR antagonist; less anti-androgenic SE; HF post-MI, HTN"
+Ketoconazole,,False,Steroidogenesis Inhibitors,J02AB02,Slides,,34,Adrenocorticosteroids,ENDO,Antifungal repurposed; inhibits CYP enzymes in cortisol synthesis; Cushing's treatment. Also xref→deck 27 (antifungals)
+Osilodrostat,,True,Steroidogenesis Inhibitors,H02CA01,ATC,,34,Adrenocorticosteroids,ENDO,11β-hydroxylase inhibitor; Cushing's disease. Approved 2020. More selective than ketoconazole
+Metyrapone,,True,Steroidogenesis Inhibitors,V04CD01,ATC,,34,Adrenocorticosteroids,ENDO,11β-hydroxylase inhibitor; diagnostic + therapeutic for Cushing's. Not post-2012 but absent from slides
+Finerenone,,True,Non-steroidal MRA,C03DA05,ATC,,34,Adrenocorticosteroids,ENDO,Non-steroidal selective MR antagonist; CKD + T2DM (2021). Less hyperkalemia. Also in deck 19 (antihypertensives)
+Methotrexate,,False,Folate Analogs,L01BA01,Slides,,35,Anti-Cancer Drugs,ONCO,"DHFR inhibitor; ALL, Burkitt's, carcinomas; also RA, psoriasis, Crohn's. Nephrotoxic at high dose. Leucovorin rescue"
+Pemetrexed,,True,Folate Analogs,L01BA04,Slides,,35,Anti-Cancer Drugs,ONCO,"Multi-target antifolate (DHFR + thymidylate synthase); mesothelioma, NSCLC"
+Pralatrexate,,True,Folate Analogs,L01BA05,Slides,,35,Anti-Cancer Drugs,ONCO,DHFR inhibitor; peripheral T-cell lymphoma
+6-Mercaptopurine (6MP),,True,Purine Analogs,L01BB02,Slides,,35,Anti-Cancer Drugs,ONCO,ALL maintenance; also Crohn's. Hepatotoxic. TPMT polymorphism
+6-Thioguanine (6TG),,True,Purine Analogs,L01BB03,Slides,,35,Anti-Cancer Drugs,ONCO,AML. Hepatotoxic
+Fludarabine,,True,Purine Analogs,L01BB05,Slides,,35,Anti-Cancer Drugs,ONCO,"CLL, NHL, hairy cell leukemia. Neurotoxic"
+Cladribine,,True,Purine Analogs,L01BB04,Slides,,35,Anti-Cancer Drugs,ONCO,"Hairy cell leukemia, CLL. Also approved for MS (Mavenclad PO)"
+5-Fluorouracil (5FU),,True,Pyrimidine Analogs,L01BC02,Slides,,35,Anti-Cancer Drugs,ONCO,"Thymidylate synthase inhibitor (with leucovorin); colorectal, breast. GI toxicity, DPD deficiency risk"
+Capecitabine,,True,Pyrimidine Analogs,L01BC06,Slides,,35,Anti-Cancer Drugs,ONCO,"Oral prodrug of 5FU; colorectal, breast. Hand-foot syndrome"
+Azacitidine,,True,Pyrimidine Analogs,L01BC07,Slides,,35,Anti-Cancer Drugs,ONCO,"Hypomethylating agent; MDS, AML"
+Cytarabine (Ara-C),,True,Pyrimidine Analogs,L01BC01,Slides,,35,Anti-Cancer Drugs,ONCO,DNA polymerase inhibitor; AML cornerstone. Hepato/neurotoxic at high dose
+Gemcitabine,,True,Pyrimidine Analogs,L01BC05,Slides,,35,Anti-Cancer Drugs,ONCO,"Pancreatic, NSCLC, bladder, breast cancer"
+Vinblastine,,True,Vinca Alkaloids,L01CA01,Slides,,35,Anti-Cancer Drugs,ONCO,"Hodgkin's, testicular (PVB). Myelosuppression, extravasation risk"
+Vincristine,,True,Vinca Alkaloids,L01CA02,Slides,,35,Anti-Cancer Drugs,ONCO,"ALL (POMP), lymphomas, sarcomas. Neurotoxicity (not myelosuppressive). Hyperuricemia"
+Paclitaxel,,True,Taxanes,L01CD01,Slides,,35,Anti-Cancer Drugs,ONCO,"Broad: ovarian, breast, lung, Kaposi. Neurotoxic, neutropenia, hypersensitivity (pretreat with dexamethasone)"
+Docetaxel,,True,Taxanes,L01CD02,Slides,,35,Anti-Cancer Drugs,ONCO,"Breast, prostate, NSCLC, gastric"
+Etoposide,,True,Top II Inhibitors,L01CB01,Slides,,35,Anti-Cancer Drugs,ONCO,"Testicular, SCLC, lymphomas. Myelosuppression, secondary leukemia risk"
+Teniposide,,True,Top II Inhibitors,L01CB02,Slides,,35,Anti-Cancer Drugs,ONCO,ALL in children
+Topotecan,,True,Top I Inhibitors,L01CE01,Slides,,35,Anti-Cancer Drugs,ONCO,"Ovarian, SCLC, cervical. Myelosuppression"
+Irinotecan,,True,Top I Inhibitors,L01CE02,Slides,,35,Anti-Cancer Drugs,ONCO,Colorectal. Severe diarrhea (atropine/loperamide)
+Doxorubicin,,True,Anthracyclines,L01DB01,Slides,,35,Anti-Cancer Drugs,ONCO,"Broad: sarcomas, breast, lymphomas, leukemias. CARDIOTOXIC (cumulative dose limit; dexrazoxane chelator)"
+Daunorubicin,,True,Anthracyclines,L01DB02,Slides,,35,Anti-Cancer Drugs,ONCO,"AML, ALL. Cardiotoxic"
+Bleomycin,,True,Other Antitumor Antibiotics,L01DC01,Slides,,35,Anti-Cancer Drugs,ONCO,"Testicular (PVB=cure), Hodgkin's. PULMONARY FIBROSIS (low hydrolase in lung/skin). G2-specific"
+Dactinomycin,,True,Other Antitumor Antibiotics,L01DA01,Slides,,35,Anti-Cancer Drugs,ONCO,"Wilms' tumor, rhabdomyosarcoma, gestational trophoblastic disease"
+Mechlorethamine,,True,Nitrogen Mustards,L01AA01,Slides,,35,Anti-Cancer Drugs,ONCO,Hodgkin's (MOPP). Latent viral infection reactivation
+Cyclophosphamide,,True,Nitrogen Mustards,L01AA01,Slides,,35,Anti-Cancer Drugs,ONCO,"Burkitt's, breast, non-neoplastic (RA, SLE). HEMORRHAGIC CYSTITIS (MESNA protects). Infertility, secondary cancer"
+Ifosfamide,,True,Nitrogen Mustards,L01AA06,Slides,,35,Anti-Cancer Drugs,ONCO,"Sarcomas, testicular. Hemorrhagic cystitis (MESNA)"
+Melphalan,,True,Nitrogen Mustards,L01AA03,Slides,,35,Anti-Cancer Drugs,ONCO,"Multiple myeloma, ovarian"
+Chlorambucil,,True,Nitrogen Mustards,L01AA02,Slides,,35,Anti-Cancer Drugs,ONCO,"CLL, Hodgkin's, NHL"
+Carmustine,,True,Nitrosoureas,L01AD01,Slides,,35,Anti-Cancer Drugs,ONCO,"Brain tumors (crosses BBB). Renal toxicity, pulmonary fibrosis"
+Lomustine,,True,Nitrosoureas,L01AD02,Slides,,35,Anti-Cancer Drugs,ONCO,"Brain tumors, Hodgkin's. Crosses BBB"
+Cisplatin,,True,Platinum Compounds,L01XA01,Slides,,35,Anti-Cancer Drugs,ONCO,"Testicular (PVB=cure), ovarian, bladder. Nephrotoxic, ototoxic, neurotoxic, highly emetogenic"
+Carboplatin,,True,Platinum Compounds,L01XA02,Slides,,35,Anti-Cancer Drugs,ONCO,"Ovarian, lung. Less nephrotoxic than cisplatin; more myelosuppressive"
+Oxaliplatin,,True,Platinum Compounds,L01XA03,Slides,,35,Anti-Cancer Drugs,ONCO,Colorectal (FOLFOX). Peripheral neuropathy (cold-triggered)
+Dacarbazine,,True,Other Alkylating,L01AX04,Slides,,35,Anti-Cancer Drugs,ONCO,"Melanoma, Hodgkin's. Highly emetogenic"
+Busulfan,,True,Other Alkylating,L01AB01,Slides,,35,Anti-Cancer Drugs,ONCO,"CML, pre-transplant conditioning. Pulmonary fibrosis"
+Temozolomide,,True,Other Alkylating,L01AX03,Slides,,35,Anti-Cancer Drugs,ONCO,"Glioblastoma, anaplastic astrocytoma. Crosses BBB. Oral convenience"
+Trastuzumab,,True,Anti-HER2 Antibodies,L01FD01,Slides,,35,Anti-Cancer Drugs,ONCO,HER2+ breast cancer. Cardiotoxic (monitor LVEF)
+Trastuzumab deruxtecan,,True,Anti-HER2 Antibodies,L01FD04,ATC,,35,Anti-Cancer Drugs,ONCO,ADC: trastuzumab + topoisomerase I inhibitor payload. HER2+ and HER2-low breast. Approved 2019. Game-changer
+Rituximab,,True,Anti-CD20 Antibodies,L01FA01,Slides,,35,Anti-Cancer Drugs,ONCO,"NHL, CLL, RA. Infusion reactions"
+Cetuximab,,True,Anti-EGFR Antibodies,L01FE01,Slides,,35,Anti-Cancer Drugs,ONCO,"Colorectal (KRAS wild-type), head & neck"
+Bevacizumab,,True,Anti-VEGF Antibodies,L01FG01,Slides,,35,Anti-Cancer Drugs,ONCO,"Colorectal, NSCLC, renal, glioblastoma. Risk: GI perforation, bleeding"
+Pembrolizumab,,True,PD-1 Inhibitors,L01FF02,Slides,,35,Anti-Cancer Drugs,ONCO,"Melanoma, NSCLC, many solid tumors. Immune-related AEs (hepatitis, pneumonitis, endocrinopathy)"
+Nivolumab,,True,PD-1 Inhibitors,L01FF01,ATC,,35,Anti-Cancer Drugs,ONCO,"Melanoma, NSCLC, RCC, Hodgkin's. Approved 2014"
+Atezolizumab,,True,PD-L1 Inhibitors,L01FF05,ATC,,35,Anti-Cancer Drugs,ONCO,"NSCLC, urothelial, TNBC, SCLC. PD-L1 antibody. Approved 2016"
+Ipilimumab,,True,CTLA-4 Inhibitors,L01FX04,ATC,,35,Anti-Cancer Drugs,ONCO,Melanoma (first checkpoint inhibitor approved 2011). Often combined with nivolumab. Severe immune AEs
+Imatinib,,True,BCR-ABL TKIs,L01EA01,Slides,,35,Anti-Cancer Drugs,ONCO,"CML, GIST. Revolutionized CML treatment. Also c-KIT, PDGFR"
+Vemurafenib,,True,BRAF Inhibitors,L01EC01,Slides,,35,Anti-Cancer Drugs,ONCO,BRAF V600E melanoma
+Sorafenib,,True,Multi-kinase Inhibitors,L01EX02,Slides,,35,Anti-Cancer Drugs,ONCO,"HCC, RCC, thyroid cancer. Multi-target: VEGFR, PDGFR, RAF"
+Gefitinib,,True,EGFR TKIs,L01EB01,Slides,,35,Anti-Cancer Drugs,ONCO,NSCLC with EGFR mutations
+Osimertinib,,True,EGFR TKIs,L01EB04,ATC,,35,Anti-Cancer Drugs,ONCO,3rd gen EGFR TKI; T790M resistance mutation NSCLC. Approved 2015. Now first-line
+Palbociclib,,True,CDK4/6 Inhibitors,L01EF01,ATC,,35,Anti-Cancer Drugs,ONCO,HR+/HER2- breast cancer (with letrozole/fulvestrant). Approved 2015. Neutropenia
+Ribociclib,,True,CDK4/6 Inhibitors,L01EF02,ATC,,35,Anti-Cancer Drugs,ONCO,HR+/HER2- breast cancer. Approved 2017. QT prolongation risk
+Ibrutinib,,True,BTK Inhibitors,L01EL01,ATC,,35,Anti-Cancer Drugs,ONCO,"CLL, MCL, WM. Oral. Approved 2013. Bleeding, atrial fibrillation risks"
+Olaparib,,True,PARP Inhibitors,L01XK01,ATC,,35,Anti-Cancer Drugs,ONCO,"BRCA-mutated ovarian, breast, prostate, pancreatic. Approved 2014. Myelosuppression"
+L-Asparaginase,,True,Miscellaneous,L01XX02,Slides,,35,Anti-Cancer Drugs,ONCO,"Childhood ALL. Depletes asparagine. Pancreatitis, coagulopathy"
+Procarbazine,,True,Miscellaneous,L01XB01,Slides,,35,Anti-Cancer Drugs,ONCO,Hodgkin's (MOPP). MAO inhibitor — tyramine interaction. DNA/RNA/protein synthesis inhibition
+Gemtuzumab ozogamicin,,True,Miscellaneous,L01XC05,Slides,,35,Anti-Cancer Drugs,ONCO,Anti-CD33 ADC; AML. Reapproved 2017 (originally withdrawn)
+Interferons,,True,Miscellaneous,L03AB,Slides,,35,Anti-Cancer Drugs,ONCO,"Various cancers. Upregulate cytotoxic T cells, inhibit proliferation"
+Ondansetron,,True,5-HT3 Antagonists,A04AA01,Slides,,35,Anti-Cancer Drugs,ONCO,Most effective antiemetic combination: dexamethasone + ondansetron (91% response)
+Granisetron,,True,5-HT3 Antagonists,A04AA02,Slides,,35,Anti-Cancer Drugs,ONCO,
+Palonosetron,,True,5-HT3 Antagonists,A04AA05,Slides,,35,Anti-Cancer Drugs,ONCO,Longer t½; effective for delayed emesis
+Aprepitant,,True,NK1 Antagonists,A04AD12,Slides,,35,Anti-Cancer Drugs,ONCO,Substance P/NK1 blocker; delayed emesis. Combined with 5-HT3 + dexamethasone
+Digitoxin,דיגיטוקסין,True,Cardiac Glycosides,C01AA04,Slide,,21,Heart Failure,CV,Longer half-life than digoxin; hepatic metabolism
+Milrinone,מילרינון,True,PDE3 Inhibitors (Cardiac),C01CE02,Slide,Primacor,21,Heart Failure,CV,IV only; acute decompensated HF; increases mortality long-term

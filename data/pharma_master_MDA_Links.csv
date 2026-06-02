@@ -1,0 +1,250 @@
+ingredient_or_family,mda_criterion,similar_mechanism_drugs,disclaimer,status,source_deck,deck_topic,category_code,notes
+Pilocarpine,לבדוק,"Bethanechol, Carbachol, Cevimeline",Y,,3,Parasympathetic/ANS,ANS,Muscarinic agonists — donor may have bradycardia/hypotension
+Donepezil,לבדוק,"Rivastigmine, Galantamine, Benzgalantamine",Y,,3,Parasympathetic/ANS,ANS,AChE inhibitors for AD — bradycardia risk
+Rivastigmine,לבדוק,"Donepezil, Galantamine, Benzgalantamine",Y,,3,Parasympathetic/ANS,ANS,AChE inhibitors for AD
+Galantamine,לבדוק,"Donepezil, Rivastigmine, Benzgalantamine",Y,,3,Parasympathetic/ANS,ANS,AChE inhibitors for AD
+Pyridostigmine,לבדוק,"Neostigmine, Ambenonium",Y,,3,Parasympathetic/ANS,ANS,MG treatment — cholinergic effects
+Atropine,לבדוק,Scopolamine,Y,,3,Parasympathetic/ANS,ANS,"Anticholinergic — tachycardia, dry mouth"
+Ipratropium,לבדוק,"Tiotropium, Aclidinium, Umeclidinium, Glycopyrronium, Revefenacin",Y,,3,Parasympathetic/ANS,ANS,LAMAs for COPD
+Oxybutynin,לבדוק,"Tolterodine, Solifenacin, Darifenacin, Fesoterodine, Trospium",Y,,3,Parasympathetic/ANS,ANS,OAB antimuscarinics
+Benztropine,לבדוק,Trihexyphenidyl,Y,,3,Parasympathetic/ANS,ANS,Antimuscarinics for Parkinson's
+Warfarin (interaction),לבדוק,,Y,,3,Parasympathetic/ANS,ANS,Neostigmine may interact — check in coag deck
+Propranolol,לבדוק,"Atenolol, Metoprolol, Bisoprolol, Nadolol, Timolol",Y,,4,Sympathetic/Adrenergic,ANS,"β-blockers — bradycardia, hypotension risk for donors"
+Atenolol,לבדוק,"Metoprolol, Bisoprolol, Propranolol, Nebivolol",Y,,4,Sympathetic/Adrenergic,ANS,β1-selective blockers
+Clonidine,לבדוק,Methyldopa,Y,,4,Sympathetic/Adrenergic,ANS,Central α2-agonists — hypotension risk
+Prazosin,לבדוק,"Terazosin, Doxazosin, Tamsulosin, Silodosin",Y,,4,Sympathetic/Adrenergic,ANS,α1-blockers — orthostatic hypotension risk
+Albuterol,לבדוק,"Terbutaline, Salmeterol, Formoterol",Y,,4,Sympathetic/Adrenergic,ANS,β2-agonists — tachycardia
+Epinephrine,לבדוק,"Norepinephrine, Dopamine",Y,,4,Sympathetic/Adrenergic,ANS,Catecholamines — CV effects
+Mirabegron,לבדוק,Vibegron,Y,,4,Sympathetic/Adrenergic,ANS,β3-agonists for OAB
+Amphetamine,לבדוק,Methylphenidate,Y,,4,Sympathetic/Adrenergic,ANS,"CNS stimulants — hypertension, tachycardia"
+Labetalol,לבדוק,Carvedilol,Y,,4,Sympathetic/Adrenergic,ANS,Combined α+β blockers
+Morphine,לבדוק,"All strong µ-agonists (oxycodone, fentanyl, hydromorphone…)",Y,,5,Opioids,PAIN,"Likely deferral by condition (pain management), not by drug name"
+Methadone,לבדוק,"Buprenorphine, naltrexone (OUD context)",Y,,5,Opioids,PAIN,Methadone maintenance = OUD indication — likely special deferral
+Buprenorphine,לבדוק,"Methadone, naltrexone",Y,,5,Opioids,PAIN,Suboxone/Sublocade for OUD; may indicate active addiction history
+Tramadol,לבדוק,"Tapentadol, codeine",Y,,5,Opioids,PAIN,Common Rx for mild-moderate pain; likely no deferral if stable
+Fentanyl,לבדוק,"Morphine, oxycodone, hydromorphone",Y,,5,Opioids,PAIN,Patches (Duragesic) for chronic pain; injection = hospital only
+Naloxone,לבדוק,"Nalmefene, naltrexone",Y,,5,Opioids,PAIN,Narcan for overdose reversal — recipient likely has OUD history
+Naltrexone,לבדוק,"Naloxone, nalmefene",Y,,5,Opioids,PAIN,Vivitrol for OUD/AUD relapse prevention
+Codeine,לבדוק,"Tramadol, dextromethorphan",Y,,5,Opioids,PAIN,OTC in some countries; may not trigger deferral
+Suzetrigine,לבדוק,"NSAIDs, acetaminophen",Y,,5,Opioids,PAIN,Non-opioid — likely no special deferral; acute pain only
+Cannabis (medical),לבדוק,"Dronabinol, nabilone",Y,,5,Opioids,PAIN,Medical cannabis may have separate MDA policy
+Aspirin (low-dose),לבדוק,All NSAIDs,Y,,6,NSAIDs/DMARDs/Migraine,PAIN,Low-dose antiplatelet — likely relevant to MDA bleeding criteria; overlap with deck 07
+NSAIDs (general),לבדוק,"Ibuprofen, naproxen, diclofenac, etc.",Y,,6,NSAIDs/DMARDs/Migraine,PAIN,Very common medications; likely minimal deferral if stable
+Celecoxib,לבדוק,Other NSAIDs,Y,,6,NSAIDs/DMARDs/Migraine,PAIN,COX-2 selective; CV risk but no antiplatelet effect
+Methotrexate,לבדוק,"Leflunomide, other DMARDs",Y,,6,NSAIDs/DMARDs/Migraine,PAIN,Immunosuppressant; likely deferral — autoimmune disease context
+Adalimumab / TNF inhibitors,לבדוק,"Infliximab, etanercept, certolizumab, golimumab",Y,,6,NSAIDs/DMARDs/Migraine,PAIN,Immunosuppressant biologics; likely deferral for active autoimmune disease
+Tofacitinib / JAK inhibitors,לבדוק,"Baricitinib, upadacitinib",Y,,6,NSAIDs/DMARDs/Migraine,PAIN,Immunosuppressant; oral; likely deferral
+Rituximab,לבדוק,Other anti-CD20 (obinutuzumab),Y,,6,NSAIDs/DMARDs/Migraine,PAIN,B-cell depleting; significant immunosuppression; likely long deferral
+Allopurinol,לבדוק,Febuxostat,Y,,6,NSAIDs/DMARDs/Migraine,PAIN,Gout prophylaxis; likely no deferral if stable
+Colchicine,לבדוק,Indomethacin (for gout),Y,,6,NSAIDs/DMARDs/Migraine,PAIN,Anti-inflammatory; may indicate active flare
+Sumatriptan / Triptans,לבדוק,All triptans,Y,,6,NSAIDs/DMARDs/Migraine,PAIN,Migraine — likely no deferral if not during active episode
+CGRP mAbs,לבדוק,"Erenumab, fremanezumab, galcanezumab, eptinezumab",Y,,6,NSAIDs/DMARDs/Migraine,PAIN,Migraine prevention — likely no deferral; SC/IV injections
+Aspirin,דחייה זמנית — 3 ימים,,No,,7,Coagulation,COAG,Low-dose aspirin common in donors
+Clopidogrel,דחייה זמנית — 14 יום,"Prasugrel, Ticagrelor, Ticlopidine, Cangrelor",Yes,,7,Coagulation,COAG,All ADP antagonists — same mechanism
+Warfarin,דחייה זמנית — 7 ימים,Acenocoumarol,Yes,,7,Coagulation,COAG,Vitamin K antagonists
+"DOACs (Rivaroxaban, Apixaban, Dabigatran, Edoxaban)",לבדוק — ייתכן שאין קריטריון ספציפי,All DOACs share similar donation implications,Yes,,7,Coagulation,COAG,Newer drugs — MDA criteria may not list by name
+Heparin / LMWH,תלוי בהתוויה הרפואית,"Enoxaparin, Dalteparin, Tinzaparin",Yes,,7,Coagulation,COAG,Usually hospital setting; donors unlikely to be on these
+Thrombolytics,דחייה — תלוי במצב הרפואי,All plasminogen activators,No,,7,Coagulation,COAG,"Condition (MI, stroke) is the primary deferral reason"
+Tranexamic acid,לבדוק,Aminocaproic acid,Yes,,7,Coagulation,COAG,Sometimes prescribed for heavy menstrual bleeding
+סטטינים (HLP_F01),תרופה כרונית — אינה פוסלת תרומה אם המצב הרפואי יציב,,לבדוק,לבדוק,8,Hyperlipidemia,METAB,"תורמים רבים נוטלים סטטינים; לבדוק מול טבלת התרופות של מד""א"
+סופחי חומצות מרה (HLP_F02),לא נספגות — סיכון תיאורטי מינימלי,,לבדוק,לבדוק,8,Hyperlipidemia,METAB,בטוחות מבחינת דם; עשויות להפחית ספיגת תרופות אחרות
+Ezetimibe (HLP_F03),תרופה כרונית; אינה פוסלת,,לבדוק,לבדוק,8,Hyperlipidemia,METAB,נפוצה בשילוב עם סטטין
+פיבראטים (HLP_F04),תרופה כרונית; לבדוק אם משפיעה על שומני הדם של מנת הדם,,לבדוק,לבדוק,8,Hyperlipidemia,METAB,gemfibrozil + statin = סיכון רבדומיוליזיס — האם רלוונטי לתרומה?
+ניאצין (HLP_F05),מינון גבוה; הסמקה ווזודילטציה עשויות להשפיע בעת תרומה?,,לבדוק,לבדוק,8,Hyperlipidemia,METAB,רלוונטי אם תורם נוטל סמוך לתרומה — ריאקציה וזו-ואגלית?
+אומגה-3 (HLP_F06),תוסף תזונה; סיכון מוגבר לדימום בשילוב נוגדי קרישה,,לבדוק,לבדוק,8,Hyperlipidemia,METAB,במינון גבוה (4 גר׳) — עשוי להשפיע על תפקוד טסיות?
+מעכבי PCSK9 — mAb (HLP_F07),ביולוגיים; זריקה כל 2-4 שבועות — עשויים לדחות תרומה?,,לבדוק,לבדוק,8,Hyperlipidemia,METAB,"נוגדנים חד-שבטיים — לבדוק מדיניות מד""א לגבי ביולוגיים"
+Inclisiran — siRNA (HLP_F08),ביולוגי/siRNA; זריקה פעמיים בשנה,,לבדוק,לבדוק,8,Hyperlipidemia,METAB,"תרופה חדשנית; סביר שלא קיימת מדיניות ספציפית במד""א"
+Bempedoic acid (HLP_F09),תרופה כרונית פומית; דומה לסטטין,,לבדוק,לבדוק,8,Hyperlipidemia,METAB,אין רעילות שרירית; חדש
+Evinacumab (HLP_F11),ביולוגי IV; HoFH בלבד — מצב רפואי חמור,,לבדוק,לבדוק,8,Hyperlipidemia,METAB,חולי HoFH הומוזיגוטית — ככל הנראה פסולים מסיבה רפואית
+Warfarin (אינטראקציה),נוגד קרישה — פוסל תרומה (נזכר כאינטראקציה עם סטטינים/פיבראטים),,ידוע,ידוע,8,Hyperlipidemia,METAB,כבר ממופה בדק 07 (קרישה); חפיפה
+לבודופה + DDC-I (CNS_F01),טיפול כרוני במחלה נוירולוגית — מצב רפואי עצמו עשוי לפסול; L-Dopa גורם לתוצאת קומבס חיובית (false positive),,לבדוק,לבדוק,9,Parkinson/Alzheimer/ALS,CNS,קומבס חיובי = רלוונטי לבדיקות התאמה לפני מתן דם; שתן חום
+אגוניסטים דופמינרגיים (CNS_F04),היפוטנסיה ניצבת + סדציה — סיכון בתרומה?,,לבדוק,לבדוק,9,Parkinson/Alzheimer/ALS,CNS,היפוטנסיה = סיכון לריאקציה וזו-ואגלית
+מעכבי MAO-B (CNS_F03),סלגילין → מטבוליט אמפטמיני — יופיע בבדיקת סמים?,,לבדוק,לבדוק,9,Parkinson/Alzheimer/ALS,CNS,"לא רלוונטי ישירות לתרומה, אבל תורם עשוי להזכיר; rasagiline ללא בעיה"
+אנטיכולינרגיים (CNS_F06),"תרופה כרונית; ת""ל יובש פה — עשוי להשפיע על נוחות תרומה",,לבדוק,לבדוק,9,Parkinson/Alzheimer/ALS,CNS,ככל הנראה לא פוסל
+מעכבי AChE — אלצהיימר (CNS_F07),טיפול כרוני; חולי אלצהיימר — כשירות למתן הסכמה?,,לבדוק,לבדוק,9,Parkinson/Alzheimer/ALS,CNS,"שאלת כשירות היא רפואית-חוקית, לא תרופתית"
+ממנטין (CNS_F08),תרופה כרונית PO; מצב רפואי הוא הסוגיה,,לבדוק,לבדוק,9,Parkinson/Alzheimer/ALS,CNS,דומה לאמור לגבי מעכבי AChE
+"נוגדנים נגד Aβ — lecanemab, donanemab (CNS_F13)",ביולוגיים IV; ARIA risk (מיקרו-דימום מוחי) — ככל הנראה פסילה,,לבדוק,לבדוק,9,Parkinson/Alzheimer/ALS,CNS,"תרופות חדשניות; אין מדיניות מד""א ספציפית; ARIA = סיכון דימום"
+Riluzole / ALS (CNS_F09),"חולי ALS — מחלה קשה, ככל הנראה פסילה רפואית",,לבדוק,לבדוק,9,Parkinson/Alzheimer/ALS,CNS,לא סביר שחולה ALS מגיע לתרום
+מחלת פרקינסון (מצב רפואי),מחלה נוירולוגית כרונית פרוגרסיבית — האם פוסלת?,,לבדוק,לבדוק,9,Parkinson/Alzheimer/ALS,CNS,"בדיקת נהלי מד""א: פרקינסון עם מוגבלות מוטורית — בטיחות התרומה?"
+בנזודיאזפינים (ANX_F01),"תרופות פסיכוטרופיות — עשויות לגרום לישנוניות/סחרחורת בזמן תרומה; לבדוק מדיניות מד""א",,לבדוק,לבדוק,10,Anxiolytics/Hypnotics,CNS,שאלון תורם שואל על תרופות; BZ לטווח קצר ≠ פסילה אוטומטית?
+ברביטוראטים (ANX_F03),תרופות ממכרות; אנטיקונבולסנטים — מצב רפואי הוא הסוגיה,,לבדוק,לבדוק,10,Anxiolytics/Hypnotics,CNS,phenobarbital לאפילפסיה — חפיפה עם דק אפילפסיה
+Z-Drugs: zolpidem/zaleplon/eszopiclone (ANX_F04),"משרי שינה; שימוש ערב בלבד — בד""כ לא משפיעים על תרומה ביום",,לבדוק,לבדוק,10,Anxiolytics/Hypnotics,CNS,שאלון תורם — האם תורם ישנוני?
+Buspirone (ANX_F06),תרופה כרונית לחרדה; אינה מרגיעה — ככל הנראה לא פוסלת,,לבדוק,לבדוק,10,Anxiolytics/Hypnotics,CNS,"אין סדציה, אין אינטראקציה עם אלכוהול"
+Propranolol (ANX_F08),"β-blocker — עשוי לגרום לברדיקרדיה/היפוטנסיה; לבדוק ל""ד ודופק לפני תרומה",,לבדוק,לבדוק,10,Anxiolytics/Hypnotics,CNS,"כבר רלוונטי מדק 04; תורם עם ל""ד נמוך מ-100/60 לא תורם"
+Flumazenil (ANX_F02),תרופת חירום IV — לא רלוונטי לתרומת דם שגרתית,,לא רלוונטי,לא רלוונטי,10,Anxiolytics/Hypnotics,CNS,—
+DORAs — suvorexant/lemborexant (ANX_F09),משרי שינה חדשים; ישנוניות למחרת אפשרית,,לבדוק,לבדוק,10,Anxiolytics/Hypnotics,CNS,תרופות חדשות; אין מדיניות ספציפית
+גמילת אלכוהול (מצב רפואי),אלכוהוליזם פעיל — ככל הנראה פוסל; גמילה פעילה = לא יציב,,לבדוק,לבדוק,10,Anxiolytics/Hypnotics,CNS,"בדיקת נהלי מד""א"
+SSRIs,לבדוק,All SSRIs share mechanism — eligible if stable,כן,,11,Antidepressants,CNS,דיכאון ללא אשפוז ותפקוד תקין — לבדוק קריטריון
+SNRIs,לבדוק,All SNRIs share mechanism — eligible if stable,כן,,11,Antidepressants,CNS,"כנ""ל; לבדוק גם השפעה על לחץ דם"
+TCAs,לבדוק,All TCAs share mechanism; may affect BP/HR,כן,,11,Antidepressants,CNS,"זהירות — אריתמיות, תת-לחץ דם אורטוסטטי"
+MAOIs,לבדוק,All MAOIs — many drug-food interactions,כן,,11,Antidepressants,CNS,תגובות למזון וסנדרום סרוטונין; קו אחרון
+Lithium,לבדוק,"Lithium; also valproate, carbamazepine, lamotrigine",כן,,11,Antidepressants,CNS,טווח טרפויטי צר; ניטור תירואיד וכליות
+Bupropion,לבדוק,NDRI — unique mechanism,כן,,11,Antidepressants,CNS,גם לגמילה מעישון
+Esketamine,לבדוק,"NMDA antagonists (esketamine, DXM/bupropion)",כן,,11,Antidepressants,CNS,ניתן במרפאה תחת השגחה בלבד
+FGA (Typical),לבדוק,All FGA share D2 blockade mechanism,כן,,12,Antipsychotics,CNS,פסיכוזה/סכיזופרניה — לבדוק קריטריון למחלת נפש
+SGA (Atypical),לבדוק,All SGA share D2/5-HT2A mechanism,כן,,12,Antipsychotics,CNS,"כנ""ל; תופעות מטבוליות (סוכרת, שומנים) — לבדוק בנפרד"
+Clozapine,לבדוק,Clozapine unique — last line only,כן,,12,Antipsychotics,CNS,דיכוי מח עצם — ניטור ספירת דם; רלוונטי לתרומת דם?
+Lithium (from deck 11),לבדוק,Lithium; valproate; carbamazepine,כן,,12,Antipsychotics,CNS,הפניה חוזרת — מופיע כבר בדק 11
+Antiepileptics (all),לבדוק,Many families — group by mechanism at merge,כן,,13,Antiepileptics,CNS,אפילפסיה — לבדוק קריטריון; הריון + טרטוגניות רלוונטי לתורמות
+Valproate,לבדוק,Also used as mood stabilizer (bipolar) — cross-ref deck 11,כן,,13,Antiepileptics,CNS,רעילות כבד; ניטור; אסור <2 שנים
+Carbamazepine,לבדוק,"Blood dyscrasias: neutropenia, thrombocytopenia, pancytopenia",כן,,13,Antiepileptics,CNS,דיסקרזיות דם — רלוונטי מאוד לתרומת דם
+Phenytoin,לבדוק,Gingival hyperplasia; zero-order kinetics,כן,,13,Antiepileptics,CNS,
+BZDs (antiepileptic),לבדוק,"Diazepam, Lorazepam, Clonazepam, Clobazam",כן,,13,Antiepileptics,CNS,חפיפה עם דקים של חרדה/שינה — dedup במיזוג
+Barbiturates,לבדוק,"Phenobarbital, Primidone",כן,,13,Antiepileptics,CNS,חפיפה עם דקים של חרדה/שינה
+Cannabidiol (CBD),לבדוק,"Epidiolex — prescription CBD, not recreational cannabis",כן,,13,Antiepileptics,CNS,"קנביס רפואי — לבדוק מדיניות מד""א"
+General Anesthetics (all),"דחייה לפי סוג הפרוצדורה/ניתוח, לא לפי חומר ההרדמה",—,כן,לבדוק,14,Anesthetics,ANES,
+Local Anesthetics (dental),טיפולי שיניים — דחייה 24-48 שעות אם אין זיהום,"Lidocaine, Bupivacaine, Articaine, Mepivacaine, Procaine",כן,לבדוק,14,Anesthetics,ANES,
+Lidocaine,גם תרופה אנטי-אריתמית (Ib) — בדיקת קריטריון הפרעות קצב,Mexiletine (same class Ib antiarrhythmic),כן,לבדוק,14,Anesthetics,ANES,
+Ketamine,שימוש רקריאטיבי — דחייה קבועה (שימוש בסמים בהזרקה),—,כן,לבדוק,14,Anesthetics,ANES,
+NMBs (all),שימוש בבית חולים בלבד — דחייה לפי סוג הפרוצדורה,"Rocuronium, Vecuronium, Cisatracurium, Succinylcholine",כן,לבדוק,14,Anesthetics,ANES,
+Dantrolene,טיפול חירום בהיפרתרמיה ממאירה — ללא קריטריון ישיר,—,כן,לבדוק,14,Anesthetics,ANES,
+Propofol,סדציה לפרוצדורות — דחייה לפי סוג הפרוצדורה,"Etomidate, Thiopental, Midazolam",כן,לבדוק,14,Anesthetics,ANES,
+H1 Antihistamines (all),"אנטי-היסטמינים לא גורמים בד""כ לדחיית תרומה; אלרגיה עונתית אינה סיבה לדחייה",כל משפחת אנטי-היסטמינים H1 (דור 1+2),כן,לבדוק,15,Antihistamines (H1),ALRG,
+H1 1st Generation (sedating),תורם מרדים/ישנוני — בדיקה האם מתאים לתרום באותו יום,"Diphenhydramine, Promethazine, Hydroxyzine, Doxylamine",כן,לבדוק,15,Antihistamines (H1),ALRG,
+Cyproheptadine,עלייה בתיאבון — ללא קריטריון ישיר; בדיקת המצב הבסיסי,—,כן,לבדוק,15,Antihistamines (H1),ALRG,
+PPIs (all),תרופות למערכת העיכול — ללא דחייה ספציפית; בדיקת המצב הבסיסי,"Omeprazole, Esomeprazole, Lansoprazole, Pantoprazole, Rabeprazole, Dexlansoprazole",כן,לבדוק,16,GI Drugs,GI,
+H2 Blockers (all),חוסמי H2 — ללא דחייה ספציפית,"Famotidine, Cimetidine, Nizatidine",כן,לבדוק,16,GI Drugs,GI,
+Bismuth subsalicylate,מכיל סליצילט — בדיקת הצלבה עם קריטריון אספירין/NSAIDs,Aspirin (cross-ref deck 06/07),כן,לבדוק,16,GI Drugs,GI,
+Misoprostol,פרוסטגלנדין — ללא קריטריון ישיר; CI בהריון (אבורטיפציאנט),—,כן,לבדוק,16,GI Drugs,GI,
+Loperamide,"נוגד שלשול — אם שלשול פעיל, התורם לא מתאים עד להחלמה",Diphenoxylate,כן,לבדוק,16,GI Drugs,GI,
+Ranitidine,הוסר מהשוק ב-2020 (זיהום NDMA) — כבר לא רלוונטי,Famotidine (replacement),כן,הערה,16,GI Drugs,GI,
+"Inhaled medications (SABA, ICS, LAMA)",משאפים לאסטמה/COPD — ללא דחייה ספציפית; אסטמה מבוקרת לא מונעת תרומה,"Albuterol, Fluticasone, Budesonide, Tiotropium, Salmeterol",כן,לבדוק,17,Respiratory,RESP,
+Oral corticosteroids (systemic),סטרואידים סיסטמיים — בדיקת קריטריון לפי מצב בסיסי ומינון,"Prednisone, Prednisolone, Dexamethasone",כן,לבדוק,17,Respiratory,RESP,
+Montelukast,מעכב לויקוטריאנים — ללא דחייה ספציפית,"Zafirlukast, Zileuton",כן,לבדוק,17,Respiratory,RESP,
+"Biologics (omalizumab, mepolizumab, dupilumab etc.)",ביולוגיים — בדיקת קריטריון תרופות ביולוגיות/אימונומודולטוריות,כל הנוגדנים המונוקלונליים הנשימתיים,כן,לבדוק,17,Respiratory,RESP,
+Codeine (cough),אופיואיד — cross-ref דק 05; שימוש קצר לשיעול ככל הנראה ללא דחייה,Dextromethorphan (לא אופיואיד),כן,לבדוק,17,Respiratory,RESP,
+Pseudoephedrine,מכווץ כלי דם — ללא דחייה ישירה; בודקים לחץ דם בתרומה,"Phenylephrine, Oxymetazoline",כן,לבדוק,17,Respiratory,RESP,
+Immunosuppressants (all — transplant),מושתלי איברים — דחייה קבועה מתרומת דם,"Cyclosporine, Tacrolimus, Mycophenolate, Sirolimus, Everolimus, ATG, Basiliximab",כן,לבדוק,18,Immunosuppressants,IMMUN,
+"Glucocorticoids (systemic, chronic)",סטרואידים סיסטמיים כרוניים — בדיקת מצב בסיסי והתוויה,"Prednisone, Prednisolone, Methylprednisolone",כן,לבדוק,18,Immunosuppressants,IMMUN,
+Azathioprine (autoimmune use),דיכוי חיסוני למחלות אוטואימוניות — בדיקת קריטריון,"Mycophenolate, Methotrexate (cross-ref deck 06)",כן,לבדוק,18,Immunosuppressants,IMMUN,
+JAK Inhibitors,מעכבי JAK — תרופות אימונומודולטוריות חדשות; בדיקת קריטריון,"Tofacitinib, Baricitinib, Upadacitinib",כן,לבדוק,18,Immunosuppressants,IMMUN,
+β-Blockers (all),יתר לחץ דם / מחלות לב,,,Controlled HTN on β-blockers: likely eligible. Check BP at donation.,19,Antihypertensives,CV,
+ACE Inhibitors,יתר לחץ דם / מחלות לב / כליה,,,Controlled HTN: likely eligible. Monitor for hypotension during donation.,19,Antihypertensives,CV,
+ARBs,יתר לחץ דם / מחלות לב / כליה,,,Same as ACEi — controlled HTN eligible.,19,Antihypertensives,CV,
+CCBs (all),יתר לחץ דם / אנגינה,,,"Controlled HTN: likely eligible. DHP may cause peripheral edema (cosmetic, not deferral).",19,Antihypertensives,CV,
+Carvedilol / Labetalol,"אי-ספיקת לב / יל""ד הריוני",,,"CHF patients: likely permanent deferral by condition, not drug.",19,Antihypertensives,CV,
+Centrally acting (Clonidine/Methyldopa),"יל""ד עמיד / הריון",,,Resistant HTN may indicate severe condition → evaluate individually.,19,Antihypertensives,CV,
+Direct vasodilators,"יל""ד הריוני / יל""ד עמיד",,,"Hydralazine in pregnancy: temporary deferral by pregnancy, not drug.",19,Antihypertensives,CV,
+Sacubitril/Valsartan (ARNI),אי-ספיקת לב,,,HFrEF patients: likely permanent deferral by condition.,19,Antihypertensives,CV,
+Minoxidil (topical),התקרחות,,,Topical cosmetic use: no expected deferral.,19,Antihypertensives,CV,
+Aliskiren,יתר לחץ דם,,,Same as ACEi/ARB — controlled HTN likely eligible.,19,Antihypertensives,CV,
+Thiazide diuretics,יתר לחץ דם,,,Controlled HTN on thiazides: likely eligible. Check BP + electrolytes.,20,Diuretics,CV,
+Loop diuretics,אי-ספיקת לב / בצקת,,,"HF patients on loop diuretics: likely deferred by condition (HF), not by drug.",20,Diuretics,CV,
+K-sparing diuretics (all),יתר לחץ דם / אי-ספיקת לב,,,"Same as above — deferral by underlying condition, not drug class.",20,Diuretics,CV,
+Spironolactone (PCOS use),שחלה פוליציסטית,,,PCOS itself not a deferral reason; spironolactone for cosmetic indication — likely eligible.,20,Diuretics,CV,
+Acetazolamide (glaucoma),גלאוקומה,,,Glaucoma treatment per se: no expected deferral. Drug is chronic oral.,20,Diuretics,CV,
+Mannitol IV,בצקת מוחית / חירום,,,Acute hospital use — donor not presenting during acute treatment.,20,Diuretics,CV,
+Tolvaptan,SIADH / היפונטרמיה,,,Underlying condition (SIADH) requires evaluation; electrolyte imbalance concern.,20,Diuretics,CV,
+SGLT2 Inhibitors,סוכרת / אי-ספיקת לב / כליה,,,Deferral by condition (diabetes/HF/CKD). Drug class itself not expected to defer.,20,Diuretics,CV,
+"Organic Nitrates (Nitroglycerin, ISDN, ISMN)",לבדוק — ניטרטים = marker למחלת לב איסכמית/אנגינה; תלוי חומרה,"Nitroglycerin, ISDN, ISMN — all same mechanism",כן,,22,Angina Pectoris,CV,SL nitroglycerin PRN may indicate mild stable angina; long-acting nitrates suggest more severe/frequent symptoms; underlying IHD is the deferral driver
+Ranolazine,לבדוק — Ranexa = marker לתעוקה עמידה לטיפול קו ראשון; likely permanent deferral,No similar mechanism alternatives,כן,,22,Angina Pectoris,CV,Add-on agent = patient didn't respond to β-blockers/CCBs/nitrates alone; implies significant CAD
+β-Blockers (angina indication),"לבדוק — תלוי באינדיקציה: יל""ד לבד vs אנגינה/IHD vs HF",All β-Blockers — see deck 19 for full list,כן,,22,Angina Pectoris,CV,Same as deck 19/21 — underlying condition determines eligibility; angina = IHD = likely deferral
+CCBs (angina indication),לבדוק — CCBs alone may be for HTN; combined with nitrates suggests angina,"DHP: Amlodipine, Felodipine, Nifedipine; non-DHP: Verapamil, Diltiazem",כן,,22,Angina Pectoris,CV,CCBs prescribed for HTN alone may not defer; if prescribed specifically for angina = IHD = likely deferral
+"Aspirin (low-dose, cardio)",לבדוק — Aspirin Cardio/Micropirin = secondary CV prevention; indicates underlying CAD/IHD,COX-1 inhibitors — see deck 07,כן,,22,Angina Pectoris,CV,Low-dose aspirin for primary prevention is being questioned; for secondary prevention after MI/stent = indicates significant CAD
+Ivabradine (angina indication),לבדוק — same as deck 21; indicates significant cardiac condition (HF or refractory angina),No similar mechanism,כן,,22,Angina Pectoris,CV,Dual indication: HFrEF (deck 21) and chronic stable angina in β-blocker-intolerant patients
+Nicorandil,לבדוק — indicates chronic stable angina; not common in Israel,No similar mechanism (K-ATP + nitrate hybrid),כן,,22,Angina Pectoris,CV,"Not FDA-approved; used in Europe/Japan; if donor mentions it, likely severe/refractory angina"
+Post-PCI / Post-CABG status,לבדוק — צנתור/ניתוח מעקפים = marker חד-משמעי למחלת לב; DAPT regime expected,Full antiplatelet + anticoagulant regimen,לא,,22,Angina Pectoris,CV,Procedural history (not drug); slide 13 mentions non-pharmacological treatment; donors post-PCI/CABG on DAPT = significant CAD
+Antiarrhythmic drugs (all classes),לבדוק — כל תרופה אנטי-אריתמית = marker להפרעת קצב = מחלת לב; likely deferral,All Vaughan-Williams classes I-IV + others,כן,,23,Cardiac Arrhythmia,CV,"Underlying arrhythmia/cardiac condition drives deferral, not the drug per se; severity varies widely"
+Amiodarone (Cordarone),לבדוק — Cordarone = marker לאריתמיה חמורה/עמידה; likely permanent deferral,Dronedarone (less severe alternative); Sotalol,כן,,23,Cardiac Arrhythmia,CV,"Amiodarone implies serious/refractory arrhythmia; many organ toxicities (thyroid, lung, liver, eye)"
+Flecainide / Propafenone,לבדוק — Class IC = marker לפרפור עליות; may be milder than Amiodarone cases,"Flecainide, Propafenone",כן,,23,Cardiac Arrhythmia,CV,Used in AF WITHOUT structural heart disease — may indicate less severe underlying pathology; still needs review
+β-Blockers (arrhythmia indication),"לבדוק — תלוי באינדיקציה: יל""ד vs הפרעת קצב vs אי-ספיקה",All β-Blockers — see decks 19/21/22,כן,,23,Cardiac Arrhythmia,CV,Same dual-indication challenge as previous decks; arrhythmia implies cardiac disease
+Digoxin (arrhythmia dose),לבדוק — דיגוקסין לקצב = marker ל-AF + underlying cardiac disease; likely deferral,Digitoxin; see deck 21,כן,,23,Cardiac Arrhythmia,CV,Higher arrhythmia dose (1-2 ng/mL) implies more serious cardiac involvement than HF dose
+Sotalol,לבדוק — Sotacor = dual β-blocker + K+ blocker; marker for significant arrhythmia,No exact equivalent; Amiodarone for more severe cases,כן,,23,Cardiac Arrhythmia,CV,Combined mechanism implies arrhythmia that needs aggressive treatment
+Anticoagulants (AF stroke prevention),לבדוק — DOACs/Warfarin for AF = marker for chronic AF; see also deck 07,"DOACs (Rivaroxaban, Apixaban, Dabigatran, Edoxaban), Warfarin",כן,,23,Cardiac Arrhythmia,CV,Anticoagulation for AF stroke prevention = chronic AF = cardiac condition; cross-ref deck 07
+Penicillins,Short-term Tx for acute infection; dental prophylaxis for valve patients,Active infection → defer until resolved + waiting period; Dental prophylaxis → ask about underlying cardiac condition (valve replacement = permanent deferral consideration),,לבדוק,24,Antimicrobials Intro,ANTI,
+Cephalosporins,"Very common for acute infections (pneumonia, UTI, surgical prophylaxis)",Active infection → defer until resolved + waiting period; Surgical prophylaxis alone is short-term,,לבדוק,24,Antimicrobials Intro,ANTI,
+Carbapenems,Hospital-only IV; indicates serious/resistant infection,Hospitalization + serious infection → likely extended deferral; rare to see walk-in donor on carbapenems,,לבדוק,24,Antimicrobials Intro,ANTI,
+Monobactams (Aztreonam),Hospital IV only; serious G− infections,Hospital drugs — not relevant for walk-in donors,,לבדוק,24,Antimicrobials Intro,ANTI,
+Glycopeptides (Vancomycin),Hospital IV for MRSA; PO for C.diff — markers of serious infection,Hospital Tx = extended deferral; C.diff history may require longer wait,,לבדוק,24,Antimicrobials Intro,ANTI,
+Daptomycin / Telavancin,Hospital IV only; MRSA/VRE bacteremia,Hospital drugs — not relevant for walk-in donors,,לבדוק,24,Antimicrobials Intro,ANTI,
+Polymyxins,Last-resort for MDR G−; ICU setting,Hospital drugs — not relevant for walk-in donors,,לבדוק,24,Antimicrobials Intro,ANTI,
+Tetracyclines,"Common outpatient: acne, chlamydia; long-term acne Tx possible",Acne Tx → generally eligible (cosmetic); Active infection → defer until resolved; CI pregnancy = already MDA-deferred,,לבדוק,24,Antimicrobials Intro,ANTI,
+Aminoglycosides,Hospital IV (except neomycin topical); serious infections; teratogen,Hospital Tx = extended deferral; Topical neomycin = no issue,,לבדוק,24,Antimicrobials Intro,ANTI,
+Macrolides,"Very common outpatient (respiratory, H.pylori); safe in pregnancy (Class B)",Active infection → defer until resolved + standard wait; Short-course Azithromycin very common,,לבדוק,24,Antimicrobials Intro,ANTI,
+Chloramphenicol,Rare systemic use; topical (Synthomycin) very common in Israel,Systemic = serious infection → deferral; Topical Synthomycin = no issue for donation,,לבדוק,24,Antimicrobials Intro,ANTI,
+Lincosamides (Clindamycin),Common for dental/skin infections; C.diff risk,Active infection → defer; Topical acne = no issue,,לבדוק,24,Antimicrobials Intro,ANTI,
+Oxazolidinones (Linezolid),Hospital/specialist for resistant infections (VRE/MRSA),Serious infection marker → extended deferral,,לבדוק,24,Antimicrobials Intro,ANTI,
+Fluoroquinolones,"Very common outpatient (UTI, respiratory, prostatitis)",Active infection → defer until resolved + standard wait; Very commonly encountered in donors,,לבדוק,24,Antimicrobials Intro,ANTI,
+Sulfonamides / Cotrimoxazole,"Common outpatient (UTI, respiratory); Sulfasalazine for IBD/RA (chronic)",Active infection → standard deferral; Sulfasalazine = chronic autoimmune condition → check underlying disease,,לבדוק,24,Antimicrobials Intro,ANTI,
+Nitrofurantoin / Methenamine,UTI treatment/prophylaxis; chronic suppressive use possible,Active UTI → defer until resolved; Chronic prophylaxis → ask why (recurrent UTI vs structural issue),,לבדוק,24,Antimicrobials Intro,ANTI,
+ALL ANTIBIOTICS (general),"The INFECTION determines deferral, not the antibiotic itself in most cases",General MDA rule: completed antibiotic course for simple infection → typically eligible after short wait (varies by infection type). Active infection = always defer.,,לבדוק,24,Antimicrobials Intro,ANTI,
+Glycylcyclines (Tigecycline),Hospital IV only; serious/resistant infections; FDA black box re mortality,Hospital drug — not relevant for walk-in donors; indicates serious infection,,לבדוק,25,Antimicrobials Detail,ANTI,
+Streptogramins (Synercid),Hospital IV only; VRE/MRSA — last-resort infections,Hospital drug — not relevant for walk-in donors,,לבדוק,25,Antimicrobials Detail,ANTI,
+Fosfomycin,Common outpatient single-dose UTI treatment; increasingly prescribed,Single-dose UTI Tx → standard infection deferral (short); very likely to see in donors,,לבדוק,25,Antimicrobials Detail,ANTI,
+Additional Cephalosporins (oral Gen I-III),"Very common outpatient: Cephalexin, Cefixime, Cefdinir widely prescribed for respiratory/UTI/skin",Same logic as deck 24 cephalosporins — active infection → defer until resolved + standard wait,,לבדוק,25,Antimicrobials Detail,ANTI,
+Anti-TB drugs (כל הקווים),מחלה זיהומית,"שחפת פעילה = 6-24 חודשי טיפול. המחלה קובעת, לא התרופה. יש לשאול האם טיפול מונע (LTBI) או מחלה פעילה",,לבדוק,27,Anti-TB + Antifungals,ANTI,
+Isoniazid — LTBI מונותרפיה,תרופה — מניעה,"LTBI = לא מדבק, אך ניטור כבד. לשאול: האם שחפת פעילה או לטנטית? האם יש הפטיטיס?",,לבדוק,27,Anti-TB + Antifungals,ANTI,
+Rifampin (מניעת מנינגיטיס),תרופה — מניעה,מניעה post-exposure. הקונטקט בריא. לאחר סיום טיפול קצר — כנראה כשיר,,לבדוק,27,Anti-TB + Antifungals,ANTI,
+"Anti-Leprosy (Clofazimine, Dapsone)",מחלה זיהומית,צרעת = מחלה כרונית. טיפול 6-12 חודשים. Dapsone גורם להמוליזה — ספירות דם. שינוי צבע עור מ-Clofazimine,,לבדוק,27,Anti-TB + Antifungals,ANTI,
+Amphotericin B IV,תרופה — אשפוזית,תרופת אשפוז לזיהומים מסכני חיים. חולים נויטרופניים / מושתלים. המצב הרפואי שולל תרומה,,לבדוק,27,Anti-TB + Antifungals,ANTI,
+Fluconazole / Azoles סיסטמיים,תרופה — בירור,Fluconazole חד-פעמי לקנדידה ווגינלית = כנראה כשיר אחרי סיום. Voriconazole/Posaconazole = זיהום חמור = דחייה ארוכה. לשאול למה?,,לבדוק,27,Anti-TB + Antifungals,ANTI,
+Terbinafine PO (פטרת ציפורניים),תרופה — כרוני,"פטרת ציפורניים = לא מדבק, לא סיסטמי. ייתכן כשיר גם תוך כדי טיפול? רעילות כבד אפשרית — בדיקת תפקודי כבד",,לבדוק,27,Anti-TB + Antifungals,ANTI,
+Griseofulvin PO,תרופה — כרוני,פטרת עור/ציפורניים. משפעל CYP450. בדומה ל-Terbinafine — ייתכן כשיר? לבדוק,,לבדוק,27,Anti-TB + Antifungals,ANTI,
+"Echinocandins IV (Caspofungin, Micafungin, Anidulafungin)",תרופה — אשפוזית,תרופות IV בלבד. קנדידמיה/אספרגילוזיס חודרני. מצב רפואי שולל תרומה,,לבדוק,27,Anti-TB + Antifungals,ANTI,
+Nystatin / Clotrimazole טופיקלי,תרופה — טופיקלי,"טיפול מקומי בפטריה שטחית (פה, עור, ווגינה). לא סיסטמי. שכיח מאוד. כנראה לא מהווה דחייה",,לבדוק,27,Anti-TB + Antifungals,ANTI,
+Flucytosine + AmB (שילוב),תרופה — אשפוזית,קריפטוקוקוס מנינגיטיס / קנדידה סיסטמי. חולים מדוכאי חיסון. מצב רפואי שולל תרומה,,לבדוק,27,Anti-TB + Antifungals,ANTI,
+Dapsone — prophylaxis PCP,תרופה — מניעה,"Dapsone למניעת PCP = סמן לדיכוי חיסוני (AIDS, מושתלים). לשאול למה. Dapsone עצמו גורם המוליזה",,לבדוק,27,Anti-TB + Antifungals,ANTI,
+Bedaquiline / Pretomanid / Delamanid,תרופה — שחפת עמידה,"MDR/XDR-TB = מחלה חמורה, טיפול ארוך, ניטור צמוד. הפרעות QT. המחלה קובעת — לא התרופה",,לבדוק,27,Anti-TB + Antifungals,ANTI,
+"Topical antifungals (Miconazole, Econazole, etc.)",תרופה — טופיקלי,"פטרת עור שטחית. טיפול מקומי. לא משפיע על כשירות תרומה. שכיח מאוד (אגיספור, אגיסטן, דקטרין)",,לבדוק,27,Anti-TB + Antifungals,ANTI,
+Oseltamivir (Tamiflu),תרופה — זיהום אקוטי,שפעת = זיהום אקוטי. דחייה סטנדרטית. לשאול: האם עדיין חולה? חום? אנטיביוטיקה נלווית?,,לבדוק,29,Antivirals,ANTI,
+Acyclovir/Valacyclovir,תרופה — בירור,הרפס חוזר (labialis/genital): טיפול אפיזודי קצר — כנראה כשיר אחרי סיום. פרופילקטי כרוני: לשאול למה (דיכוי חיסוני?),,לבדוק,29,Antivirals,ANTI,
+Ganciclovir/Valganciclovir,תרופה — דיכוי חיסוני,"CMV = סמן לדיכוי חיסוני (AIDS, מושתלים). נויטרופניה. המצב הרפואי קובע",,לבדוק,29,Antivirals,ANTI,
+"Anti-HBV (Entecavir, TAF, Lamivudine)",תרופה — כרוני,הפטיטיס B כרוני = דחייה קבועה מתרומת דם (HBsAg+). בדיקות סרולוגיות. אם רק anti-HBs+ (חיסון) = כשיר,,לבדוק,29,Antivirals,ANTI,
+"DAAs — HCV (Sofosbuvir, Harvoni, Mavyret)",תרופה — כרוני (ריפוי),HCV כרוני היה דחייה קבועה. עם DAAs שיעורי ריפוי >95%. אם SVR (sustained virologic response) = ריפוי. לבדוק מדיניות MDA עדכנית לגבי HCV cured,,לבדוק,29,Antivirals,ANTI,
+Interferon (PEG-IFN),תרופה — בירור,HBV/HCV: ראה M29_04/05. לויקמיה: המחלה קובעת. Kaposi: סמן AIDS,,לבדוק,29,Antivirals,ANTI,
+HIV HAART (כל המשפחות),תרופה — HIV,HIV = דחייה קבועה מתרומת דם. לא משנה סוג התרופה או Viral Load. בדיקת HIV חובה בכל תרומה,,לבדוק,29,Antivirals,ANTI,
+PrEP (Truvada/Descovy/Cabotegravir),תרופה — מניעה,PrEP = אדם HIV-שלילי בסיכון גבוה. לא HIV+. אבל: יש לבדוק האם עדיין שלילי. התנהגות בסיכון עשויה להוות דחייה בפני עצמה. מדיניות MDA?,,לבדוק,29,Antivirals,ANTI,
+PEP (Post-Exposure),תרופה — מניעה,חשיפה לדם/נוזלי גוף. לא HIV+ אך בחלון סרולוגי. לשאול: מתי הייתה החשיפה? האם סיים 28 ימים? בדיקת HIV שלילית?,,לבדוק,29,Antivirals,ANTI,
+Paxlovid (COVID-19),תרופה — זיהום אקוטי,COVID = זיהום אקוטי. דחייה סטנדרטית לזיהום. 5 ימי טיפול. לשאול: סיים טיפול? ללא תסמינים?,,לבדוק,29,Antivirals,ANTI,
+Ribavirin (HCV ישן),תרופה — כרוני,"Ribavirin+INF ל-HCV הוחלף ע""י DAAs. אם עדיין בטיפול: HCV+ = דחייה. Ribavirin גורם אנמיה המוליטית — ספירות!",,לבדוק,29,Antivirals,ANTI,
+Tecovirimat (mpox),תרופה — זיהום אקוטי,Mpox = זיהום ויראלי. דחייה סטנדרטית. לשאול: ללא נגעים? ללא תסמינים?,,לבדוק,29,Antivirals,ANTI,
+"Somatropin / Long-acting GH (F01, F13)",GH therapy indicates underlying pituitary/growth condition; condition determines eligibility,"Somapacitan, Lonapegsomatropin",,לבדוק,30,Pituitary Hormones,ENDO,Children with GHD unlikely to donate. Adults on anti-aging GH = off-label
+Octreotide / Lanreotide / Pasireotide (F02),Acromegaly or neuroendocrine tumors = chronic condition / tumor,Pegvisomant (F03),,לבדוק,30,Pituitary Hormones,ENDO,Pituitary adenoma or carcinoid = likely medical deferral
+GnRH Agonists (F05) — Prostate cancer,Cancer diagnosis = likely deferral regardless of treatment,"Elagolix, Relugolix (F12)",,לבדוק,30,Pituitary Hormones,ENDO,Same for breast cancer with goserelin
+GnRH Agonists (F05) — Endometriosis,Chronic gynecological condition; no infection/hematologic risk from drug itself,Elagolix (F12),,לבדוק,30,Pituitary Hormones,ENDO,Drug is symptomatic; condition severity varies
+"Fertility drugs (F06, F07, F08)",Active IVF cycle: ovarian hyperstimulation risk → temporary defer; post-treatment: standard pregnancy deferral,All gonadotropins,,לבדוק,30,Pituitary Hormones,ENDO,If pregnancy achieved → pregnancy/postpartum deferral applies
+Bromocriptine / Cabergoline (F09),Prolactinoma = pituitary tumor → medical review. Excess lactation = breastfeeding → lactation deferral,—,,לבדוק,30,Pituitary Hormones,ENDO,Cabergoline also used for Parkinson's at higher doses (see deck 08-13)
+Desmopressin (F10),Diabetes insipidus = chronic condition. Also used for von Willebrand disease / mild hemophilia A = coagulation disorder → likely deferral,Terlipressin (different indication),,לבדוק,30,Pituitary Hormones,ENDO,"Enuresis (bedwetting) use = children, not donation-relevant"
+Oxytocin/Pitocin (F11),Labor/delivery context → standard pregnancy/postpartum deferral (6 months post-delivery),—,,לא רלוונטי,30,Pituitary Hormones,ENDO,Hospital drug; donor would be in postpartum period regardless
+Cosyntropin (F04),"Diagnostic use only (ACTH stimulation test) — single dose, no ongoing treatment",—,,לא רלוונטי,30,Pituitary Hormones,ENDO,"The result of the test (Addison's diagnosis) matters, not the test drug"
+Terlipressin (F10),Hepatorenal syndrome = severe liver failure → medical condition precludes donation,Desmopressin (different indication),,לא רלוונטי,30,Pituitary Hormones,ENDO,Hospital ICU drug; patient population would never present for donation
+Levothyroxine (F01),Stable hypothyroidism on T4 replacement = VERY COMMON in donors. Condition well-controlled = likely eligible,"Liothyronine, Liotrix",,לבדוק,31,Thyroid Hormones,ENDO,Eltroxin is one of the most prescribed drugs in Israel. Many healthy donors take it daily. Key question: is condition stable?
+Thioamides — PTU / Methimazole / Carbimazole (F02),Active hyperthyroidism under treatment; drug indicates condition not yet resolved or controlled,All thioamides equivalent for MDA purposes,,לבדוק,31,Thyroid Hormones,ENDO,Agranulocytosis risk (rare but serious) — low WBC could affect donation safety. After treatment ends and levels normalize → may be eligible
+Radioactive Iodine I-131 (F04),Recent I-131 treatment = RADIATION source. Standard radiation deferral period applies,—,,לבדוק,31,Thyroid Hormones,ENDO,Patient becomes radioactive temporarily. Deferral likely 3-6 months minimum. After I-131 → usually hypothyroid → transitions to M01 (levothyroxine)
+"Iodide Salts / β-Blockers for thyroid storm (F03, F05)",Thyroid storm = medical emergency / hospitalization → not a donation candidate,—,,לא רלוונטי,31,Thyroid Hormones,ENDO,Hospital drugs for acute crisis; person would not present for donation during thyroid storm
+Teprotumumab (F06),Active Graves' ophthalmopathy requiring IV biologic treatment → underlying autoimmune condition + immunomodulation,—,,לבדוק,31,Thyroid Hormones,ENDO,New drug (2020); MDA unlikely to have specific criterion yet. Biologic + autoimmune → likely defer during treatment
+Levothyroxine post-thyroid cancer (F01+F04),Thyroid cancer history → cancer deferral rules apply. TSH suppression dose of T4 indicates cancer follow-up,—,,לבדוק,31,Thyroid Hormones,ENDO,Higher T4 dose for TSH suppression (vs replacement dose) may signal cancer history
+Insulin — all types (F01-F04),Insulin use = Type 1 or advanced Type 2. Key concern: HYPOGLYCEMIA risk during/after donation (blood loss lowers glucose further),All insulin preparations,,לבדוק,32,Diabetes Mellitus,ENDO,MDA criteria likely differentiate by diabetes type and control level. Insulin pump users = T1DM marker. Hypoglycemia during donation = safety risk for donor
+Metformin (F07),"MOST COMMON oral DM drug. T2DM on metformin alone = well-controlled, low hypoglycemia risk → likely eligible",—,,לבדוק,32,Diabetes Mellitus,ENDO,Glucophage extremely prevalent in Israel. No hypoglycemia risk from drug itself. Key: is diabetes well-controlled (HbA1c)?
+"Sulfonylureas / Glinides (F05, F06)",Hypoglycemia risk (especially glyburide); blood donation could exacerbate; condition determines eligibility,"Glyburide, Glipizide, Glimepiride, Repaglinide, Nateglinide",,לבדוק,32,Diabetes Mellitus,ENDO,Higher risk than metformin. Donor should have eaten; may need glucose monitoring
+GLP-1 RAs — for diabetes (F11),Diabetes treatment; condition determines. Low hypoglycemia risk. Weight loss is side effect not concern,"Semaglutide, Liraglutide, Dulaglutide, Exenatide, Tirzepatide",,לבדוק,32,Diabetes Mellitus,ENDO,Increasingly common. Same eligibility logic as other T2DM drugs — depends on diabetes control
+"GLP-1 RAs — for OBESITY only (F11, F14)",Wegovy/Saxenda/Zepbound for weight loss in NON-diabetic patients. No diabetes = different eligibility question,"Semaglutide (Wegovy), Liraglutide (Saxenda), Tirzepatide (Zepbound)",,לבדוק,32,Diabetes Mellitus,ENDO,Growing population of non-diabetic users. Drug itself = no hematologic concern. Question: does MDA ask about these?
+SGLT2 Inhibitors (F12),Dual indication: diabetes AND heart failure/CKD (xref deck 21). For DM = condition eligibility. For HF = cardiac deferral,"Canagliflozin, Dapagliflozin, Empagliflozin",,לבדוק,32,Diabetes Mellitus,ENDO,Important to ask WHY the donor takes it — DM vs HF vs CKD. Different deferral logic
+DPP-4 inhibitors / Alpha-glucosidase inh / TZDs (F08-F10),All indicate Type 2 DM treatment; no direct hematologic concern from drugs; diabetes control is key,All oral T2DM agents,,לבדוק,32,Diabetes Mellitus,ENDO,"Lower risk profile than insulin/sulfonylureas. Condition-based deferral, not drug-based"
+"Diabetes complications (retinopathy, nephropathy, neuropathy)",Advanced complications may indicate poorly controlled DM or end-organ damage → medical review,—,,לבדוק,32,Diabetes Mellitus,ENDO,Donor with known complications likely has advanced disease. CKD stage affects overall eligibility
+Ethinyl estradiol (OC),לבדוק — גלולות למניעת הריון,"All combined OCs, progestin-only pills",Y,,33,Gonadal Hormones,ENDO,Very common among female donors; OCs likely no deferral if stable. Check MDA criteria for specific contraceptive types
+Tamoxifen,לבדוק — סרטן שד,"Toremifene, Raloxifene, Anastrozole, Letrozole, Fulvestrant",Y,,33,Gonadal Hormones,ENDO,"Breast cancer treatment → likely permanent deferral by condition, not by drug"
+Clomiphene,לבדוק — טיפולי פוריות,"GnRH agonists, gonadotropins",Y,,33,Gonadal Hormones,ENDO,"Infertility treatment; donor likely deferred by condition/procedure (IVF, pregnancy attempt)"
+Mifepristone,לבדוק — הפלה,Ulipristal (EC context only),Y,,33,Gonadal Hormones,ENDO,Medical abortion → deferral period after procedure. Emergency contraception (ulipristal) different context
+Testosterone,לבדוק — טסטוסטרון / סטרואידים אנבוליים,"T-cypionate, T-enanthate, Fluoxymesterone, Oxandrolone",Y,,33,Gonadal Hormones,ENDO,Hypogonadism replacement may be eligible; anabolic abuse/performance → likely deferral. IM injections → check needle sharing
+Finasteride,לבדוק — פינסטריד / BPH / התקרחות,Dutasteride,Y,,33,Gonadal Hormones,ENDO,Known deferral in some blood banks due to teratogenicity risk (pregnant woman receiving blood). Check MDA specific criteria
+Danazol,לבדוק — אנדומטריוזיס / סרטן שד,Progestins (for endometriosis),Y,,33,Gonadal Hormones,ENDO,"Deferral likely by condition (endometriosis, breast cancer) rather than by drug"
+Enzalutamide,לבדוק — סרטן ערמונית,"Apalutamide, Darolutamide, Abiraterone, Flutamide, Bicalutamide",Y,,33,Gonadal Hormones,ENDO,Prostate cancer → likely permanent deferral by condition
+Leuprolide (xref),לבדוק — xref deck 30,All GnRH agonists,Y,,33,Gonadal Hormones,ENDO,Cross-ref to deck 30; used in prostate cancer + endometriosis + precocious puberty
+Medroxyprogesterone (Depo-Provera),לבדוק — מניעת הריון בזריקה,Etonogestrel implant,Y,,33,Gonadal Hormones,ENDO,IM injection every 3 months; check injection-related deferral + contraceptive criteria
+Prednisone / Prednisolone,לבדוק — סטרואידים (קורטיקוסטרואידים),"All systemic GCs: hydrocortisone, methylprednisolone, dexamethasone, betamethasone",Y,,34,Adrenocorticosteroids,ENDO,VERY common. Key question: WHY is donor taking steroids? The underlying condition often determines eligibility more than the drug itself. Chronic high-dose → immunosuppression concern
+Dexamethasone,לבדוק — סטרואידים (קורטיקוסטרואידים),"Betamethasone, methylprednisolone",Y,,34,Adrenocorticosteroids,ENDO,"Used in COVID-19 (2020 onward); also cerebral edema, chemotherapy antiemetic. Short courses may be eligible"
+"Inhaled GCs (beclomethasone, budesonide, fluticasone)",לבדוק — סטרואידים בשאיפה / אסטמה,"All inhaled GCs: ciclesonide, mometasone, flunisolide",Y,,34,Adrenocorticosteroids,ENDO,"Inhaled GCs for stable asthma = very common, minimal systemic effect. Likely eligible if asthma well-controlled"
+"Topical GCs (hydrocortisone cream, betamethasone cream)",לבדוק — סטרואידים טופיקליים,All topical GC creams/ointments,Y,,34,Adrenocorticosteroids,ENDO,OTC topical hydrocortisone very common; minimal systemic absorption. Likely eligible unless severe skin condition
+Fludrocortisone,לבדוק — אי-ספיקת אדרנל / אדיסון,Hydrocortisone (replacement),Y,,34,Adrenocorticosteroids,ENDO,Addison's disease = chronic condition requiring lifelong replacement. Eligibility depends on disease stability
+Spironolactone,לבדוק — ספירונולקטון / משתנים,"Eplerenone, Finerenone",Y,,34,Adrenocorticosteroids,ENDO,"Multiple indications: HF, HTN, hirsutism, hyperaldosteronism. xref→decks 19/20/21. Eligibility depends on underlying condition"
+Ketoconazole (for Cushing's),לבדוק — קושינג,"Osilodrostat, Metyrapone",Y,,34,Adrenocorticosteroids,ENDO,Cushing's = serious condition → likely deferral by condition. Also xref→deck 27 as antifungal (different context)
+ALL CYTOTOXIC CHEMOTHERAPY,לבדוק — סרטן פעיל / כמותרפיה,All cytotoxic agents,Y,,35,Anti-Cancer Drugs,ONCO,"Cancer = almost always PERMANENT DEFERRAL by condition. Active chemo = absolute deferral (myelosuppression, immune compromise). This is the single most important MDA rule for this entire deck"
+"Methotrexate (low-dose, for RA/psoriasis)",לבדוק — מתוטרקסט במינון נמוך,Leflunomide (xref deck 18),Y,,35,Anti-Cancer Drugs,ONCO,Low-dose MTX for autoimmune conditions is DIFFERENT from cancer doses. Common in RA/psoriasis. Eligibility depends on underlying condition + immunosuppression level
+Tamoxifen / Anastrozole (breast cancer survivors),לבדוק — סרטן שד (מחלימים),"All hormonal agents: letrozole, fulvestrant, exemestane + CDK4/6i",Y,,35,Anti-Cancer Drugs,ONCO,IMPORTANT for MDA: Many breast cancer survivors take hormonal therapy for 5-10 YEARS after treatment. They may present as healthy donors. Need clear policy on cancer survivors + ongoing hormonal therapy
+"Checkpoint inhibitors (pembrolizumab, nivolumab)",לבדוק — אימונותרפיה לסרטן,All PD-1/PD-L1/CTLA-4 inhibitors,Y,,35,Anti-Cancer Drugs,ONCO,Immunotherapy can produce long-term remissions. Growing population of 'cancer-free' patients still on maintenance immunotherapy. Immune-related AEs may affect multiple organs
+Imatinib / CML patients,לבדוק — CML / מעכבי קינאז,All BCR-ABL TKIs,Y,,35,Anti-Cancer Drugs,ONCO,CML patients on imatinib can have normal life expectancy and feel healthy. They may present as donors. Lifetime oral medication. Need MDA policy clarity
+Cyclophosphamide (for autoimmune),לבדוק — ציקלופוספמיד (מחלות אוטואימוניות),Other immunosuppressants (xref deck 18),Y,,35,Anti-Cancer Drugs,ONCO,"Cyclophosphamide sometimes used for severe RA, SLE, vasculitis — NOT cancer. Different deferral logic than cancer use"
+Ondansetron (Zofran),לבדוק — אונדנסטרון (נוגד הקאה),All 5-HT3 antagonists,Y,,35,Anti-Cancer Drugs,ONCO,"Also used outside oncology: post-operative nausea, pregnancy nausea. If donor takes ondansetron, ask WHY — could be benign use"
+Digoxin / Digitoxin,לבדוק — אי ספיקת לב,All cardiac glycosides,Y,לבדוק,21,Heart Failure,CV,HF patients unlikely to donate (condition-based deferral). Narrow therapeutic index drug
+Milrinone,לבדוק — אי ספיקת לב אקוטית,PDE3 inhibitors,Y,לבדוק,21,Heart Failure,CV,IV-only drug = hospitalized patient = not a donor scenario
