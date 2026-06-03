@@ -8520,6 +8520,51 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 });
 
+// === URL-param debug hook (for audit screenshots) ===========================
+// Safe-by-construction: every input is whitelisted; values are only ever
+// passed to existing app functions (setLang / setPage / goStep) or used to
+// add a fixed class name. No string is ever interpolated into HTML / DOM /
+// eval. If a value is not in the whitelist, it is silently ignored.
+//
+//   ?lang=he|en|ru|ar_spoken|am     -> setLang(lang)
+//   ?dark=1                          -> body.classList.add('dark-mode')
+//   ?page=welcome|search|info|form|guide|questionnaire   -> setPage(page)
+//   ?step=1..6                       -> goStep(step)
+//
+// Combined example:
+//   ?lang=en&dark=1&page=info
+//   ?lang=he&step=3
+(function applyDebugUrlState() {
+  document.addEventListener('DOMContentLoaded', function() {
+    try {
+      var p = new URLSearchParams(window.location.search);
+
+      var ALLOWED_LANGS = ['he', 'en', 'ru', 'ar_spoken', 'am'];
+      var lang = p.get('lang');
+      if (lang && ALLOWED_LANGS.indexOf(lang) !== -1 && typeof setLang === 'function') {
+        setLang(lang);
+      }
+
+      if (p.get('dark') === '1') {
+        document.body.classList.add('dark-mode');
+        var dbtn = document.getElementById('darkToggle');
+        if (dbtn) dbtn.textContent = '☀️';
+      }
+
+      var ALLOWED_PAGES = ['welcome', 'search', 'info', 'form', 'guide', 'questionnaire'];
+      var page = p.get('page');
+      if (page && ALLOWED_PAGES.indexOf(page) !== -1 && typeof setPage === 'function') {
+        setPage(page);
+      }
+
+      var step = parseInt(p.get('step'), 10);
+      if (step >= 1 && step <= 6 && typeof goStep === 'function') {
+        goStep(step);
+      }
+    } catch (e) { /* never break the app */ }
+  });
+})();
+
 function buildLangDropdown() {
   const sel = document.getElementById('langSelect');
   sel.innerHTML = '';
@@ -16083,7 +16128,7 @@ function qzScreenSummary() {
 
 </script>
 <footer class="app-footer">
-  v0.4.6 &middot; <a href="https://github.com/zbidav/blood-donation-app" target="_blank" rel="noopener">GitHub</a>
+  v0.4.7 &middot; <a href="https://github.com/zbidav/blood-donation-app" target="_blank" rel="noopener">GitHub</a>
 </footer>
 
 </body>
