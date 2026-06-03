@@ -2860,11 +2860,13 @@ body.dark-mode .drug-guide-note { background: var(--gray-200); border-color: var
 /* Desktop / wide-screen optimization: larger type + wider centered content.
    All 246 rem-based font-sizes scale up via html font-size; layout stays the same. */
 @media (min-width: 900px) {
-  html { font-size: 18px; }
-  .header-inner,
-  .page-tabs,
-  .page-view { max-width: 1200px; margin-inline: auto; }
-  .page-view { padding-inline: 1.5rem; }
+  html:not(.force-phone-mode) { font-size: 18px; }
+  html:not(.force-phone-mode) .header-inner,
+  html:not(.force-phone-mode) .page-tabs,
+  html:not(.force-phone-mode) .page-view { max-width: 1200px; margin-inline: auto; }
+  html:not(.force-phone-mode) .page-view { padding-inline: 1.5rem; }
+  html:not(.force-phone-mode) .donor-notice { max-width: 760px; }
+  html:not(.force-phone-mode) .header-title .title-br { display: none; }
 }
 
 /* App footer with version + GitHub link */
@@ -3562,6 +3564,7 @@ body.dark-mode .qz-chip.red { background: #3a1515; border-color: #5a2020; color:
     </div>
     <div class="header-controls">
       <button class="dark-toggle" id="darkToggle" onclick="toggleDark()" title="Dark mode" style="font-size:0.9rem;padding:0.2rem 0.4rem;">🌙</button>
+        <button class="dark-toggle" id="viewToggle" onclick="toggleView()" title="Switch desktop / phone view" style="font-size:0.9rem;padding:0.2rem 0.4rem;">📱</button>
       <div class="lang-selector-wrap">
         <select class="lang-selector" id="langSelect" onchange="setLang(this.value)">
         </select>
@@ -8478,6 +8481,30 @@ function toggleDark() {
   if (btn) btn.textContent = body.classList.contains('dark-mode') ? '☀️' : '🌙';
 }
 
+function toggleView() {
+  const html = document.documentElement;
+  html.classList.toggle('force-phone-mode');
+  const isPhone = html.classList.contains('force-phone-mode');
+  try { localStorage.setItem('viewMode', isPhone ? 'phone' : 'desktop'); } catch (e) {}
+  const btn = document.getElementById('viewToggle');
+  if (btn) btn.textContent = isPhone ? '🖥️' : '📱';
+}
+// Apply saved view-mode preference as early as possible (className on <html>).
+(function initViewMode() {
+  try {
+    if (localStorage.getItem('viewMode') === 'phone') {
+      document.documentElement.classList.add('force-phone-mode');
+    }
+  } catch (e) {}
+})();
+// After DOM ready, update the toggle button icon to match the current state.
+document.addEventListener('DOMContentLoaded', function() {
+  const btn = document.getElementById('viewToggle');
+  if (btn && document.documentElement.classList.contains('force-phone-mode')) {
+    btn.textContent = '🖥️';
+  }
+});
+
 function buildLangDropdown() {
   const sel = document.getElementById('langSelect');
   sel.innerHTML = '';
@@ -8502,7 +8529,7 @@ function setLang(lang) {
   buildLangDropdown();
 
   const ui = UI[currentLang] || UI.en;
-  document.getElementById('headerText').innerHTML = (ui.headerText || '').replace(' ', '<br>');
+  document.getElementById('headerText').innerHTML = (ui.headerText || '').replace(' ', '<br class="title-br"> ');
   document.getElementById('searchInput').placeholder = ui.placeholder;
   document.getElementById('filterAll').textContent = ui.filterAll;
   document.getElementById('filterMed').textContent = ui.filterMed;
@@ -16041,7 +16068,7 @@ function qzScreenSummary() {
 
 </script>
 <footer class="app-footer">
-  v0.4.4 &middot; <a href="https://github.com/zbidav/blood-donation-app" target="_blank" rel="noopener">GitHub</a>
+  v0.4.5 &middot; <a href="https://github.com/zbidav/blood-donation-app" target="_blank" rel="noopener">GitHub</a>
 </footer>
 
 </body>
