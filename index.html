@@ -2865,8 +2865,23 @@ body.dark-mode .drug-guide-note { background: var(--gray-200); border-color: var
   html:not(.force-phone-mode) .page-tabs,
   html:not(.force-phone-mode) .page-view { max-width: 1200px; margin-inline: auto; }
   html:not(.force-phone-mode) .page-view { padding-inline: 1.5rem; }
-  html:not(.force-phone-mode) .donor-notice { max-width: 760px; }
+  html:not(.force-phone-mode) .donor-notice { max-width: 820px; }
+  html:not(.force-phone-mode) .ws-disclaimer { max-width: 900px; }
   html:not(.force-phone-mode) .header-title .title-br { display: none; }
+  /* Welcome action buttons: row layout on wide screens */
+  html:not(.force-phone-mode) .ws-btn-row {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 1100px;
+    gap: 0.75rem;
+  }
+  /* Questionnaire button wrapper stays on its own line below */
+  html:not(.force-phone-mode) .ws-btn-row > div {
+    flex-basis: 100%;
+    text-align: center;
+  }
 }
 
 /* App footer with version + GitHub link */
@@ -16068,7 +16083,7 @@ function qzScreenSummary() {
 
 </script>
 <footer class="app-footer">
-  v0.4.5 &middot; <a href="https://github.com/zbidav/blood-donation-app" target="_blank" rel="noopener">GitHub</a>
+  v0.4.6 &middot; <a href="https://github.com/zbidav/blood-donation-app" target="_blank" rel="noopener">GitHub</a>
 </footer>
 
 </body>
